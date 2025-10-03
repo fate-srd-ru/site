@@ -1,17 +1,25 @@
 ---
-title: My Site
-toc: false
+date: '2025-10-03T17:46:11+02:00'
+draft: true
+title: ' '
+breadcrumbs: false
+cascade:
+  type: docs
 ---
+## Что это за сайт?
 
-This is the landing page.
+Системный справочный документ (SRD) по настольной ролевой игре Fate — все корники по лучшему нарративному лайтрулу в удобном формате. Есть поиск для быстрого поиска контента, можно кидать страницы в закладки и даже смотреть с телефона.
 
-## Explore
+Сайт делаем с упором на скорость и доступность, так что тут всё статичное :)
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
+## Как пользоваться?
 
-## Documentation
+Вон там слева все корники на текущий момент, чекайте.
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+## Интересно, что у нас тут под капотом?
+
+Там вон справа сверху ссылка на организацию Fate SRD RU на Github, можете глянуть весь код.
+
+Вкратце: берём Markdown (тот же, что и в Obsidian) и кидаем в Hugo — он всё хранит и билдит.
+
+
