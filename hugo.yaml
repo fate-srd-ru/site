@@ -21,6 +21,6 @@ params:
     logo:
       path: images/logo.svg
       dark: images/logo-dark.svg
-      link: /
+      link: /site/
       width: 80
       height: 40
