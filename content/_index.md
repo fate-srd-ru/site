@@ -18,6 +18,15 @@ cascade:
 
 Там вон справа сверху ссылка на организацию Fate SRD RU на Github, можете глянуть весь код.
 
-Вкратце: берём Markdown (тот же, что и в Obsidian) и кидаем в Hugo — он всё хранит и билдит.
+Вкратце: берём Markdown (тот же, что и в Obsidian) и кидаем в Hugo — он всё хранит и билдит. За красивый фронт отвечает Hextra.
 
+## Копирайты
+
+> This work is based on Fate Core System and Fate Accelerated Edition, products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license.
+
+> Fate™ is a trademark of Evil Hat Productions, LLC. The Powered by Fate logo is © Evil Hat Productions, LLC and is used with permission.
+
+> The Fate Core font is © Evil Hat Productions, LLC and is used with permission. The Four Actions icons were designed by Jeremy Keller.
+
+> This work is based on Fate Condensed (found at https://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by PK Sullivan, Lara Turner, Fred Hicks, Richard Bellingham, Robert Hanz, and Sophie Lagacé, and licensed for our use under the Creative Commons Attribution 3.0 Unported license.
 

@@ -3,188 +3,98 @@ title: 'Книга Ханца'
 breadcrumbs: false
 ---
 
-Collected by Tomasius Padeliensis. V01.00, Sept. 9, 2013
+> [!NOTE]
+> Collected by Tomasius Padeliensis. V01.00, Sept. 9, 2013. Formatted for the web by Rex Francis March 15, 2019
 
-Formatted for the web by Rex Francis March 15, 2019
+> © 2013 Evil Hat Productions, LLC. © ИП Персикова Тамара Эдуардовна. Все права защищены. Перевод Книги Ханца доступен по лицензии Creative Commons Attribution-ShareAlike 3.0 Unported license (https://creativecommons.org/licenses/by-sa/3.0/).
 
-## What\'s Fate? {#what-s-fate-}
+## Что такое Fate?
 
-A few posts have got me thinking about this, and it\'s a thought that\'s
-been in my head for a while in other ways -mostly around the whole \"if
-you\'re hacking, what are the \'safer\' things to hack, and at what
-point are you mucking with the base assumptions of the system?\" Much
-like Ryan Macklin\'s post, I tend to think of Fate as being a specific
-game, that does specific things. It can cover a wide variety of
-settings, but it does so in a very Fate-like way. There\'s things Fate
-is super-awesome at, and things that Fate isn\'t super-awesome at. When
-I want to do something that Fate isn\'t super-awesome at, I tend to just
-pull out a game that is super-awesome at that.
+Я всеръёз задумался об этом, прочитав несколько постов, однако до того момента эта мысль вертелась у меня в голове по ряду других причин — в первую очередь в связи с вопросом «Если вы делаете хаки, что является «безопасным» хаком, а что — уже глубоким вмешательством в основополагающие принципы системы?». Я согласен с мыслью, которую ранее уже изложил Райан Маклин: Fate — очень специфическая игра со специфическими особенностями. В неё можно вписать множество различных сеттингов, однако в её рамках все они будут вести себя очень «по-фейтовски». Есть задачи, с которыми Fate справляется очень хорошо, и есть задачи, с которыми — не очень. Если я хочу провести игру, для которой Fate не очень подходит, я выберу более подходящую систему.
 
-I don\'t consider that a negative on Fate in any way. I have a Jeep
-Wrangler. It\'s good at some things (transportation), awesome at other
-things (off-roading), and absolutely sucky at certain things (hauling
-lots of things, carrying lots of people, going fast). And making my
-Wrangler better at those things would almost necessarily make it worse
-at the things it does really well right now.
+Я ни в коей мере не считаю это отрицательной чертой Fate. У меня есть Jeep Wrangler. Эта машина хорошо справляется с одними задачами (перевозки грузов), великолепно — с другими (езда по бездорожью) и абсолютно отвратительно — с третьими (перевозки больших объёмов груза, нескольких пассажиров или быстрая езда). И попытки подтянуть производительность Wrangler в этих вопросах наверняка ухудшат его эффективность относительно того, что сейчас он делает замечательно.
 
-So I don\'t use Fate to play D&D. I might use Fate to run a game in a
-D&D setting, but I don\'t think it would feel much like the D&D game
--I\'ve previously described what I think it would be as more like \"D&D:
-The Movie: The Game\" (no, not the horrible movie, but an imaginary good
-one).
+Поэтому, например, я не буду использовать Fate для игры в D&D. Возможно, когда-нибудь мне захочется провести игру по правилам Fate в сеттинге D&D, но не думаю, что впечатления от этой игры будут схожи с впечатлениями от игры по правилам D&D — подобный опыт я раньше описывал как «игра в экранизацию D&D» (нет, не в убогий существующий фильм, а в гипотетический хороший).
 
-Yeah, I could hack Fate enough to run a passable \"D&D game\", but would
-it still be Fate in any recognizable way? I don\'t think it would,
-because the core questions and assumptions of D&D are very different
-than those of Fate. Which, again, isn\'t a knock on Fate or on D&D, much
-like saying that my Wrangler isn\'t as fast as a Ferrari isn\'t a knock
-on my Wrangler.
+Конечно, я мог бы хакнуть Fate настолько, чтобы игра в него могла бы сойти за «игру в D&D», но разве после такого в этом хаке останется что-то от Fate?
 
-So, what are the things that I consider to be \"Fate\"? Not as some kind
-of purity test, but rather as a more general gauge -if I see a Fate
-build that hits 95% of these, it\'ll probably \"feel like\" Fate to me.
-But if I see something that\'s ostensibly Fate that only hits 10% of
-things, it probably won\'t push those Fate buttons very well.
+Не думаю, потому что основные цели, поставленные вопросы и понятия D&D очень сильно отличаются от Fate. Что, опять же, не является камнем в огород Fate или D&D, равно как и не будет оскорблением для моего Wrangler сказать, что он медленнее Ferrari.
 
-### Proactive Characters
+Итак, что же за вещи я считаю основополагающими для Fate? Это не какая-то лакмусовая бумажка для проверки настоящий/не настоящий, скорее просто набор общих идей: если я вижу, что хак Fate подпадает под 95% этих пунктов, то на мой вкус он, вероятно, покажется достаточно «фэйтовым». Однако если мне попадётся хак, отмеченный логотипом Fate, но совпадающий дай бог с 10% пунктов этого списка, не думаю, что я смогу ощутить в нём достаточно того, что ожидаю от Fate.
 
-This is, to me, one of the biggest. Fate characters are proactive. They
-make things happen. The game progresses as a result of their actions.
+### Проактивные персонажи
 
-This seems like all games, but it\'s really not -it\'s an argument that
-railroading doesn\'t belong in Fate games. If you know what\'s going to
-happen, then at some level the characters aren\'t proactive. They\'re
-just looking for the magic \"next scene\" button. They have no real
-agency. And some games and styles are built heavily upon this kind of
-game structure. Which is fine -I just don\'t necessarily think it\'s a
-good fit for Fate.
+Для меня это один из важнейших показателей. Персонажи Fate проактивны.
 
-It also makes it a good question whether investigation-based games are a
-super-awesome fit for Fate, either. Investigation-based games are
-usually about following the breadcrumb that is left, which is often not
-very proactive on the part of the players. It also makes the level of
-narrative control that Fate gives players somewhat problematic.
+Благодаря их действиям случаются события и продвигается игра.
 
-### Competent Characters
+На первый взгляд это покажется элементом любой игры, но на деле это не так: в первую очередь я хочу донести, что в играх по Fate нет места рельсам.
 
-Fate characters are competent. They\'re good at stuff. Maybe not the
-best in the world, but whatever they\'re good at, they\'re good at it.
-They\'re not bumbling amateurs.
+Если вы знаете наверняка, что произойдёт дальше, то это флажок: персонажи недостаточно проактивны. Они просто ищут волшебную кнопку «смена декораций, переход к следующей сцене». При этом некоторые игры или стили ведущих полагаются именно на такую форму построения сюжета. Это не плохо, но, мне кажется, не очень уместно в Fate.
 
-### Skills, Aspects, Compels, Invokes
+Это также поднимает хороший вопрос — насколько Fate подходит для детективных сюжетов? Обычно они вертятся вокруг расследования одной зацепки, что редко предполагает большую проактивность игроков. Кроме того, в этих сюжетах у мастера могут возникнуть проблемы из-за того, что Fate предоставляет игрокам некоторые возможности влиять на нарратив.
 
-To me, this is the core of Fate. You can get rid of stunts and still
-have it \"feel like\" Fate, but if these four elements don\'t work more
-or less how they do in Core, it doesn\'t feel much like Fate to me.
+### Компетентные персонажи
 
-### The Phase Trio
+Персонажи Fate компетентны. Они знают своё дело. Может, они и не мастера мирового класса, но если они что-то умеют, то умеют это хорошо. Среди них нет неуверенных в себе неумех-новичков.
 
-This has been around, and almost unchanged, since SotC. It works, and
-how it generates interlinked characters is, to me, a pretty important
-part of the Fate experience.
+### Навыки, аспекты, призывы, навязывания
 
-Lack of character optimization.
+Для меня это — самая суть Fate. Можно, например, избавиться от трюков, и тогда игра всё ещё будет ощущаться как Fate, но если эти четыре элемента не будут работать так, как описано в Core, игра вряд ли покажется мне Fate.
 
-As a game, Fate seems to almost go out of its way to minimize character
-optimization. Discussion of what stunts do is directly opposed to the
-idea of
+### Три фазы
 
-\"hey, let me find the combination of stuff that makes me awesome\", as
-a general table veto is built into the process.
+Этот элемент был введён ещё в Spirit of the Century и с тех пор оставался практически неизменным. Он хорошо справляется со своим назначением, и то, как через него можно создавать взаимосвязанных персонажей, кажется мне очень важным элементом игры в Fate.
 
-### \"Final\" skills
+### Отсутствие оптимизации персонажей
 
-One of the things I really appreciate about Fate is the idea that skills
-represent your final ability to influence a scene -not your base ability
-that\'s then modified by a gazillion other factors. This ties in pretty
-heavily with the charop point above.
+С точки зрения правил Fate старательно сводит к минимуму оптимизацию персонажей. Обсуждение эффектов трюков между игроками по сути своей противоречит идее «эй, дай-ка я найду сочетание опций, которое сделает моего персонажа самым крутым», потому что при взаимном согласии между игроками самопроизвольно формируется запрет на пауэргейминг.
 
-### Lack of emphasis on system mastery
+### «Законченность» навыков
 
-Fate is, to me, not a game about learning to manipulate the game system.
-It\'s a game about the fiction (as in, the stuff we\'re imagining in our
-heads), not the rules. The rules get out of the way more than anything,
-and it\'s hard to have system mastery be important if you\'re trying to
-de-emphasize the system.
+Мне очень нравится, что в Fate навыки отражают итоговую возможность персонажа повлиять на сцену, а не базовую способность, относительно которой потом надо будет учитывать целую прорву факторов и модификаторов. Эта особенность связана с пунктом выше об отсутствии оптимизации.
 
-Attempts to make Fate \"crunchy\" (that is, to make system mastery a
-more important thing) to me make games feel less like Fate.
+### Отсутствие фокуса на знании системы
 
-### Branches, not gates
+Я не считаю Fate игрой, построенной вокруг умения манипулировать системой. Это игра о воображении (то есть о том, что мы придумываем у себя в головах), а не о своде правил. Правила предполагают возможность пренебрегать ими в угоду сюжета, и без толку делать значимым знание системы, когда на самой системе изначально не сделано акцента.
 
-Scenes in Fate games to me work best as a series of possible branches.
-They\'re not challenges to be overcome. If there\'s a 95% chance of
-success at no cost, there\'s no real point in having a scene.
+Попытки добавить в Fate больше «цифр» (иначе говоря — поднять порог знания системы) кажутся мне отходящими от идей Fate.
 
-### Focus on opportunity cost
+### Развилки, не тоннели
 
-This is a big one to me. Unlike games that focus on system mastery and
-overcoming challenges, Fate to me works best when opportunity cost is
-shoved in the players\' faces. That\'s a question that appears over and
-over in Fate -spending Fate points to buy a victory, success at a cost,
-accepting Compels -all of these point directly at the idea of \"how much
-do you want this, and what are you willing to give up to get it?\"
+Мне кажется, что сцены в Fate лучше всего работают как последовательные ветвящиеся развилки. Если в сцене можно безболезненно преуспеть с вероятностью 95%, то какой вообще был смысл делать сцену?
 
-If a Fate game de-emphasizes this, to me it starts to feel less like
-Fate. Hacks to Fate that do things like require the pre-spending of Fate
-Points or the like feel less-\"Fate\" to me.
+### Акцент на цене возможностей
 
-### A focus on what\'s important in the story, not modeling reality {#a-focus-on-what-s-important-in-the-story-not-modeling-reality}
+Очень важный элемент. В отличие от игр, строящихся на знании системы и преодолении препятствий, Fate лучше всего работает, когда игрокам прямо заявляют, чего им придётся лишиться ради своих целей. В Fate этот вопрос поднимается неоднократно: трата жетонов судьбы в погоне за победой, успех дорогой ценой, принятие навязываний — эти элементы приводят к вопросу: «Насколько ты этого хочешь, и чем ты готов пожертвовать, чтобы этого достичь?» Если хак обесценивает этот вопрос, то мне кажется, что это отходит от задумки Fate. Менее «фэйтовыми» кажутся мне и хаки, в которых от игроков требуется заблаговременно тратить жетоны судьбы и т.д.
 
-If you think on most fiction, the weapon that a given combatant uses
-isn\'t particularly relevant most of the time. The fact that someone
-uses an axe vs. a sword isn\'t going to mean that they lose in a scene.
-Sure, there are special pieces of equipment, but they tend to be just
-that -special. To me, a good Fate game approaches its systems in that
-way -what\'s actually important, in this genre? Do characters tend to
-lose fights because they\'re not armed with bigger weapons or sturdier
-armor? If not, then that shouldn\'t be how your game models it, either.
+### Акцент на сюжете, а не моделировании реальности
 
-A good example of this is thinking about mecha. How many stats should a
-mech have, and how much of its combat ability should be based on it
-instead of its pilot? And that boils down to -\'what story are you
-telling\'? If it\'s about the pilot, and a good pilot in a weak or
-mediocre mecha can still be an effective combatant, then the mecha
-should only have a modifying impact on the pilot\'s skills, and the
-story will focus around the pilots. But if the story should focus around
-the attainment of awesome mecha, then they should have a larger impact.
-It\'s not a matter of what\'s \"realistic\". It\'s a matter of \"what
-impact does this have on the game, and what elements do I want to be
-important in the game?\"
+Задумайтесь о фантастике — чаще всего там не играет роли, например, каким оружием пользуется конкретный участник битвы. То, что противники скрести ли в поединке меч и топор, вряд ли повлияет на то, кто из них потерпит поражение в сцене. Разумеется, есть особенные экземпляры оружия или снаряжения, но в этом и суть — они особенные. Я считаю, что хороший игровой мир Fate подходит к своим системам следующим образом: что важно для жанра, которого планируется придерживаться при игре? Персонажи проигрывают в схватках из-за того, что у них недостаточно большие пушки или недостаточно крепкая броня? Если суть не в этом, то и системы правил должны адресовать этот вопрос соответственно.
 
-### Active instead of passive bonuses
+Хороший пример: робот-мех. Сколько характеристик должно быть у меха, и сколько его огневой мощи зависит от параметров робота, а не от навыков пилота? Эти вопросы сводятся к одному: «О чём ваша история»?
 
-A big thing with Fate, to me, is the idea that most bonuses are active
--they\'re the result of things that you do. This fits in with the
-\"proactive\" part of characters as well. This compares to other games
-where much of the game is focused on \"how many bonuses can I find a way
-to make apply?\" That can be a great type of game -but it ain\'t (to me)
-Fate.
+Если в центре внимания — пилоты, и умелый пилот может задать врагам жару даже за штурвалом второсортного меха, то показатели меха должны лишь косвенно сказываться на навыках пилота, а история — фокусироваться на достижениях пилотов. Однако если в центре сюжета поиски и получение первоклассных меха, то параметры роботов должны иметь в системе больший вес.
 
-### Skills tied to results, not actions
+Здесь играет роль не «реализм». Главное тут — какое влияние этот элемент оказывает на игру, и на каких элементах в игре я хочу сделать акцент?
 
-Another biggie. In many games, using a skill means you\'re engaging in a
-specific task that may have a variable result. In Fate, I see it more as
-\"I\'m
+### Активные бонусы вместо пассивных
 
-trying to accomplish this -do I succeed?\" It seems subtle, but it\'s a
-pretty important point, and colors how a lot of mechanics get applied.
+Я считаю очень важным факт, что в Fate большинство бонусов активные — они являются следствием того, что делают персонажи. Это хорошо вяжется с пунктом о проактивности героев Fate. Сравните это с другими играми, где значительная часть игрового процесса заключается в вопросе: «Сколько из доступных мне бонусов я смогу применить в данной ситуации?» Есть немало отличных игр с таким принципом, но это ставит их отдельно от Fate.
 
-### Bell curve results
+### Навыки связаны с результатами, а не с действиями
 
-Fate uses a randomization scheme that is heavily biased towards
-\"average\" results. It doesn\'t use a flat distribution. How that is
-specifically achieved, or exactly how biased it is, is somewhat more
-open -but a flat distribution doesn\'t feel like Fate to me.
+Это тоже важно. Во многих играх, применяя навык, персонаж совершает действие, результат которого будет размытым в зависимости от итога броска.
 
-Anyway, those are the main things I can think of, at least for now. I\'m
-sure I\'ll add more later!
+В Fate порядок применения навыков кажется мне следующим: «Я пытаюсь добиться этого результата, у меня получается?» Разница может показаться несущественной, но это очень важный пункт, который сказывается на формулировке и применении многих правил и механик.
 
-And these are just my opinions. They\'re not the word of God, and others
-will absolutely have different lists, and even things that they think I
-just got totally wrong. But, to me, this is kind of the core of what I
-consider to be \"Fate\" -and, if you look at it, a good predictor of
-what games I\'ll generally say don\'t feel \"Fate-like\" to me.
+### Колоколообразная кривая результатов
+
+Fate следует системе случайных значений, склонной в сторону «усреднённых» результатов. Здесь не используется равномерное распределение величин. Как это достигается, и насколько сильно система предрасположена к средним значениям, уже подлежит обсуждению — но равномерное распределение величин кажется мне неуместным в рамках Fate.
+
+Итак, выше я перечислил основные моменты, пришедшие мне в голову на данный момент. Уверен, что позже я смогу пополнить список!
+
+И да, это исключительно мои мнения. Они не являются непреложными истинами, и у каждого будут собственные списки пунктов. Каждый может не согласиться с тем, что я здесь написал. Однако я считаю описанные выше элементы ключевыми для моего понимания системы Fate — и, если сверяться с этим списком, то нетрудно будет делать выводы, какие игры мне покажутся достаточно «фейтовыми», а какие — нет.
 
 ---
 
