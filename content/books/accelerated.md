@@ -1,4 +1,6 @@
 ---
+date: '2025-10-03T17:46:11+02:00'
+draft: true
 title: 'Accelerated Edition'
 breadcrumbs: false
 ---
