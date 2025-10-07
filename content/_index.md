@@ -8,6 +8,13 @@ cascade:
 
 Сайт делаем с упором на скорость и доступность, так что тут всё статичное :)
 
+{{< cards >}}
+  {{< card link="/site/condensed" title="Fate Condensed" image="/images/fc.jpg" subtitle="Лучший корник" tag="полностью на русском" tagColor="green" >}}
+  {{< card link="/site/hanz" title="Книга Ханца" image="/images/hanz.jpg" subtitle="Всё о философии Fate" tag="для всех" tagColor="green" >}}
+  {{< card link="/site/odds-and-ends/dungeons_of_fate_new" title="Dungeons of Fate" image="images/fc.jpg" subtitle="Dungeon Crawler! Ура!" tag="свой перевод" tagColor="purple" tagIcon="sparkles" tagBorder=false >}}
+  {{< card link="/site/odds-and-ends/high-fantasy-magic/" title="High Fantasy Magic" image="images/hfm.jpg" subtitle="Для тех, кто хочет широкую магию" tag="свой перевод" tagColor="purple" tagIcon="sparkles" tagBorder=false >}}
+{{< /cards >}}
+
 ## Как пользоваться?
 
 Вон там слева все корники на текущий момент, чекайте.
