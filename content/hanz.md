@@ -2,25 +2,19 @@
 title: 'Книга Ханца'
 breadcrumbs: false
 ---
-
-> [!NOTE]
-> Collected by Tomasius Padeliensis. V01.00, Sept. 9, 2013. Formatted for the web by Rex Francis March 15, 2019
-
-> © 2013 Evil Hat Productions, LLC. © ИП Персикова Тамара Эдуардовна. Все права защищены. Перевод Книги Ханца доступен по лицензии Creative Commons Attribution-ShareAlike 3.0 Unported license (https://creativecommons.org/licenses/by-sa/3.0/).
-
 ## Что такое Fate?
 
-Я всеръёз задумался об этом, прочитав несколько постов, однако до того момента эта мысль вертелась у меня в голове по ряду других причин — в первую очередь в связи с вопросом «Если вы делаете хаки, что является «безопасным» хаком, а что — уже глубоким вмешательством в основополагающие принципы системы?». Я согласен с мыслью, которую ранее уже изложил Райан Маклин: Fate — очень специфическая игра со специфическими особенностями. В неё можно вписать множество различных сеттингов, однако в её рамках все они будут вести себя очень «по-фейтовски». Есть задачи, с которыми Fate справляется очень хорошо, и есть задачи, с которыми — не очень. Если я хочу провести игру, для которой Fate не очень подходит, я выберу более подходящую систему.
+Я всеръёз задумался об этом, прочитав несколько постов, однако до того момента эта мысль вертелась у меня в голове по ряду других причин — в первую очередь в связи с вопросом «Если вы делаете хаки, что является «безопасным» хаком, а что — уже глубоким вмешательством в основополагающие принципы системы?» Я согласен с мыслью, которую ранее уже изложил Райан Маклин: _Fate_ — очень специфическая игра со специфическими особенностями. В неё можно вписать множество различных сеттингов, однако в её рамках все они будут вести себя очень «по-фейтовски». Есть задачи, с которыми _Fate_ справляется очень хорошо, и есть задачи, с которыми — не очень. Если я хочу провести игру, для которой _Fate_ не очень подходит, я выберу более подходящую систему.
 
-Я ни в коей мере не считаю это отрицательной чертой Fate. У меня есть Jeep Wrangler. Эта машина хорошо справляется с одними задачами (перевозки грузов), великолепно — с другими (езда по бездорожью) и абсолютно отвратительно — с третьими (перевозки больших объёмов груза, нескольких пассажиров или быстрая езда). И попытки подтянуть производительность Wrangler в этих вопросах наверняка ухудшат его эффективность относительно того, что сейчас он делает замечательно.
+Я ни в коей мере не считаю это отрицательной чертой _Fate_. У меня есть _Jeep Wrangler_. Эта машина хорошо справляется с одними задачами (перевозки грузов), великолепно — с другими (езда по бездорожью) и абсолютно отвратительно — с третьими (перевозки больших объёмов груза, нескольких пассажиров или быстрая езда). И попытки подтянуть производительность _Wrangler_ в этих вопросах наверняка ухудшат его эффективность относительно того, что сейчас он делает замечательно.
 
-Поэтому, например, я не буду использовать Fate для игры в D&D. Возможно, когда-нибудь мне захочется провести игру по правилам Fate в сеттинге D&D, но не думаю, что впечатления от этой игры будут схожи с впечатлениями от игры по правилам D&D — подобный опыт я раньше описывал как «игра в экранизацию D&D» (нет, не в убогий существующий фильм, а в гипотетический хороший).
+Поэтому, например, я не буду использовать _Fate_ для игры в _D&D_. Возможно, когда-нибудь мне захочется провести игру по правилам _Fate_ в сеттинге _D&D_ , но не думаю, что впечатления от этой игры будут схожи с впечатлениями от игры по правилам _D&D_ — подобный опыт я раньше описывал как «игра в экранизацию _D&D_ » (нет, не в убогий существующий фильм, а в гипотетический хороший).
 
-Конечно, я мог бы хакнуть Fate настолько, чтобы игра в него могла бы сойти за «игру в D&D», но разве после такого в этом хаке останется что-то от Fate?
+Конечно, я мог бы хакнуть _Fate_ настолько, чтобы игра в него могла бы сойти за «игру в _D&D_ », но разве после такого в этом хаке останется что-то от _Fate_?
 
-Не думаю, потому что основные цели, поставленные вопросы и понятия D&D очень сильно отличаются от Fate. Что, опять же, не является камнем в огород Fate или D&D, равно как и не будет оскорблением для моего Wrangler сказать, что он медленнее Ferrari.
+Не думаю, потому что основные цели, поставленные вопросы и понятия _D&D_ очень сильно отличаются от _Fate_. Что, опять же, не является камнем в огород _Fate_ или _D&D_ , равно как и не будет оскорблением для моего _Wrangler_ сказать, что он медленнее _Ferrari_.
 
-Итак, что же за вещи я считаю основополагающими для Fate? Это не какая-то лакмусовая бумажка для проверки настоящий/не настоящий, скорее просто набор общих идей: если я вижу, что хак Fate подпадает под 95% этих пунктов, то на мой вкус он, вероятно, покажется достаточно «фэйтовым». Однако если мне попадётся хак, отмеченный логотипом Fate, но совпадающий дай бог с 10% пунктов этого списка, не думаю, что я смогу ощутить в нём достаточно того, что ожидаю от Fate.
+Итак, что же за вещи я считаю основополагающими для _Fate_? Это не какая-то лакмусовая бумажка для проверки настоящий/не настоящий, скорее просто набор общих идей: если я вижу, что хак _Fate_ подпадает под 95% этих пунктов, то на мой вкус он, вероятно, покажется достаточно «фэйтовым». Однако если мне попадётся хак, отмеченный логотипом _Fate_ , но совпадающий дай бог с 10% пунктов этого списка, не думаю, что я смогу ощутить в нём достаточно того, что ожидаю от _Fate_.
 
 ### Проактивные персонажи
 
@@ -40,7 +34,7 @@ breadcrumbs: false
 
 ### Навыки, аспекты, призывы, навязывания
 
-Для меня это — самая суть Fate. Можно, например, избавиться от трюков, и тогда игра всё ещё будет ощущаться как Fate, но если эти четыре элемента не будут работать так, как описано в Core, игра вряд ли покажется мне Fate.
+Для меня это — самая суть Fate. Можно, например, избавиться от трюков, и тогда игра всё ещё будет ощущаться как Fate , но если эти четыре элемента не будут работать так, как описано в Core , игра вряд ли покажется мне Fate.
 
 ### Три фазы
 
@@ -52,25 +46,25 @@ breadcrumbs: false
 
 ### «Законченность» навыков
 
-Мне очень нравится, что в Fate навыки отражают итоговую возможность персонажа повлиять на сцену, а не базовую способность, относительно которой потом надо будет учитывать целую прорву факторов и модификаторов. Эта особенность связана с пунктом выше об отсутствии оптимизации.
+Мне очень нравится, что в _Fate_ навыки отражают итоговую возможность персонажа повлиять на сцену, а не базовую способность, относительно которой потом надо будет учитывать целую прорву факторов и модификаторов. Эта особенность связана с пунктом выше об отсутствии оптимизации.
 
 ### Отсутствие фокуса на знании системы
 
-Я не считаю Fate игрой, построенной вокруг умения манипулировать системой. Это игра о воображении (то есть о том, что мы придумываем у себя в головах), а не о своде правил. Правила предполагают возможность пренебрегать ими в угоду сюжета, и без толку делать значимым знание системы, когда на самой системе изначально не сделано акцента.
+Я не считаю _Fate_ игрой, построенной вокруг умения манипулировать системой. Это игра о воображении (то есть о том, что мы придумываем у себя в головах), а не о своде правил. Правила предполагают возможность пренебрегать ими в угоду сюжета, и без толку делать значимым знание системы, когда на самой системе изначально не сделано акцента.
 
-Попытки добавить в Fate больше «цифр» (иначе говоря — поднять порог знания системы) кажутся мне отходящими от идей Fate.
+Попытки добавить в _Fate_ больше «цифр» (иначе говоря — поднять порог знания системы) кажутся мне отходящими от идей _Fate_.
 
 ### Развилки, не тоннели
 
-Мне кажется, что сцены в Fate лучше всего работают как последовательные ветвящиеся развилки. Если в сцене можно безболезненно преуспеть с вероятностью 95%, то какой вообще был смысл делать сцену?
+Мне кажется, что сцены в _Fate_ лучше всего работают как последовательные ветвящиеся развилки. Если в сцене можно безболезненно преуспеть с вероятностью 95%, то какой вообще был смысл делать сцену?
 
 ### Акцент на цене возможностей
 
-Очень важный элемент. В отличие от игр, строящихся на знании системы и преодолении препятствий, Fate лучше всего работает, когда игрокам прямо заявляют, чего им придётся лишиться ради своих целей. В Fate этот вопрос поднимается неоднократно: трата жетонов судьбы в погоне за победой, успех дорогой ценой, принятие навязываний — эти элементы приводят к вопросу: «Насколько ты этого хочешь, и чем ты готов пожертвовать, чтобы этого достичь?» Если хак обесценивает этот вопрос, то мне кажется, что это отходит от задумки Fate. Менее «фэйтовыми» кажутся мне и хаки, в которых от игроков требуется заблаговременно тратить жетоны судьбы и т.д.
+Очень важный элемент. В отличие от игр, строящихся на знании системы и преодолении препятствий, _Fate_ лучше всего работает, когда игрокам прямо заявляют, чего им придётся лишиться ради своих целей. В _Fate_ этот вопрос поднимается неоднократно: трата жетонов судьбы в погоне за победой, успех дорогой ценой, принятие навязываний — эти элементы приводят к вопросу: «Насколько ты этого хочешь, и чем ты готов пожертвовать, чтобы этого достичь?» Если хак обесценивает этот вопрос, то мне кажется, что это отходит от задумки _Fate_. Менее «фэйтовыми» кажутся мне и хаки, в которых от игроков требуется заблаговременно тратить жетоны судьбы и т.д.
 
 ### Акцент на сюжете, а не моделировании реальности
 
-Задумайтесь о фантастике — чаще всего там не играет роли, например, каким оружием пользуется конкретный участник битвы. То, что противники скрести ли в поединке меч и топор, вряд ли повлияет на то, кто из них потерпит поражение в сцене. Разумеется, есть особенные экземпляры оружия или снаряжения, но в этом и суть — они особенные. Я считаю, что хороший игровой мир Fate подходит к своим системам следующим образом: что важно для жанра, которого планируется придерживаться при игре? Персонажи проигрывают в схватках из-за того, что у них недостаточно большие пушки или недостаточно крепкая броня? Если суть не в этом, то и системы правил должны адресовать этот вопрос соответственно.
+Задумайтесь о фантастике — чаще всего там не играет роли, например, каким оружием пользуется конкретный участник битвы. То, что противники скрестили в поединке меч и топор, вряд ли повлияет на то, кто из них потерпит поражение в сцене. Разумеется, есть особенные экземпляры оружия или снаряжения, но в этом и суть — они особенные. Я считаю, что хороший игровой мир _Fate_ подходит к своим системам следующим образом: что важно для жанра, которого планируется придерживаться при игре? Персонажи проигрывают в схватках из-за того, что у них недостаточно большие пушки или недостаточно крепкая броня? Если суть не в этом, то и системы правил должны адресовать этот вопрос соответственно.
 
 Хороший пример: робот-мех. Сколько характеристик должно быть у меха, и сколько его огневой мощи зависит от параметров робота, а не от навыков пилота? Эти вопросы сводятся к одному: «О чём ваша история»?
 
@@ -86,7 +80,7 @@ breadcrumbs: false
 
 Это тоже важно. Во многих играх, применяя навык, персонаж совершает действие, результат которого будет размытым в зависимости от итога броска.
 
-В Fate порядок применения навыков кажется мне следующим: «Я пытаюсь добиться этого результата, у меня получается?» Разница может показаться несущественной, но это очень важный пункт, который сказывается на формулировке и применении многих правил и механик.
+В  Fate порядок применения навыков кажется мне следующим: «Я пытаюсь добиться этого результата, у меня получается?» Разница может показаться несущественной, но это очень важный пункт, который сказывается на формулировке и применении многих правил и механик.
 
 ### Колоколообразная кривая результатов
 
@@ -96,3811 +90,1779 @@ Fate следует системе случайных значений, скло
 
 И да, это исключительно мои мнения. Они не являются непреложными истинами, и у каждого будут собственные списки пунктов. Каждый может не согласиться с тем, что я здесь написал. Однако я считаю описанные выше элементы ключевыми для моего понимания системы Fate — и, если сверяться с этим списком, то нетрудно будет делать выводы, какие игры мне покажутся достаточно «фейтовыми», а какие — нет.
 
----
-
-## Why the heck am I doing this? {#why-the-heck-am-i-doing-this-}
-
-Okay, no big reveal (I\'m actually working for Evil Hat! Muahahaha) or
-anything of the sort. But I\'ve put a lot of time into some of these
-posts, and I\'d like to just point out why I\'m doing this. I mean, at
-the end of the day, this is just an RPG, a fun way to kill some time.
-
-I\'m a long term gamer. Been playing for over thirty years now, started
-with Moldvay D&D. I\'ve played a plethora of systems. I\'ve worked with
-famous industry folks, though I certainly am not a \"famous industry
-folk\" myself.
-
-My mindset is pretty fully old-school. Yay, character death, and
-difficulty, and earning the awesome. If you had asked me a year ago if
-it would make sense for a character to find a secret door that wasn\'t
-on the map, just because they\'d rolled well, I\'d ask if you were
-crazy. If you told me a year ago that I\'d advocate not killing
-characters without a discussion, I\'d ask you to share your stash. (BTW,
-I\'d still maintain those statements, for certain types of games!)
-
-I started Fate with SotC and DFRPG. And it was a learning curve. There
-were things I just wasn\'t getting, and I knew it. But I liked enough of
-what was going on, and liked enough of Fate (my previous foray into more
-narrative systems had been Burning Wheel) that I stuck with it. And the
-biggest issue, over and over again, was the fact that I was
-unconsciously trying to make Fate act like a more traditional system.
-
-Where were the attributes? Where were the things you put together? How
-the heck did it make sense to have an aspect Really Strong, yet it only
-came into play on occasion? This is madness!
-
-But I stuck with it. I read the books, I played with folks that got it
-(Hi, Jacob Poss!). I read responses from the gurus on this community
-(more than I care to name most of you know who you are!).
-
-At first, it was a few bits here and there that came together that were
-just awesome. And then, at some point, something clicked. It came
-together. I got it. \"Fiction, not physics\" became more than a cute
-catchphrase meaning that fun was more important than realism. I stopped
-looking for more systems. The airplanes-as-stunts in Kriegszeppelin
-Valkyrie made sense. The importance of the Phase Trio clicked, and it
-wasn\'t just party cohesion.
-
-When it all came together, I found a new way to play RPGs. A way that\'s
-pretty awesome, and not very much like the D&D I played when I was 10.
-
-Now, don\'t get me wrong -I still like other ways of playing. I\'ve got
-no problem with a good old fashioned dungeon crawl, or a set of tactical
-set piece encounters with some story/investigation bits between them.
-I\'ve had a heck of a lot of fun over the years playing those games, and
-I\'m sure I\'ll have more in the years to come. I want to run an X-COM
-game at some point, and it almost certainly won\'t be in Fate (GURPS and
-Savage Worlds are the frontrunners atm).
-
-And that\'s what these posts are about -detailing my realizations, and
-throwing them out there to maybe help other people that are struggling
-to come to grips with the same things I came to grips with. So if I post
-something like, \"Fate doesn\'t have a damage system,\" don\'t take that
-as the prophet on the mount making a proclamation. I\'m not into the
-holy prophet thing, given that the fashion choices are terrible and the
-life expectancy is generally worse. Instead, take it as me going, \"Holy
-shit! I just realized, this game doesn\'t have a damage system! It
-thinks about the results of combat in an almost totally different way!
-That\'s crazy cool!\"
-
-So that\'s what these posts are about. Trying to help others look at
-Fate with a bit of \"beginner\'s mind,\" and seeing it through eyes not
-trained by years of gaming in other systems. It\'s about helping others
-to find the things that I find awesome in the system. It\'s not about
-telling people they\'re doing things \"wrong\" -there\'s no Fate Police
-ready to knock down doors, the last I checked. If you\'re having fun, as
-far as you\'re concerned, you\'re doing it right. It\'s about sharing
-the things that I\'ve discovered about the system when I stopped trying
-to shove its square peg into a round hole.
-
-And I\'ll say, doing that is tough. We\'ve got a lot of things in
-traditional gaming that work, and make for awesome games. In a lot of
-cases, deviating from those slightly doesn\'t work, as those games tend
-to sit on \"local maxima\" -areas where the decisions made work together
-in a tight, interlocked way. But I think Fate sits on a very different
-local maximum than most games, and to find it you\'ve gotta change a lot
-of assumptions, and be willing to approach it like it was the very first
-game you\'ve played. I\'ve found it to be worth it, and so I want to
-share what I\'ve learned to help others find that same awesome.
-
-And if you\'re interested, come on along for the journey. Share your
-insights with me, and I\'ll happily share mine with you. If not, hell,
-maybe we\'ll get together and play a game that sits in a different area,
-and have fun doing that.
-
----
-
-## Introducing People to Fate
-
-So, this seems to come up a bunch. Figured I\'d get my thoughts out, and
-see what others have to say.
-
-Anyway. Fate does some things differently. Fundamentally, I think
-that\'s because it has ended up trying to answer very different
-questions than typical RPGs do. As such, it can look a bit weird at
-first for new players. There\'s a number of concepts that don\'t mesh
-particularly well with more \'traditional\' or typical RPGs.
-
-So, how to introduce new players?
-
-The first thing I do is talk the system up -specifically its strengths.
-I point out how the system really allows you to think about who your
-character is, instead of just what they are and what they can do. I
-point out how fast it runs, and the great support it has for non-combat
-options and actions. I also point out that it\'s a different game, and
-that it\'s not a replacement for their favorite game.
-
-Assuming I\'ve ~~suckered~~ gotten some people to be willing to try, I
-set up a game. Before the game, individually if possible, I go over a
-few things. First, I talk up the fact that in Fate, the expectation
-isn\'t that you\'ll be given a bunch of encounters, and that you have to
-overcome them. I point out that failure is normal and expected, and
-won\'t mean the end of the game. So at game time, I actually do go
-through cooperative setting/character creation. I find this builds
-investment in the setting, and eases the making a character bit.
-
-Usually, by the end of setting creation (which is pretty quick), I find
-that the players are pretty excited about the game. That\'s why I
-actually do it, BTW. Since setting creation is fun, and isn\'t where any
-of the usual stumbling blocks occur, getting players invested in the
-game and excited before they hit them seems to be really useful for
-getting them to plow through if they hit a rough patch.
-
-I make sure that when creating characters, it\'s done as a group -the
-person whose character is being made drives his part of that, of course,
-but everyone is paying attention and contributing.
-
-Helping explain aspects a bit at this point helps, as well as coming up
-with suggestions. Since we\'re still focused on the \"story bits\" at
-this point, it seems to work okay. I can drive them towards slightly
-more useful aspects with my knowledge without having to knowledge dump
-them.
-
-The usual explanation of assets I like to give is something like this:
-\"Take Han Solo at the end of Star Wars. Let\'s say that there\'s some
-stories written about him between then and the beginning of Empire. What
-things would those stories have to include to really be \'Han Solo
-stories\'?\" Usually the answer will be things like the Falcon, Chewie,
-his debt to Jabba, him being a dashing/cocky guy, etc. And those are all
-things I\'d consider to be his aspects.
-
-While the cooperative, one-at-a-time character creation may seem like it
-would be slow, in practice I find that it actually works a lot faster. I
-think the collaboration and interest level, combined with attention from
-someone that knows the game keeps things moving at a somewhat better
-clip. Also, for the \"guest star\" phases, it seems to help because the
-players will already be somewhat familiar with the stories they\'re
-guest-starring in.
-
-Skills are pretty easy, but I usually kind of gloss over stunts a bit,
-and just leave blanks. I may help them think of stunts that would work
-with their character, but I\'ve found this to be the thing that can take
-the most time. Instead, I\'ll suggest stunts during play as they become
-available, and point out beforehand that this is what we\'ll be doing.
-
-Okay, so during play I make sure I stick with the model of
-TV/Movie/Book. All examples I use to explain rules will either be from
-one of those, or framed as being in one. I\'ll make references to
-\"camera shots\" and stuff like that -even do cutaways or \"title
-sequences\" as appropriate. To me, I find the key here is being
-consistent in framing things this way, to help overcome some of the
-\"simulationist\" tendencies that most new players (myself included)
-have.
-
-Also, during play I try to keep in mind what I would do if I was running
-that PC, and offer suggestions. I also keep an emphasis on \"okay, but
-what do you do\" whenever players start focusing more on the numbers
-than the game.
-
-One thing that I\'ve seen is kind of difficult is for players to be
-proactive and try to actually drive things. The usual mode I\'ve seen
-for players is to kind of passively investigate. So I will also
-frequently ask \"Okay, what are you trying to get out of this? Imagine
-the best possible success for this -what does it look like?\" Strangely,
-I think the idea that players can actually succeed at that level, and
-get what they want, is a novel concept in many cases.
-
-Almost certainly a physical Conflict (fight) will come up, if for no
-other reason than in most RPGs it\'s expected, and so I don\'t mind
-meeting that expectation. This is one of the other big points for
-teaching people Fate, I find.
-
-The key here is to get them thinking in terms of good Fate strategy
-targeting weaknesses, using Create Advantage, and all of the other
-stuff. Again, I find it useful to go back to movies/TV/books. I\'ve seen
-a number of people new to Fate (as in, almost everyone) just try to go
-head-to-head with a tough opponent, when they\'re not combat optimized
--bad move. Either before the Conflict, or within a round or so, I\'ll
-call a quick timeout, and explain how it works, and how Create Advantage
-can really do wonders for your effectiveness, rather than trying to
-throw your 2 Fight against your opponent\'s 6.
-
-I\'ll also make sure they know about conceding, and will point out that
-they can offer to do so at any time. I\'ll emphasize that how long they
-stay in is really more about how much they\'re willing to risk to get
-what the Conflict is about, and reiterate that it\'s expected to lose on
-occasion. In many cases, this first fight will be deliberately designed
-to be lost/conceded. I\'ll often frame it as an inciting incident, so
-that it serves as them discovering the issue at hand.
-
-Anyway, that\'s my general outline. It\'s generally worked well, and
-when it hasn\'t I can pretty effectively point to one of the things
-I\'ve listed above that I haven\'t done -this procedure is the result of
-mistakes and the lessons learned from them.
-
-One thing that I don\'t do is try to \'ease\' the learning of Fate by
-making it more like other games. I know that\'s pretty common, but I
-haven\'t really seen any value in it, or any need for it. I find it
-usually works very well to just say \"Yes, this is different. Here\'s
-why, and here\'s what it gets you. So let\'s try it out.\" For those
-things that \"don\'t match\", I think you have to do one or the other
--either make it enough like what the expectation is that it doesn\'t
-trigger the reaction, or call it out so that it is in the conscious mind
-of everyone, which also bypasses that kind of unconscious reaction.
-
-So -what does everyone else do? Any tips or tricks? Experiences? Stories
-where it\'s gone amazingly well? Horror stories?
-
-## Fiction First, Fiction-Rules Interaction, and Nonsensical Results
-
-So, this is just a collection on my thoughts on this subject, as I think
-it\'s often one of the most overlooked, often by me. Some of this stuff
-may be subtle or just pedantic. So, either bear with me, or call me an
-idiot. It\'s all good.
-
-\"Fiction First\" is the Golden Rule of Fate. To understand it, we have
-to define \"fiction\".
-
-\"Fiction\", to me, is just the crap we\'re imagining in our heads. When
-we forget about our numbers, and let our imagination take over the
-scene, that\'s the \"fiction\". It\'s not a statement of some kind of
-book-writing agenda, or talking about some kind of predetermined plot.
-It\'s what happens when we let our imaginations take over the game,
-instead of focusing on the dice and character sheets.
-
-And that\'s pretty damn powerful. I don\'t know about anybody else, but
-that\'s the reason I play RPGs. Not for the number crunching, but for
-that sense of being \"in\" the world, and seeing what happens. That\'s
-the good stuff -all the other stuff is just what helps us get there.
-
-So, what does \"fiction first\" mean, at least to me? It means that
-character actions should start with the \"fiction\", and be described in
-terms of the \"fiction\". Then, and only then should they be interpreted
-into mechanics.
-
-This means that in general, players shouldn\'t start with \"I
-Attack/Overcome/Create\". If you hear a ton of game jargon in terms of
-what\'s going on, it\'s time to place more emphasis on the \"fiction\",
-and less on the rules. Paint a picture. Make sure everybody is
-\"seeing\" the same thing in their mind. Have them say what their
-character does, not what the collection of numbers on the page suggest
-is the optimal course of action.
-
-From that, figure out what else is involved in this action. Who is
-opposing it? How difficult is it?
-
-Once we\'ve figured this out, then we can start figuring out how we\'re
-going to resolve the action. Is it an Attack? An Overcome? A Create
-Advantage? Is there passive opposition, and if so, at what level? Then
-we roll the dice, go through any invocation \'bidding\', and finally get
-a resolution.
-
-And here we get to the next point. Fate doesn\'t actually tell you what
-happens. The dice never tell you what actually occurs -at least not the
-way they do in GURPS, where the system will tell you \"you hit the orc
-in the arm, for x amount of damage, and have disabled the arm\".
-Instead, they place constraints on the narration.
-
-If you Attack an opponent with a sword, and tie, you get a Boost. Great.
-What does that mean? It\'s nothing concrete, that\'s for sure, at least
-not like it would be in GURPS. We have to narrate what happens, but what
-does happen?
-
-Well, Fate doesn\'t tell us. What it does tell us is the general
-parameters of the narration. We know that no stress has been inflicted,
-so that the target isn\'t really inherently closer to being Taken Out.
-We know they haven\'t taken any Consequences, so nothing significant
-happens to them. We do know that they\'re placed at a temporary
-disadvantage, though, and the narration has to incorporate that how we
-do that is up to us, though.
-
-For a gritty game, it could be that the shock of parrying the sword made
-them go slightly numb in that hand, but nothing that won\'t get shaken
-off. Or they could be knocked back by the force of the blow. For a
-swashbuckling game, maybe their clothes get ripped causing them to see
-red for a few seconds. In a more cinematic game, maybe they take a flesh
-wound that causes them to recoil.
-
-Wait.. What? How can a Boost actually be a hit that causes damage? We
-didn\'t inflict Stress!
-
-Well. yeah. But Stress isn\'t damage -it\'s a pacing measure, a way of
-determining how close someone is to being Taken Out. And succeeding on
-an Attack doesn\'t mean you hit, and tying, or even losing, on the
-Attack doesn\'t mean you don\'t hit (though that\'s usually a good bet).
-Again, Fate doesn\'t tell you what happens, it just places constraints
-on the narration. And since Stress is really a measure of how close you
-are to being Taken Out, so long as the narration of the resolution is
-consistent with that, you\'re fine. You don\'t need to hit someone to
-get them to be closer to being Taken Out, and just because you hit
-someone doesn\'t mean that they are closer to being Taken Out.
-
-So we narrate the results, and get on with the game. This gives an
-overall flow that looks something like this:
-
-1.  Describe scene in terms of \"the fiction\"
-2.  Determine character\'s action in the \"fiction\"
-3.  Determine opposition
-4.  Determine how to apply rules
-5.  Resolve action mechanically
-6.  Get constraints on resolution from the mechanics
-7.  Narrate the resolution within the given constraints
-
-Okay, so in my mind this clears up a few common questions/concerns that
-frequently come up about Fate, especially with more \'transitioning\'
-players. You know, like me.
-
-First, if you can use Create Advantage to create an arbitrary aspect,
-why can\'t you just use it to come up with some blatantly overpowered
-thing that wins the scenario?
-
-So, this is answered by the fact that we\'re skipping the first five
-steps of the resolution process! If the proposed action doesn\'t make
-sense in the fiction, you\'ll never get past step two. And step four
-definitely stops it, as there\'s no real way to apply the rules to an
-impossible action.
-
-If we\'re playing a gritty military game, and someone says that they
-want to flap their arms and fly to the top of a guard tower that just
-doesn\'t happen. Neither does making a bomb out of sticks and mud. To
-even get to the point where we roll dice, the action has to be accepted
-as plausible, even if unlikely.
-
-Secondly, I\'ve heard a bunch of stuff about stress and damage and
-taking large hits and whatnot. The key here is that stress isn\'t
-tangible or concrete. It just places constraints on the narrative. If
-you \"get hit\" with a rocket launcher (aka, the Attack succeeded), and
-take a single point of stress, that doesn\'t mean that the rocket hit
-you full on the chest and you brushed it off.
-
-What it means is you take a point of stress. One point. And that the
-narration of what happens as part of the rocket launcher attack needs to
-be consistent with that. Since getting hit by a rocket launcher means,
-logically, that you\'re turned into the consistency of chunky salsa,
-then clearly you didn\'t actually get \"hit\" by the rocket launcher.
-Maybe you twisted your ankle dodging. Maybe you got hit by some kicked
-up rocks. Maybe you were mostly covered, but got singed a bit.
-
-But at any rate, Fate can\'t give you an illogical outcome, because it
-doesn\'t give you an outcome. For it to give you an illogical outcome,
-there would need to be no possible scenario in which that outcome made
-sense and there are plenty of ways to justify taking a single point of
-stress as the outcome of a rocket launcher being shot at you.
-
-The third thing I see is the various forms of shooting someone in the
-head. This even shows up in the main Fate Core book! One of the sample
-characters (I forget which) drops an important NPC with a single hit
-from their sword. What about stress! What about consequences!
-
-Well, what about them? If a trained warrior hits an unarmed, unexpecting
-non-combatant with a sword, what do you think is going to happen?
-They\'re going to get pretty well murderified.
-
-This isn\'t really a Conflict, so stress isn\'t even relevant (stress is
-a Conflict pacing mechanic, not an inherent property of characters). The
-missed step in the resolution outline above is four -determining how to
-apply the rules to resolve the action. The core error here is really in
-assuming that every time someone swings a sword (or shoots a gun), it\'s
-a Conflict, and so we need to use the Conflict pacing mechanism and
-rules and all that jazz.
-
-But we don\'t. We don\'t skip step four! We should always think about
-what the right way to resolve an action is, even if just for a
-millisecond. And most importantly, that resolution mechanic is dependent
-on a few things:
-
-1.  The action being performed
-2.  The intended result
-3.  The specific situation
-4.  The larger \"goal\" of the scene
-
-In many systems, resolution is dependent only on the first of these. In
-Fate, though, that\'s not the case. Pushing someone can be an Attack
-(attempting to push them off a cliff), or it can be Create Advantage
-(knocking them down or off balance), or it can be an Overcome (moving
-them out of an advantageous position).
-
-Shooting someone doesn\'t mean it\'s an Attack -Attack is generally a
-Conflict action. If the scene is better modeled as a Challenge or
-Contest, or even just a simple Overcome, an Attack may not be necessary.
-Heck, a sniper shooting someone in the head should be able to take out
-his target with one shot -something that\'s not really possible against
-non-mooks using default stress/consequences. So maybe that means that a
-\'typical\' sniping situation (unaware target, etc.) isn\'t a Conflict
--which would make sense since the target isn\'t providing active
-opposition, and isn\'t trying to hurt the sniper (yet!).
-
-So that\'s what \"fiction first\" means to me. It means that the fiction
-drives the rules. It\'s called the \"Golden Rule\" of Fate for a reason,
-and that reason is that following that rules settles an absolute ton of
-other potential problems or questions.
-
-As well as being a hell of a lot more fun.
-
----
-
-## What Collaborative Setting Creation Means To Me
-
-Okay, so, collaborative setting creation seems to be one of those weird
-things for people new to more narrative games, and it was a bit of a
-hurdle for me. What exactly does the GM have power over? Does that mean
-that the players can just determine whatever they want? Does the GM do
-no worldbuilding? If the players can just declare anything they want,
-then doesn\'t the game just devolve into sitting around and telling a
-story?
-
-I think the best way I can explain my thoughts on this is to give you a
-few examples of what I think it means. As always, this is my opinion,
-and others will almost certainly disagree :) My examples will be three
-versions of a single pitch -government agents investigating supernatural
-threats -and how this changes according to the three groups it\'s run
-with. Any similarity to anything \"real\" is as utterly unintended as
-any similarity Nanoc the IP-Friendly Barbarian has to any other
-character.
-
-Some of this will be slightly not-strictly-according-to-the-rules for
-the sake of the examples.
-
-### Group one
-
-GM: \"Okay, so government agents investigating the supernatural. What do
-you guys like for a threat? Kind of at the looming threat level?\"
-
-P1: \"Aliens. I like aliens.\"
-
-P2: \"Cool! But, how about a conspiracy? Like, the aliens are working
-with the government?\"
-
-GM: \"I dig it. So you guys are what, then, FBI?\"
-
-P1: \"Yeah, that sounds cool. Some interesting possibilities for the
-government investigating itself and politics in there.\"
-
-GM: \"Okay, any ideas on characters? I\'d like to keep the players
-pretty normal -I don\'t want this to be a superhero game.\"
-
-P1: \"Okay, I can do normal. Since we\'re doing aliens, how about if
-I\'m an investigator obsessed with the supernatural, since my sister was
-abducted when I was a kid?\"
-
-GM: \"I like it.\"
-
-P2: \"Good stuff as a counter, why don\'t I play a character that\'s
-more skeptical? That\'ll make some good tension between the two?\"
-
-GM: \"Awesome. I\'ll work on some details, and we\'ll get to playing.\"
-
-### Group Two
-
-GM: \"Okay, so government agents investigating the supernatural. What do
-you guys like for a threat? Kind of at the looming threat level?\"
-
-P1: \"Hrm. How about something like an alternate dimension?\"
-
-P2: \"Yeah, there could be something like a war looming, only we\'re
-unaware of it.\"
-
-P3: \"That\'s pretty cool. Though maybe there should be something else,
-some kind of group that\'s kind of I don\'t know, dimensional cops or
-something.\"
-
-GM: \"Good stuff. Okay, any character ideas?\"
-
-P1: \"Can I be a government agent? Maybe psychic?\"
-
-GM: \"I\'d like to keep this pretty much with normal people. I guess
-psychic is okay, but is it okay if it\'s more \'plot-psychic\', as in
-it\'s not a generally useful skill?\"
-
-P1: \"Sure, that works. It\'s not relevant until it is.\"
-
-P2: \"I want to be a mad scientist, how\'s that?\"
-
-P1: \"Hey, you can have experimented on me when I was a kid, and that\'s
-why I\'m sorta psychic!\"
-
-P2: \"Awesome. I love it.\"
-
-GM: \"Cool. P3?\"
-
-P3: \"We\'re doing this dimension thing, right? How about if I\'m
-someone from this other dimension?\"
-
-GM: \"Mmm, I kinda want to keep the other dimension thing unknown to the
-characters at the start.\"
-
-P3: \"That\'s fine, maybe I just don\'t know it. Maybe I was dragged
-over here when I was a kid.\"
-
-P2: \" maybe by your friendly neighborhood mad scientist?\"
-
-P3: \"I love it. But why?\"
-
-P2: \"Maybe you\'re the alternate version of my dead son?\"
-
-GM: \"Oh, wow. I can\'t see that blowing up in anyone\'s faces. But does
-that mean that everyone has an alternate version?\"
-
-P1: \"Yeah, I think it would.\"
-
-GM: \"That could get very cool if people start crossing dimensions. Love
-it. Okay, I\'ll set it up, see you guys next week.\"
-
-### Group Three
-
-GM: \"Okay, so government agents investigating the supernatural. What do
-you guys like for a threat? Kind of at the looming threat level?\"
-
-P1: \"I really like the idea that myths are based on some kind of
-reality, even if it\'s heavily distorted. Can we do something like
-that.\"
-
-GM: \"Sure. What kind of myths?\"
-
-P2: \"I dunno, most of the old myths are overdone.\"
-
-P3: \"How about fairy tales? Except we\'ve drastically misinterpreted
-them.\"
-
-GM: \"That could be cool. So, what are you guys thinking? FBI for you
-guys?\"
-
-P1: \"Mmmmm how about something more low-scale at first, to kind of make
-the larger conflict seem bigger. Maybe local cops?\"
-
-P2: \"Yeah, I like it. And maybe the fairy-tale creatures are trying to
-rise to prominence like they used to be.\"
-
-P3: \"Oh, that\'s awesome. But if we\'re going with misinterpreted fairy
-tales, I get to be the big bad wolf.\"
-
-GM: \"Cute.\"
-
-P3: \"No, really! Except I\"m like, reformed, and a vegetarian.\"
-
-P1: \"That\'s kind of awesome.\"
-
-GM: \"I really want to keep this more about regular people, not
-superheroes\"
-
-P3: \"That\'s fine. Maybe I\'m a bit tougher than most people, but
-that\'d really be about it I figure most of these supernatural folks are
-just kinda hanging out living regular lives anyway, so I don\'t really
-need anything super-awesome.\"
-
-GM: \"Yeah, I can see that working.\"
-
-P1: \"Okay, so these are fairy tales, right? How about if the fairy
-tales were written down originally as kind of a warning about the
-supernatural? And then I\'m one of the descendants of this group that
-fought against them?\"
-
-GM: \"I like it. P2?\"
-
-P2: \"Well, you want to keep this grounded, and we\'ve already got the
-big bad wolf and a monster hunter, so why don\'t I just be a regular
-cop? That\'ll provide at least some grounding back in reality. Plus, I
-think getting exposed to this stuff will lead to some cool character
-development.\"
-
-GM: \"That\'s awesome. I\'ll get some stuff planned, and see you guys
-next week.\"
-
-So, in each case, the players have modified the setting, and the story
-of the games will end up revolving around them -it wouldn\'t really work
-with other characters. But, the GM still has a huge amount of
-responsibility over the game -the players have helped set the overall
-world, as well as the general themes of the game, but the individual
-events and scenarios still are well within the realm of what the GM
-does, even if they\'re often based on character aspects.
-
----
-
-## Focus on the Table
-
-Yeah, I know these aren\'t anywhere near daily, but it\'s still the
-though for this day, so that counts, right??
-
-This post
-<https://plus.google.com/u/0/110592364350710312709/posts/Ye6LSw8Wwhw>
-got me thinking about one of the things that I find different about how
-I approach Fate.
-
-As brief background, the majority of my adult life has been spent making
-video games in various capacities. One of the high gurus of the field is
-Sid Meier, though he for some reason gets less credit than many of the
-\"visionaries\". Sid Meier has an incredible, almost perfect track
-record of making awesome games, with very few missteps. (Why he gets
-less \"fame\" is perhaps a topic for another day).
-
-There\'s a quote that\'s attributed to Sid Meier. It may be
-misattributed, but I think it\'s valid anyway. The quote is: \"There are
-three types of games. There\'s games where the designer is having all of
-the fun. There\'s games where the computer is having all of the fun. And
-there\'s games where the player is having all of the fun.\" And whether
-or not Sid said this, I think it\'s an incredibly true quote.
-
-And it\'s applicable to RPGs. RPGs are famous for having incredibly
-intricate systems. But who is having the fun with those?
-
-Let\'s take a simple example, and make a game that\'s a very basic
-combat game. Barely an RPG, if at all. In this game, the only action is
-to attack. Now, let\'s say that there are two versions of this game. In
-one, you just roll a d6 to determine damage on an attack. In the other,
-you add in all kinds of factors about the situation, the characters
-involved, the weapons and armor, and detail out every aspect of the blow
--the angle of blow, exactly how it penetrated armor, etc and end up with
-damage between one and six.
-
-Who is having the fun in the second version? Assuming that the player
-has little control over the factors that go into the simulation, is the
-second game any different from a player perspective, except for the die
-rolling? (I\'ll acknowledge that this game may be fun as a
-\"deck-building\" type game, where manipulating those statistics is the
-point, but that\'s not the focus of this post).
-
-So, what happened? The designer of this game focused on making an
-accurate simulation (and I\'m not saying that simulations are bad, btw,
-so let\'s avoid the GNS reactions, mkay?). In Sid\'s language, he made a
-game where the computer is having all of the fun.
-
-What decisions would we make with this game if we were focused on the
-player having the fun? That\'s going to vary greatly based on what any
-individual thinks is fun (and that\'s definitely a topic for another
-day), but I think the most obvious thing that stands out is that having
-exactly one thing to do -\"attack\" -on any turn isn\'t a very
-interesting game. Hell, I don\'t even know if it is a game in any real
-sense.
-
-Personally, I\'d focus on the \"chess-game\" of combat. I\'d give the
-player various moves, and figure out how those moves worked. Maybe some
-kind of double-blind mechanic to add uncertainty. I\'d use a bit of Game
-Theory (the mathy kind) to figure out something approaching an
-appropriate payout structure, and use the minimum math possible to get
-the interactions at the table to work out the way I want to.
-
-Okay, so what does this have to do with Fate? I\'ve written quite a few
-words, and exactly zero of them have had anything to do with dice that
-have pluses and minuses on them.
-
-One of the things about Fate as a core/generic system is that it\'s
-pretty common that it needs some level of tweaking to work with a
-particular genre or setting. And that\'s where I get to the real point
-here -how and why do you tweak/add? What\'s the priority? How do you
-know what to do?
-
-The common impulse in these cases, built by many years of gaming, is to
-think of the game as some kind of a reality simulator, and come up with
-some kind of model for how these parts work together. And that may be
-useful.
-
-But what\'s really important is what happens at the table. How the
-players interact with the system, the fiction, and each other. And
-that\'s what this is really about.
-
-If you ask \"how do I do cybernetics in Fate?\" that\'s a great
-question. It\'s also an example I come back to time and time again, so
-there\'s that.
-
-So, how do we start? We can hypothesize that there\'s some kind of
-humanity stress track. We can start looking at adding or removing
-consequences or the like. These seem like pretty reasonable places to
-start, but these are all systems questions. These are all about building
-a model, and they haven\'t explicitly looked at things from the player
-side at all. There may be some kind of implicit idea of how players will
-interact with them, but maybe that should be the starting point?
-
-So, what does cybernetic enhancement usually do? Well, it makes you
-\"better,\" for one -but, so does working out, so I don\'t know if we
-need to really increase the overall cap on skills for that. And besides,
-bigger numbers aren\'t super interesting.
-
-The usual thing we see with cybernetics is that there\'s some kind of
-loss of empathy, especially as people become more enhanced. Also, they
-may fail. On a more positive note, given that they\'re machine, they may
-allow people to surpass human limits in some areas.
-
-These all seem very highly story-centric so far. The negatives seem very
-much like compels, and the positive seems like it could be handled
-perfectly fine with an invoke. If we wanted it to be more persistent, we
-could add in a stunt.
-
-But the key point here isn\'t \"go systems lite\" -even though with Fate
-you often can. Make as heavy of a system as you need to make. The
-question is in defining how heavy of a system you need to make.
-
-As a software developer, I believe in something called Test Driven
-Development. It\'s horribly misnamed. The basic idea of TDD (as it\'s
-called) is a simple loop:
-
-1.  Define what \"working\" looks like
-2.  Make it work
-3.  Clean it up to make it nice
-
-The biggest key here is the first step. It seems obvious, but it\'s
-often not followed in many disciplines. If you can\'t define what
-\"success\" looks like, then how will you know if your work is
-successful or complete?
-
-And when we do systems changes, we usually have some idea of what
-\"success\" looks like, even if it\'s very implicit. And for me, the
-implicit idea of success has generally been based on something like
-\"gives realistic results\".
-
-Instead of that, I\'ve learned now to look at success in terms of \"what
-do the players do at the table?\" The math is mostly irrelevant, so long
-as the interactions are there. And by doing this, I\'ve started to focus
-on making games that are fun for the player, and not the system.
-
-The funny thing about this is that when you start thinking in terms of
-the players, a lot of times it turns out you need less system than you
-thought. One of the most complex, deep games on the planet (Go) has
-rules that can be described in less than a page, probably. I generally
-teach people the rules in about five minutes.
-
-I\'ve focused so far in this post on modifying the game -and that\'s
-because this is the place where this tends to show up the worst. But
-it\'s a principle that\'s useful whenever thinking about RPGs,
-especially as a GM. Who is this fun for?
-
-Is it fun because you get to show off your incredible creativity? Think
-long and hard about the role of the players -they shouldn\'t be an
-audience (especially in Fate).
-
-Is it fun because it\'s an intricate mathematical simulation that
-produces great results? Again, think of it from the player perspective.
-
-Because at the end of the day, the game is about the players (including
-the GM, of course). If they\'re not having fun, there\'s no game. It
-doesn\'t matter if the system has fun. And the GM/designer needs to have
-fun, of course, but not at the expense of the players.
-
----
-
-## Pacing Mechanisms in Fate
-
-So, this is something I\'ve wanted to write for a while, but haven\'t
-gotten around to. Until today.
-
-### What\'s a pacing mechanism? {#what-s-a-pacing-mechanism-}
-
-One of the things I see some confusion about in Fate are the various
-pacing mechanisms available -Conflicts, Contests, and Challenges, or as
-I like to call them, the 3 Cs.
-
-So, I call them all pacing mechanisms. What the heck do I even mean by
-that? That seems to imply that they\'re all related to each other, but
-they\'re clearly not, right??
-
-Okay, so time for Rob to get pedantic (like that\'s new). We roll dice
-in Fate to answer a question. Technically, if we wanted to, we could
-answer any question, no matter how big or small, with a single die roll
--probably an Overcome.
-
-Hell, if we were running Star Wars as a Fate game, we could do the
-entire game as a single Overcome roll against the Empire! But what fun
-would that be?
-
-And fundamentally, that\'s the point of pacing mechanisms. They\'re
-nothing more, and nothing less, than a tool to make the resolution of a
-single question take longer than one roll of the dice/action resolution.
-
-(And if you hear me refer to stress as a pacing mechanism, that\'s why
-stress determines, to a great extent, how long a Conflict will last).
-
-But why call them pacing mechanisms? For instance, aren\'t Contests
-really chases? Isn\'t that what they model?
-
-Nope. Contests don\'t \"model\" anything. They just drag things out, and
-provide an ending condition. Sure, their mechanics map reasonably well
-to how you\'d model a chase, but that doesn\'t mean that they actually
-model chases. In general, you\'re best off if you use the pacing
-mechanisms as pacing mechanisms, and leave the modeling to the narrative
-level. Roll the dice, figure out the results, and then narrate the
-results in a way that makes it clear that one side or the other is
-getting closer to achieving their goal. In Fate, the \"fiction\", the
-shared imagination and view of what\'s going on, informs the mechanics
-rather than the other way around.
-
-So, which one of these do you use? This seems to be a common question,
-and one that I think has a pretty simple answer, if you look at the
-question from a slightly different way.
-
-Much like Attack vs. Overcome isn\'t based on what you\'re doing, but
-rather whether you\'re trying to Take Out your opponent, which pacing
-mechanism you choose isn\'t determined by the actions that are being
-undertaken, primarily. It\'s determined by the nature of the opposition.
-
-### Challenges
-
-I\'ll start with Challenges, since they have the generally easiest
-criteria. Use a Challenge when you don\'t have active opposition over
-the entire Challenge. This could mean that that the opposition is the
-environment (barring Fight Fire and the like). This could mean that the
-opposition is unaware and inactive (see the Contest section for what I
-mean by that). This could mean that you do have active opposition, but
-only for part of the Challenge (in which case you can either model that
-as an Overcome, or as a subConflict/Contest as appropriate).
-
-Zird warding off the zombies meets these criteria. The zombies are
-(mostly) a passive, environmental challenge, and at any rate he\'s
-really barring the door to them. Convincing the townspeople is arguably
-active opposition but they\'re not interfering with the majority of the
-challenge, and so is an Overcome. Casting the ritual is simply
-environmental, and is an Overcome.
-
-Now, part of a Challenge may involve active opposition -such as the
-villagers being convinced in the Zird example. In that case, you can
-either treat it as a simple Overcome within the Challenge (remember,
-that all pacing mechanisms are basically stand-ins for a single
-resolution), or you can expand it out further into an inner
-Conflict/Contest if appropriate.
-
-But what if you have active opposition -some individual or party that is
-directly opposing the question that you\'re trying to answer? That
-leaves Conflicts and Contests, which is where a lot of questions seem to
-come up.
-
-### Conflicts
-
-If your opposition is active, and direct, you use a Conflict. By direct,
-I mean that the goal of both parties is to get the other to back down in
-some way either by getting knocked out and killed, by surrendering, by
-fleeing, etc. For a Conflict, the two things should be true:
-
-1.  Both sides are committed to getting the other side to back down
-2.  The \"question\" of the conflict is either:
-    - whether a particular side will back down in some way
-    - something that the winner can accomplish if the opposition isn\'t
-      there
-
-So if you\'re trying to capture some bad guys (or the other way around),
-that could be a Conflict, so long as both sides are exchanging blows (by
-choice or because no other option exists). If you\'re trying to get past
-guards to defuse a bomb, that\'s a Conflict, up until the guards run off
-to save their hides, or you do.
-
-### Contests
-
-If your opposition is active and indirect, choose a Contest. By
-indirect, I mean simply that both sides aren\'t engaged in mutual
-annihilation. The obvious cases would be races, or a chase. It could be
-trying to capture someone, so long as they\'re trying to evade capture.
-It could even be fleeing from a shooter (where the question becomes
-\"Can I make it to cover before I get shot/killed?\"). But the key here
-is that there are still two or more active participants/sides -you
-generally don\'t use a Contest if one side is unaware.
-
-> Aside: You might choose a Contest with an unaware side, if that side
-> is actively doing something that would bring the Contest to a close -a
-> sorcerer opening a gate to an evil realm, for instance, might be in a
-> contest with the adventurers trying to make it to his sanctum to
-> interrupt the spell, even if the sorcerer is unaware of their
-> presence. The real key here is the active bit.
-
-In general, any time you can phrase the question you\'re answering as
-\"do I before they \" is a Contest, unless both of the desired goals are
-\"beat up the other guy\".
-
-### Choosing Based On Context
-
-So that\'s the basic way that I divide up the pacing mechanisms. And
-it\'s interesting, because some high-level actions may fall under any of
-the three pacing mechanisms, based on the context of the action.
-
-As an example, let\'s say you\'re a sniper, and what to shoot someone in
-the head. Is that a Challenge? Is it a Contest? Is it a Conflict?
-
-If the target is unaware of what you\'re doing, and there\'s no enemy
-awareness of your presence, it\'s a challenge -there\'s no active
-opposition, so there\'s no \"other side\". There\'s certainly some
-passive opposition that must be overcome in some way or another, but
-you\'re not dealing with an active opponent.
-
-If the target is unaware, but there\'s a patrol in the area that\'s
-hunting you down, then it\'s a Contest -\"do I shoot my target before
-the enemy patrol finds me\" definitely falls into the Contest template
-described above.
-
-If you\'re in the middle of a firefight, and trying to snipe one of your
-opponents, then it\'s a Conflict, pretty clearly.
-
-### Last Thoughts
-
-These three pacing mechanisms do a pretty good job of covering just
-about all situations. Some might requiring a bit of coercing to get into
-place, but they\'re all basically workable. I don\'t know that I\'d mix
-them -shooting someone that\'s running to me seems mostly like a
-Contest, so I don\'t know that I\'d necessarily mix Stress/Consequences
-into that. And again, they don\'t really \"model\" anything. They\'re
-about pacing, not modeling.
-
-And obviously there\'s other ways to handle pacing besides these three.
-If there\'s something that really bugs you, come up with another
-mechanism to handle it! But I\'d keep the general idea of these being
-pacing mechanisms intact, and keep the modeling in the narrative.
-
----
-
-## Calibration -the Dial Without a Dial {#calibration-the-dial-without-a-dial}
-
-Oooh, how zen.
-
-A common thing that I see discussed in Fate is how to model
-superstrength or the like. Which is a great question. If 4 Athletics is
-a super-athletic person, and a 5 or 6 is an Olympic quality gymnast,
-then how do you model something even more athletic than that? Maybe peak
-skill should be a dial?
-
-(And as soon as I said dial, you probably looked at the title and went,
-\"Oh, Rob, you think you\'re so clever.\" Well, ya got me.)
-
-One of the things that I look at in Fate Core is that the mechanics are
-really solid for a lot of scenarios out of the box. And that skills
-don\'t represent an objective measure of training, but are rather the
-ability to influence a scene in a particular way. These seem like
-relatively contradictory things, but come together in the idea of
-\"calibration\".
-
-In Fate Core, I don\'t think that 4 Athletics means \"very athletic
-person\". I don\'t think that 5 or 6 means \"Olympic gymnast.\" I think
-that 4 means \"the most Athletic that a starting character can be.\" No
-more, no less.
-
-The meaning of this will, of course, vary from setting to setting. If
-you\'re doing a Zero-Dark-Thirty style game, 4 will mean a highly
-trained, extremely strong, professional soldier, at or near the bounds
-of human ability. 0 means the baseline capabilities of a professional
-soldier, below which you\'d be drummed out of the service.
-
-Now, if you\'re doing a game about normal people in extraordinary
-circumstances, the calibration is going to be a bit different -0
-probably means a more or less average person, while that 4 may be
-calibrated slightly beneath the \"4\" in the previous example (who would
-be likely closer to a 5 in the \"everyday people\" game). And if you\'re
-running supers? Superman is probably a 5, and a normal human being would
-be lucky to hit 1.
-
-The beauty of this is that then all of the differences can be handled
-with narration, while the core math doesn\'t even get tweaked. Which is
-a great thing -the core math works great, and modifications to it are
-inherently more risky than simply modifying your narration
-appropriately!
-
-I\'ll admit, of course, that there are circumstances where this doesn\'t
-work. If you want one skill to have a higher scene influence than
-another, for instance, or where you want the difference in capability
-between the peak and the base to be higher. In practice, though, I think
-those circumstances are relatively rare, and should probably be the
-result of playtesting. You just don\'t put a 5 skill vs. a 0 with any
-hope of success anyway.
-
-Damage is another thing that can benefit from calibration. The
-\"gritty\" question keeps coming up, and I see lots of number-based ways
-to handle grittiness. And those can work, but may not be necessary.
-
-Stress and consequences, to me, are about pacing and \"aftermath\".
-They\'re not about damage or realism or grittiness. They\'re just about
-how long fights last, and what carries with you afterwards.
-
-So let\'s say that with default Fate rules, you take a three stress hit
-from a sword. You mark off your third stress box (moving you closer to
-being Taken Out) and narrate this as taking a nasty cut across the
-chest.
-
-Now, we want to have a grittier game. One where a nasty cut across the
-chest may well be fatal, and taking one probably means that you\'re
-pretty messed up. So, we can do this by dropping the stress track to
-one, and making consequences only worth -1/-2/-3. Now, that\'s a
-moderate consequence and your only stress box filled in! Grittier!
-
-It also makes fights shorter. Which may be what you\'re going for, but
-isn\'t necessarily tied to grittiness. A gritty fight might be two guys
-fighting each other for minutes, slowly wearing each other down, small
-nicks and bruises adding up as they desperately struggle. That certainly
-sounds gritty, anyway. And it\'s not necessarily short.
-
-So, how do we model a gritty fight in Fate, without changing any of the
-dials? Again, you could change dials as well, but I think it\'s
-interesting to see what happens if we don\'t change those dials.
-
-Okay, so we take a three-stress hit. What does this mean? Well,
-mechanically, it means two things: We\'re somewhat closer to being Taken
-Out, and there are no long lasting effects from this hit.
-
-So if we\'re going for \"gritty\", clearly this doesn\'t mean we took a
-nasty slice across the chest. It could mean lots of things though. Some
-things it might mean:
-
-- We\'ve been forced out of position and are \"on our heels\"
-- We\'ve taken a parry poorly, causing our hand to sting but no lasting
-  damage
-- We had to jump out of the way to dodge, causing no injury, but making
-  us get a bit more winded.
-
-But what would a nasty gash to the chest be, then? Well, probably it
-would be Taken Out. Pain, muscle damage, blood loss and shock would
-probably mean that a single serious blow means \"game over\".
-
-We can do the same thing with consequences. What does a -2 consequence
-mean?
-
-Well, mechanically, it means that the person that delivered it gets a
-free invoke, it will likely go away shortly after the fight, and that
-you\'re that much closer to being Taken Out.
-
-What that means, narratively, has to match the feel of the game. For a
-\"cinematic\" game, that may mean a cut to the arm, or something like
-that. For a \"gritty\" game, it may simply mean that you\'ve lightly
-twisted an ankle, got a bit of \"dead arm\" from a hit that your armor
-soaked up, or the like. \"But wait\", you may be saying. \"The
-descriptions of a lot of those don\'t sound like hits at all!\"
-
-And? The dice dictate the mechanical results of the action. A \"hit\" or
-a \"miss\" is a narrative explanation of that mechanical effect. The
-dice don\'t dictate narration -they just provide an end result that you
-narrate to. \"Does three stress\" is a purely system-level statement.
-How that translates into narrative is up to you -and should vary based
-on the type of feel you\'re going for.
-
-What this ends up meaning is that, to create a grittier feel, you
-paradoxically narrate effects of hits as being weaker, not greater. A
-three stress hit becomes getting knocked out of position. A minor
-consequence is getting winded, or a minor laceration from shrapnel. A
-severe consequence is a mild cut rather than a severe gash. And being
-Taken Out means you suffered a single hard blow, not half a dozen!
-
-Here\'s an example of how the same fight may play out in both
-\"cinematic\" and \"gritty\" style. The same mechanical effects will be
-used in both situations!
-
-> Alfred hits Bob for three stress: \"Alfed strikes at Bob, leaving a
-> nasty cut across his chest. Blood drips down as Bob begins his
-> counterattack\".
-
-> Bob hits Alfred for four stress, Alfred takes 2 and a minor
-> consequence: \"Bob\'s wicked counterattack catches Alfred off-guard,
-> cutting him across the arm. The cut looks deep, but Alfred\'s not out
-> of the fight yet.\"
-
-> Alfred hits Bob for five stress, Bob takes a Severe consequence and
-> one stress: \"Alfred continues his furious assault at Bob, laying a
-> nasty strike to the leg. The cut doesn\'t look quite to the bone, but
-> it\'s pretty severe\"
-
-etc.
-
-Compare to:
-
-> Alfred hits Bob for three stress: \"Alfed strikes at Bob. Bob\'s not
-> ready for the sudden strike, so he stumbles and falls as he barely
-> manages to parry in time.\"
-
-> Bob hits Alfred for four stress, Alfred takes 2 and a minor
-> consequence: \"Alfred presses too hastily, and Bob lashes up from his
-> off-balance position. Bob manages to get his blade down in time, but
-> it looks like his hand is going to be sore from taken the impact
-> poorly.\"
-
-> Alfred hits Bob for five stress, Bob takes a Severe consequence and
-> one stress: \"Nursing his injured hand, Alfred kicks at Bob and
-> sprawls him out. Bob gasps in pain, it feels like he may have a
-> fractured rib.\" Same mechanics. Very different feel, based upon
-> narration and calibration.
-
----
-
-## Conflicts (as well as Contests and Challenges) as campaign/scenario-level pacing structures. {#conflicts-as-well-as-contests-and-challenges-as-campaign-scenario-level-pacing-structures-}
-
-Okay, so one of the things I\'ve been brewing in the back of my head is
-some way to put some kind of larger structure into a Fate campaign -the
-idea is pretty much directly stolen from Burning Empires (and, to a
-lesser degree, Mouse Guard). There\'s something just kind of satisfying
-to me about the idea. It also fits in with my idea of fractal challenges
-(see:
-<https://plus.google.com/108546067488075210468/posts/87wrm6yrdWx)>.
-I\'ve just finally got enough of my head wrapped around it to share it a
-bit more.
-
-Just to note: I don\'t know that this is a good idea. It could be a
-terrible idea. This is just my initial thought on how to implement it.
-
-The basic idea is that, ultimately, the entire plot of a game (at a
-given level) can be viewed as a single Overcome roll. But that\'s not
-particularly narratively interesting, so we employ a pacing mechanism to
-drive more detail into the game and make it last longer. Each \"turn\"
-in the pacing mechanism employed (be it Challenge, Conflict, or Contest)
-can in turn be turned into another Challenge/Conflict/Contest, and so on
-and so forth.
-
-For an initial pass, and because I like the symmetry, I\'m going to
-presume that the pacing mechanisms work the same on all levels. I don\'t
-know if that\'s the right solution, but I think it\'s a good starting
-place, and as I said the symmetry pleases me.
-
-To generate one of these pacing mechanisms, we create appropriate
-\"side\" characters representing the factions involved. We give them
-skills appropriate to the side and representing their ability to
-influence the world. We also give the whole situation appropriate
-aspects.
-
-Note that the skills probably do not match in any way to the character
-skill list!
-
-Let\'s assume a Conflict. Now, on each \"turn\", each side gets to make
-a move, just like a \"normal\" Conflict. If the move is made in such a
-way that it can\'t be framed as a scene involving the PCs, it\'s just
-rolled.
-
-However, if it can be framed as a scene involving the PCs (and the
-effort should be made to do so!), we \"drill down\" into the fractal by
-designing the scene.
-
-We come up with goals for each side of the scene, and an idea of what
-pacing mechanism the scene uses. If the scene is an Overcome or a Create
-Advantage, we define what \"success with style\" means. If it\'s an
-Attack, we define what can be done in the scene, and how much stress
-it\'s worth.
-
-Then, the scene is played out. The results translate up to the \"higher
-level\" Conflict just like if it were a single roll -if an Overcome is
-successful, it removes an Aspect. If a Create Advantage move is
-successful, a new aspect is generated. An Attack deals stress and
-(possibly) Consequences.
-
-Then, we move to the next side\'s turn, until the higher-level conflict
-is finalized in some way.
-
-So, the basic flowchart would look something like this:
-
-1.  Set up the Conflict
-
-    - Make sides, with appropriate skills and aspects and stress tracks
-    - Create situational aspects describing the scene
-    - Make zones, if necessary?
-
-2.  Decide who goes first by some manner
-
-3.  The side whose turn it is gets to declare a normal Conflict action.
-    This should still be narrative rather than simply \"I attack\"
-
-4.  If this cannot be framed as a scene involving the PCs, simply roll
-    as normal.
-
-5.  If this can be framed as a scene, create the scene:
-
-    - Give appropriate NPCs/resistance per the relative skills of the
-      sides
-    - If aspects are invoked, modify appropriately
-    - Define success criteria, and stress values if this is an Attack
-
-6.  Play the scene out
-
-7.  Using the criteria set in step 5, transfer stress/aspect
-    creation/destruction/consequences to the \"upper\" conflict.
-
-8.  Move to the next side and go to Step 4.
-
-So, I absolutely hate mechanics without examples, so here\'s the
-example. This is pretty much the same example as the last time I
-mentioned this in a comment.
-
-The Rebel Coalition is fighting off the Imperions! To destroy the Doom
-Base, they first need to deactivate its shield generator on the forest
-moon of Rodne.
-
-The rebels just have a few units in comparison to the Imperions. The
-Imperions have a lot more hardware and men (though it\'s a relatively
-small base), but they have the disadvantage of being in a known location
-and pretty much unaware of the rebel presence. So we\'ll model that out:
-
-> Rebels: Raid: 2 Recon: 3 Sneak: 4
-
-> Imperions: Detect: 1 Assault: 4 Search: 2
-
-We\'ll say that the Imperions are Blissfully Unaware, as well as being
-in a Fixed Position, but that they have Heavy Support and are In a
-Secure Bunker.
-
-The Rebels are Small and Mobile and have the advantage of No Fixed
-Location.
-
-There\'s also some Hostile Natives in the area, because hey, why not?
-And the whole thing is in a Thick Forest.
-
-So, we decide the Imperions go first. Not because of any game reason,
-but because I want the sample to more closely match the movie. Deal with
-it.
-
-The Imperions are heavily limited by the aspects in play -they can\'t
-really attack the Rebels while they\'re Blissfully Unaware. So the GM
-decides that he wants to become aware of the Rebel presence. That sounds
-like Detect vs. Sneak.
-
-Okay, we could roll here, but could we turn this into a scene?
-Obviously, we can! So we decide an interesting scene would be for a
-light Imperion patrol to find the Rebels, and then have a chase scene as
-the Rebels try to catch the Imperions and prevent them from reporting
-back to base! That sounds like a Contest, so we set that up
-appropriately. The Imperions only have a 1 Detect, which isn\'t going to
-work well for them, so they really only get a couple of mooks involved,
-and the main PCs manage to chase them off in short order. (There\'s a
-question here on whether the Imperions invoked their Heavy Support
-aspect to bring the speeders into play or not.)
-
-Well, the PCs won that round, so the Blissfully Unaware aspect stays.
-The PCs realize that a direct assault will be pretty pointless, so they
-decide to get some help from the Hostile Natives. We decide that this is
-likely a Challenge, and that SWS will require that the natives end up
-believing that we are gods.
-
-Fortunately, the player of the translator bot ends up pulling this off,
-giving the Rebels two free invokes on the Hostile Natives aspect! Go,
-team!
-
-(My memory on the order of events in the movie gets a bit fuzzy here, so
-forgive me if I gloss over a bit).
-
-So the Rebels decide that with their newfound friends, they have a
-chance to attack the Imperions and take out the shield generator.
-However, the Imperions have invoked their Heavy Support, making the
-resistance pretty tough. The Rebels decide that their Hostile Natives
-have come along for the ride, evening out the fight a bit. Appropriate
-stress values are decided on for taking out various numbers of enemies,
-and the Conflict is on! Some stress is done, but not enough for a
-Consequence -boo, hiss, the Rebels have gained some ground but haven\'t
-radically altered the course of battle -yet.
-
-The Imperions mount a counter-attack, which ends up being fended off by
-the Rebels.
-
-The bunker is getting annoying! The Rebels decide it\'s time to
-neutralize that, and spend their turn Overcoming that particular
-obstacle. This is done as a Challenge, representing the difficulty of
-gaining entry to the bunker, while fighting off the attacking
-Thundertroopers. Again, the PCs succeed, meaning they get access to the
-bunker! The fight moves inside!
-
-And so on, until the Imperions concede or are Taken Out.
-
-There\'s still some open questions I have like dealing with Fate Points
-since a Fate Point expenditure at the \"upper level\" has so much more
-impact, how do I deal with them? Do I just say that expending a
-\"upper\" Fate Point requires one FP per PC? Or do I give them a
-separate pool? These are all good questions.
-
-I also don\'t really know how I feel about the inherent one-sidedness of
-the Attack option. In a \"normal\" attack, only the attacker can deal
-stress. I don\'t know how that fits in this case, but I guess you could
-make the argument that a \"success with style\" boost could model a
-scattered retreat, and in most cases, the attackers will simply retreat
-rather than take any kind of significant casualties or loss of position.
-
-Anyway, thoughts? Comments? Suggestions? Is this just a terrible idea
-within the general Fate framework?
-
----
-
-## Fiction, not Physics
-
-\"Fiction, not Physics\". I find myself quoting this a lot, and it\'s
-really become key to how I understand Fate. When I first heard it, I
-assumed it meant \"we\'re not concerned with realism, here!\" And
-that\'s part of it, but certainly not the whole thing, and probably not
-even the most important thing (after all, you can have realistic
-fiction).
-
-What I\'ve come to understand this phrase as meaning is that Fate sets
-out to model how stories flow in actual story media -movies, novels,
-etc.
-
-Here\'s an example: Let\'s say that our spy hero needs to get past a
-door, guarded by a couple of mooks in a movie. We see him slip into the
-shadows where the mooks can\'t see him. He then climbs into the pipes
-above the guards, and once above them drops down, taking them both out
-with his weight. He hauls the guards off behind some boxes and proceeds.
-
-Okay, so in a more traditional RPG, this would be a stealth roll,
-probably some more notice checks, probably a roll to get up on the
-pipes, and then an attack roll with some bonuses.
-
-Now, sure, you could do something similar with Fate, after all it does
-have elements like skill rolls and whatnot. But, really, it\'s better to
-map actions to periods of \"camera time\", just like in the movie. So in
-the first shot of the scene, we see our spy slip into the shadows
-That\'s a Create Advantage roll, opposed by the mooks\' Notice.
-
-Then, our hero climbs up on the pipes. Again, this is Create Advantage,
-but against a static difficulty this time (the danger of failing is more
-from the inherent danger, and less from being noticed -we\'ve already
-established that our character is out of view.)
-
-With these aspects now in place (the scene is now ABOUT our hero being
-\"In the Shadows\" and \"On the Pipes Above the Door\"), and our free
-tags on them, it\'s a pretty easy Fighting roll to do enough stress to
-knock out the two mooks. Concessions: Concessions are one of my favorite
-examples of this, since they, more than anything else, model fiction.
-Otherwise, why would losing make you, in a way, stronger?
-
-But think of it. The second act of many movies involves our hero getting
-beat up, thrown around, and then coming back in the third act to stomp
-the living tar out of the bad guys. And that\'s what concessions enable.
-
-Heck, if you put it in game terms, all of The Empire Strikes Back was
-the players colluding to grant every concession they could for a couple
-of sessions, to give them an absolute hoard of fate points to use to
-crush the Empire! I\'m convinced that the Ewoks being effective at all
-was simply a matter of Han and Leia\'s players dumping fate points into
-the \"Useless (?) Ewoks\" scene aspect.
-
-Star Wars gives me lots of examples of Fate Mechanics at play in
-fiction, which gives me a lot of ideas on how to use them in games.
-Han\'s on the run from the Imperials, and has flowin into an asteroid
-belt. The opposition is overwhelming, and he knows he can\'t win in a
-straight up fight, and it\'s a matter of time before he\'s worn down.
-
-> Han: \"Hey, I\'m a smuggler. I want to find an asteroid with a big
-> cave or something I can hide inside.\"
-
-> George: \"Sure, give me a Pilot roll.\"
-
-> Han: \"Awesome, Succeed With Style! Let\'s say there\'s an asteroid
-> with a big, deep cave in it.\"
-
-> George: \"Okay, but you\'ll have to roll a Piloting roll to make it in
-> without damage -of course, so will the bad guys.\"
-
-> Han: \"No problem! I make it in fine.\"
-
-> George: \"So do the two TIE Fighters following you.\"
-
-> Han: \"Not so fast! I\'m burning my tag on \'Deep Cave\' to drop their
-> roll and they\'re 0 point mooks, right?\"
-
-> George: \"Yup, the TIE Fighters crash into the cave wall. You\'re safe
-> -for now. You hear bombs going off above as the Imperials try to find
-> your location.\" gets a gleam in his eye and holds up a Fate Point.
-> \"Hey, Han, don\'t you Have a Bad Feeling About This?
-
-> Han: \"Now that you mention it, I sure do!\" takes the fate point
-
-> George: \"You\'ve landed in the cave and are resting for a moment,
-> when something hits your front viewscreen. Some kind of creature\...\"
-
----
-
-## Conflict with named NPCs
-
-(I\'m getting a little off in the weeds here. This is of course just
-personal opinion, and I\'d be happy, as always, to have people tell me
-I\'m dumb.) Conflict with named NPCs isn\'t really about who wins, or
-even tactics. It\'s a test of your commitment to your goals. It\'s a
-bidding war -a game of chicken.
-
-In a roughly even conflict, there\'s a steady escalation of resource
-expenditures. Sure, you\'ll win if it takes nothing but some skills
-rolls, after all, that costs nothing. But, are you willing to spend some
-Fate points?
-
-Then we escalate to consequences -are you willing to take them? Are you
-willing to risk being taken out?
-
-Here\'s where the concession mechanic really comes into play -at any
-point, you can accept a loss and gain a fate point. That helps escalate
-the stakes as the conflict goes on.
-
-At the beginning, it\'s just \"the thing you want\" vs getting a fate
-point. Then, it becomes \"the thing you want and spending fate points to
-get them\" vs. getting a fate point.
-
-After that it becomes \"the thing you want and spending fate points\"
-vs. getting a fate point and not taking consequences.
-
-Then we get to the point of \"the thing you want, spending fate points,
-and taking consequences\" vs. \"a bunch of fate points\" and only after
-that point do we really get to the point where being Taken Out is even a
-consideration.
-
-And this same escalation is happening for both sides in the conflict,
-simultaneously. Tactics and abilities can change how quickly each side
-escalates, but at the end of the day it\'s about how badly you want it
-more than anything else.
-
----
-
-## Put a ~~Bird~~ Scene On It. {#put-a-bird-scene-on-it-}
-
-I think I\'ve mentioned before, but these are more like my journal of
-unlearning other systems, and I\'m not sharing them to be the Guru on
-the Mount, but more as a record of my mis-steps in hopes that others can
-avoid stepping in the same potholes. I fully expect lots of people to
-look at these and go \"yeah, duh.\"
-
-That\'s probably more true for today than any other one of these.
-
-So, let\'s talk Chapter 9, folks. You know, that chapter that I totally
-ignored when I first read Fate Core, because, you know, I know all about
-this long-term game planning stuff, that chapter must be for newbs. Just
-get me to the crunchy bits.
-
-You\'ll also note that a recurring theme in these posts is how Fate
-ain\'t other systems. So any time I think \"hey, I know that\" I\'m
-probably about ready to step in it.
-
-So I\'m running my Kriegszeppelin game, and a player wants to hop up his
-plane using some mechanics. I\'m fully in GURPS/D&D mode, and so I have
-him roll the dice. He succeeds, gets some invokes on a Scene Aspect, and
-we move on. I did it right, right?
-
-Yeah, no. Couldn\'t have flubbed that one more if I tried. Where was the
-drama? Where was the conflict? Where was the story? Nowhere, that\'s
-where. What I should have done was frame this in a scene. \"Okay, Eddie,
-the plane\'s in the hangar with the other planes. When are you doing
-this? At night, when nobody can see? Or are you being open about it?
-What do the mechanics think of you messing with the plane? What about
-the other pilots?\"
-
-Then, I could have some framing for the scene. Once I\'ve tied this to a
-specific place and time, it becomes a lot more interesting -other pilots
-can show up. The mechanics can show up themselves. Compels start to
-suggest themselves. Conflict. Drama. Story. The reasons we play.
-
-So that\'s my big zen moment for the day. Any time something happens,
-frame it in a scene. Contacts roll? Okay, where are they going that\'s
-appropriate to find these people? Investigate? Okay, they\'re in a
-library or pounding the streets. And given the new scene, how can you
-absolutely screw with them? What opposed interests can be there, what
-complications can arise? There is absolutely no mechanic that can\'t be
-improved by framing it in a scene. Fiction, not physics -if you wanted
-to get the desired result in a TV show, how would you show it on camera?
-
-And it goes the other way, as well. You want your players asking for
-scenes so they can do stuff. Let them get the crew together before the
-mission to make a Rapport roll and inspire them, getting a few free
-invokes on a newly created scene aspect. Get them in a diner with the
-Big Bad for a brief war of words, ala Heat.
-
-There\'s another subtle benefit of thinking in scenes. Things happen in
-scenes. If you\'re in the \"physics simulation\" mode of what happens
-momentto-moment, it\'s easy to get stuck playing a lot of boring stuff.
-But if you frame it in a scene, you\'ve got to ask the big scene
-questions first -What is this scene about? What\'s at stake? What could
-go wrong? What interesting thing is about to happen? And if you don\'t
-have interesting answers to those questions, it\'s probably not an
-interesting scene and should just be skipped over. If your game was a TV
-show or a movie, would they waste script time on this?
-
-Ramp it up. Put a scene on it.
-
----
-
-## Fate Core character creation
-
-I love Fate Core character creation. But to explain why, I need to tell
-a story.
-
-I was trying to play Burning Wheel a bit back, never really got the feel
-for it. Then I had an opportunity to play with someone that did get it,
-and it changed some of my perceptions. I remember talking about running
-a \"tapestry\" game with this guy, and he basically said he didn\'t see
-how that could work in Burning Wheel, and I totally didn\'t understand
-it.
-
-Character creation seemed normal, and I did a lot of the usual things.
-Specifically, I had taken an Enemy character, as well as a friend. We
-worked up backstories for our characters, and awaited the first session.
-
-Then we started playing. It quickly became apparent that the enemy was a
-significant enemy of the game. It quickly became apparent that the story
-was about our characters, in a way that a D&D game isn\'t -it was our
-story, not a story that you could drop random characters into.
-
-This was one of the first \"aha!\" moments for me with narrative gaming.
-Backstories aren\'t \"just\" backstories. They\'re stories. They\'re
-what drives the game forward.
-
-And that\'s why I love Fate character creation.
-
-First, it\'s one of the few character creation systems that focuses
-first on who a character is, rather than what a character can do. I find
-it in many ways hard to create characters in other systems now, as it\'s
-an exercise in point optimization. Bleah.
-
-The shared stories also present the party a good reason to know each
-other, and do a great job of banishing \"you meet in a bar\".
-
-But the real reason I enjoy character creation in Fate is more than
-these. It\'s the Phase Trio. It\'s creating and enriching stories about
-these characters. Because each time I go through the exercise, we end up
-with a plethora of threats and antagonists in the world. We end up with
-story threads that need to go somewhere, and that I want to find out
-what happens with. I end up with complex relationships that I want to
-see resolve in an interesting way.
-
-I can\'t imagine running a Fate game where character creation didn\'t
-influence coming events. And if I played in one where our pasts didn\'t
-come into play, I\'d kind of feel like something was left out.
-
-I\'ve learned to dislike the term \"backstory\" when it comes to Fate
-characters. Backstory implies that it\'s the past, and in many gaming
-circles carries the connotation that it\'s only important from a
-motivational view after all, the story was probably created before you
-made your characters. But your character\'s history isn\'t that in Fate.
-It\'s what drives the game. It\'s what creates complications, and gives
-players the chance to decide what type of game they want to play.
-
----
-
-## Just Do It. {#just-do-it-}
-
-(this will likely be a two-parter, with the other part delivered when
-the sun\'s up.)
-
-One of the things I see a lot in Fate, both online and with people I
-play with IRL, is questions like \"Does Fate Core have rules for \"
-
-And, ultimately, I think that\'s the wrong question. The right question
-is \"Can I make a character like in Fate Core?\" And the answer, nine
-times out of ten, is \"Sure can! Without using anything outside of the
-core rules, even!\"
-
-Crazy, right? I mean, there\'s no rules for cybernetics, so how could I
-make a character with a cybernetic arm?
-
-Real simple. You just have to unlearn some stuff. Start by asking \"what
-does the cybernetic arm mean?\" Well, in fiction it probably means
-you\'re strong. In some fiction it means that your connection to
-humanity is lessening. Depending on the setting, it might also mean that
-people react poorly to you. The arm could malfunction, requiring
-repairs.
-
-Now, I\'m a traditional gamer by background. I started with Moldvay
-Basic D&D, and GURPS was my system of choice for a long time. I don\'t
-want to say I\'ve played every system ever, but I played a ton of them
-in the 80s. I\'ve had a chance to play in some seriously old-school
-campaigns -as in, run by the father of my friend, and dating back to
-probably 80 or earlier and being adult-run and adult-played the whole
-time.
-
-I ain\'t saying this to win the geek wang competition, as I know
-there\'s people reading this who have way bigger geek-peeners than me.
-My point here is that through all of that time, my reaction to the
-problem of the cybernetic arm is based on figuring out what it does, how
-it hurts me, balancing it with some kind of character build resource
-cost, etc. I mean, I get this line of thinking, and I understand the
-urge to add this kind of stuff to Fate. It was sure my first instinct.
-
-But it\'s not needed, though it took me a long time to figure that out.
-Here\'s how you build a guy with a cybernetic arm that makes him strong
-in Fate: Give him a Physique skill (you could probably make a case for
-Athletics) of 4.
-
-Give him an appropriate aspect representing his cybernetic arm.
-
-That\'s it. You\'re done. Have a beer, take the rest of the day off.
-Seriously. You\'re done. No, I\'m not kidding.
-
-But how can this be? Well, you want him to be strong, so give him the
-appropriate skill -Just do it.
-
-You want the arm to malfunction, so make the aspect and it can be
-compelled. Just do it.
-
-You want the arm to make him super-extra strong on occasion -so invoke
-the aspect when needed. Most of the time, the bonus won\'t matter
-anyway, so not much difference there -and realistically, having his
-cybernetic arm make everything awesome would get a little one-note. Just
-do it.
-
-You want the arm to cause him to have problems relating with people
-invoke the arm aspect against him when in social conflicts, and also
-consider compelling when appropriate. Just do it.
-
-So with two things, we\'ve done a total implementation of a cybernetic
-arm that\'s well balanced within Fate, and does everything we really
-want it to do in terms of actual play.
-
-If you want to go a bit further, you could add in a stunt allowing extra
-damage, similar to the already-existing stunt in the game. But I think
-it would work pretty well without it.
-
-And this works for almost everything.
-
-Want illusion magic? Decide what you want, make up an appropriate skill
-that does just that, and have the character have an \"Illusionist\"
-aspect to grant access to the skill. Bam, done. Just do it.
-
-And we can go on and on with the examples. And I\'ll be honest -there\'s
-some cases where you really do need to go a bit deeper into Extras-Land
-to make things work. And sometimes it just adds a bit more flavor. If
-you\'re remaking Dresden Files, you may want to consider a bit more in
-the ways of stunts. In some cases, there will be bits that are core to
-the fiction that don\'t really model well without some modification -I
-think that Camelot Trigger is a pretty prime example of that.
-
-But really, the Fate Core system gives you not just a toolkit, but a
-fully functioning 3d printer (thanks for the metaphor, Jack Gulick, even
-if I\'m using it slightly different than your original intention).
-
-I think there\'s some primary reasons I see people wanting to add in
-more \"toolkit\" like stuff to Fate.
-
-1.  That\'s how it\'s done, damnit! And I\'ll admit, that\'s how I
-    initially approached the system. \"Where\'s the rules for ?\"
-    Something different has to require more paragraphs, right?
-
-2.  Permission. The idea of Just do it is a bit wild to people,
-    especially those used to running games like the ones I\'ve talked
-    about above, where you really can\'t do anything unless there\'s a
-    rule for it.
-
-3.  Balance. Hey, if we just let people make up their stuff, it won\'t
-    be balanced, right? I mean, what if they just make an aspect called
-    Awesome At Everything? And my answer to that is pretty simple -just
-    be mature. If you can\'t figure that out at the table, Fate may not
-    be a great game for you. But also, let\'s be honest -are those
-    complex character building games really balanced? Can you tell me
-    that all 150-point GURPS characters are equally effective? I played
-    that game for YEARS, and I will tell you emphatically that they\'re
-    not. So if the complexity isn\'t buying us balance, why should we
-    keep the complexity in the name of balance?
-
-4.  People like Legos. They just do. Lots of people enjoy the character
-    creation minigame, and trying to put the pieces and parts together
-    in new and interesting ways, and don\'t really do so well when just
-    told \"well, what do you want it to be?\" This is probably the
-    biggest \"real\" issue with moving away from a toolkit approach,
-    IMHO.
-
-5.  Some people want to use the Lego/toolkit approach to get bigger
-    numbers and that\'s the topic of the second half of this, if I get
-    around to writing it.
-
----
-
-## Rob\'s Guide to Writing Good Aspects {#rob-s-guide-to-writing-good-aspects}
-
-(This seems to be one of the recurring things people, especially new
-people, have problems with, so I thought I\'d toss my ideas in the ring
-as well. Please feel free to tell me if there areas that this could be
-improved in, or are flat out wrong.)
-
-### Poor Aspects
-
-Lots of people new to Fate think of aspects in terms of defining what
-their characters can do, as Merits/Feats/Advantages work in other
-systems. Try not to think of aspects in this way, it tends to create
-poor aspects. Instead, the best overall view of aspects is \"what would
-I want to see in a story about this character?\"
-
-Specifically, things that can be handled with skills or stunts should be
-handled as skills or stunts. You don\'t need a Good Shot aspect to hit
-people with a gun -that\'s what the Shoot skill is for. And if you want
-to be a great sniper, an appropriate stunt will do the job much better
-than an aspect will.
-
-On the other hand, [The White
-Death](http://en.wikipedia.org/wiki/Simo_H%C3%A4yh%C3%A4) is pretty darn
-interesting, and the story of what happens to him after, or during, the
-war would be pretty interesting. It also covers a few other mechanical
-areas that simply Good Sniper doesn\'t.
-
-Now, what a good aspect is becomes a bit harder to define, especially
-without a solid understanding of what aspects do. Don\'t worry, I\'m not
-going to dive too hard into the mechanics here, as my goal is to make
-these ideas understandable with as little game jargon as possible.
-
-### What Do Aspects Do? {#what-do-aspects-do-}
-
-To write a good aspect, it\'s fundamentally important that you
-understand what they do in game. While this may depend on a number of
-things, aspects on character typically do one or more of five things:
-
-1.  Grant permission
-2.  Make you awesome doing some things
-3.  Hinder you in some circumstances 4) Complicate your life
-4.  Create setting
-
-We\'ll cover each of these, and why they\'re important.
-
-### Grant permission
-
-One of the common uses of aspects is to \"grant permission\" to do
-certain things that the majority of people can\'t do. This is probably
-the vaguest of the four uses of character aspects, so I\'ll try to
-clarify with some examples. Most people can\'t use magic, but a Wizard
-Private Eye can.
-
-Most people can\'t use the Force, but The Last Jedi sure can.
-
-Most people can\'t go into the palace and talk to the king, but The
-Brother of the King sure can.
-
-Most people can\'t find the assassin\'s guild, and certainly can\'t get
-in, but An Assassin in Good Standing can.
-
-As you can see, a lot of times a \'grant permission\' aspect follows the
-formula \"Most people can\'t , but can\".
-
-If you\'ve got an aspect in mind, think of whether or not it gives you
-any kind of permissions. If not, that\'s fine -not all aspects do.
-
-### Make you awesome doing some things
-
-The most common use of an aspect is probably to make you more awesome
-doing things. When coming up with an aspect, try to think of things that
-your character might fail at if the aspect weren\'t true.
-
-\"My character might have missed that shot, but The White Death doesn\'t
-miss.\" \"I may not have been able to defeat those stormtroopers had it
-not been for My Wookiie Copilot\"
-
-\"I may not have been able to jump out of that carbonite trap had I not
-been The Last Jedi\"
-
-\"They may have seen me try to sneak by, except for the fact that I\'m
-One With the Shadows\"
-
-\"I may not have been able to do what I want, but I\'m a master of White
-Russian Diplomacy\"
-
-### Hinder you in some circumstances
-
-This is the exact opposite of the previous section. Aspects under this
-category can cause failure when otherwise you may have succeeded.
-
-Now, this is probably an odd concept. Why in the world would you want to
-do this?
-
-Aspects are triggered by Fate Points. Each scene, the GM gets a Fate
-Point for each character. If the GM chooses to use one against you on
-one of your aspects, you get that Fate Point at the end of the scene.
-
-If the GM uses them on one of the NPC\'s aspects, you don\'t get them.
-
-Now, rest assured that the GM will use his Fate Point budget on each
-scene. It\'s just going to happen. The only question is whether or not
-you get those Fate Points, one of your fellow PCs gets them, or if they
-just vanish into thin air.
-
-That said, the template for \"bad\" aspect use is almost exactly like
-the \"good\" ones, so you can think of them in almost the same way.
-
-\"I probably would have talked the official into doing things my way,
-except that I\'m obviously not trustworthy since I\'m One With the
-Shadows\"
-
-\"I would have been able to grab onto that ledge, except my Bionic Hand
-froze up\"
-
-\"I would have been able to jump out of the trap, had it not been for my
-Lame Leg\"
-
-### Complicate your life
-
-And here\'s another one where it seems aspects are negative. And the
-reason for why you want these is exactly the same -to get delicious,
-delicious Fate Points.
-
-Occasionally, the GM can decide to complicate your life by using one of
-your aspects. If you\'re The Last Jedi, then there are probably people
-hunting you down, and they very well might barge in on you at the most
-inopportune moments. And when that does, the GM hands you a Fate Point
-(don\'t worry, there are ways to stop this from happening, but that\'s
-beyond the scope of this document).
-
-Even without the Fate Point, wouldn\'t you be better off without these
-complications? Well think about it. It\'s the GM\'s job to complicate
-your life. It\'s what they do, or games would get really dull, really
-quickly.
-
-So to see if this applies to your character, try and see if there are
-ways that this will complicate your life. This is a bit different than
-the previous set of ideas, though, in that these situations aren\'t
-about directly helping or harming you at a task, rather they\'re about
-story-level complications.
-
-For instance:
-
-\"Hunting down the bounty hunter got a lot tougher when a bunch of
-Imperials ambushed me since I\'m The Last Jedi\"
-
-\"It gets tough to work in this town, since the cops like to hassle the
-only known Wizard Private Eye\"
-
-\"Man, I keep creating trouble for myself since I\'m a Known
-Troublemaker\" \"People keep trying to kidnap me since I\'m The Brother
-of the King\"
-
-### Creating Setting
-
-This is probably the least important use of aspects, but it\'s still
-worth noting. Since with an aspect, you declare something as true about
-your character, this is a good way to make things exist in the world
-because you want them there.
-
-If you\'re a Guild Assassin in Good Standing, well, then, there must be
-an Assassin\'s Guild.
-
-These are the types of things that your GM may veto, though, so keep
-that in mind. But a lot of playing Fate is taking the ideas from
-everyone at the whole table and making an awesome story, so your GM
-should work with most reasonable ideas like this.
-
-### Actually making your aspect
-
-Okay, now we\'ve talked about what aspects can do for you. How do you
-make one? Lots of things can make good aspects -specific items,
-relationships with people or organizations, internal aspects of your
-personality, goals, or even catchphrases. Someone who\'s Got a Bad
-Feeling About This is probably going to be right about those feelings at
-least some of the time!
-
-So think of something that you think is interesting about your
-character, something you\'d want to show up in a story about them.
-
-Now, go through that list of how aspects are used, and see how many ways
-that you can think of to use that aspect. The more, the better! If you
-can think of at least three ways, you\'re in the right area. If some of
-those help you, and some of those hinder you, you\'re on to something
-good.
-
-Go broad in your aspects, not specific. If you choose a relationship,
-consider a relationship that has a lot of implications. Brother of the
-King lets some things happen, but Exiled Half-Brother of the Tyrant King
-says a lot more! For non-relationships, think of phrases that have both
-flavor as well as multiple connotations -Mrs Fixit has some obvious
-uses, but Monkey Wrench (one of my favorite all-time aspects) can be
-used all over the place -whether with hitting things with a literal
-monkey wrench, fixing things, or causing or being the recipient of a
-metaphorical \"monkey wrench in the works\".
-
-Lastly, think of aspects with flavor. Think of things that make you
-excited about the character, and show the character\'s personality.
-Troubled Life is kind of blah. Penchant for Trouble is a little better,
-but \"I\'ve Got a Bad Feeling About This\" says a lot about the
-character.
-
-And mostly, have fun. This ain\'t rocket surgery. It\'s a game, and
-it\'s supposed to be a fun one. And no decision you make is
-super-permanent -the vast majority of your aspects can be swapped out on
-a regular basis, so as you get a better feel for what is and is not
-coming into play on a regular basis, you can adjust your aspects so that
-they become more useful to you, or to reflect character development.
-
----
-
-## Intent and Task
-
-Okay, so I\'m stealing a little Burning Wheel terminology here, forgive
-me. It still applies, honest!
-
-One thing that I\'ve seen as a stumbling block for people coming to Fate
-is that Fate handles rolls and actions slightly different than a lot of
-\"mainstream\" games.
-
-In a lot of these games, you describe what you want to do, roll the
-dice, and then see what happens. So if you want to, say, throw somebody,
-the rules might say that he\'s not thrown, or that he is thrown, and how
-far he\'s thrown. I like to call these \"task-based\" games, as the
-player decides what task he\'s going to accomplish, and then sees what
-the result of that action is.
-
-Fate\'s a bit different. Fate\'s in the bucket of what I like to call
-\"intentbased\" games. What that means is that a player starts with what
-they want the results of their action to be. Then they see if they can
-achieve that result.
-
-For an intent-based system to work, you need to know two things for
-every action. The Intent -what it is you want to achieve, and the Task
--how the heck you\'re going to go about doing that. Without those two
-pieces of information, you can\'t really determine how to roll for
-something in Fate.
-
-For instance, let\'s say a PC is flying around and has an enemy plane On
-His Tail. This player then says \"I want to fly through the canyons.\"
-Okay that\'s probably a piloting roll, as the Task almost always
-determines the skill rolled, but which of the four actions should it be?
-
-The clearest case is an Overcome, and the Intent of hte player may be to
-get those pesky planes off of him!
-
-Or, it could be an attempt to Create An Advantage on either those
-planes, or even other opponents, something like Lost Him In The Canyons.
-The player may want that to really ensure they get those planes off!
-
-Or, he could be pulling a Han Solo and trying to get the planes to fly
-into the canyons and blow up -which sounds awfully like an Attack.
-
-So without both the Intent and the Task, we can\'t really resolve an
-action. Several of the \"classic\" how does this work conundrums fall
-into this category. Handcuffing someone to a desk -well, is it intended
-to be permanent and effectively remove them from the fight? If so, it\'s
-Taking them Out, and is an Attack. Is it just supposed to slow them
-down? It\'s Creating an Advantage.
-
-Same with the Hulk throwing someone over the horizon if you\'re trying
-to throw them over the horizon and remove them from the Conflict,
-you\'re trying to Take Them Out, and it\'s therefore an Attack. If
-you\'re just trying to stun them, move them around, or whatever, it\'s
-Create An Advantage.
-
-Getting players to say what their Intent is is often tricky, especially
-if they\'re coming from more traditional (task-based) games. I like to
-ask players when something is unclear \"Okay, describe success. Let\'s
-say this works what is it that you want to happen?\"
-
-Sometimes this isn\'t really necessary, of course. If the player says
-\"I run him through with my sword!\" you can pretty well assume that the
-Intent is to kill him.
-
-Intent and Task also are important when discussing Fate Core builds and
-modifications/stunts. \"How do I do cybernetics\" is an unanswerable
-question, without understanding what it is you want cybernetics to do.
-If you want cybernetics to make people super-powered, that\'s one thing.
-If you want them to grant some other bonus, that\'s another. If they can
-reach the limit of human capability, that\'s fine, too.
-
-But what kind of difficulties can cybernetics cause? Can they break
-down? Do they need maintenance? Could they even be hacked?
-
-On the other hand, there\'s also the social aspects of cybernetics to
-consider -do cybernetics cause you to become removed from humanity? Do
-they cause others to react differently?
-
-And really, cybernetics are a \"Task\". They\'re a means to an end. To
-figure out how to use them, you really need to start with what you want
-your game to be. If you want superheroes going around doing super stuff,
-then you\'re going to approach them one way. If you want part of the
-theme of your game to revolve around the loss of humanity, then you\'re
-going to approach them a very different way. All those questions combine
-to form the \"Intent\" of your cybernetics system. And depending on how
-you answer them, you may decide that they\'re nothing but descriptive
-fluff and have no narrative effect (people aren\'t against them, but you
-don\'t want them to grant superhuman abilities, and don\'t want them to
-really be troublesome, either).
-
-And all of those are great, and can serve a particular goal. But the
-only way to judge the effectiveness of your cybernetics implementation
-is against a defined goal.
-
----
-
-## Fate Doesn\'t Go To Eleven {#fate-doesn-t-go-to-eleven}
-
-For those of you that don\'t get the reference [Spinal Tap
--11](http://www.youtube.com/watch?v=EbVKWCpNFhY)
-
-Okay, so I may have over or mis-sold this one. This is really a second
-thought that I think informs and supports the previous in a way that
-it\'s kind of hard for me to talk about one without briefly mentioning
-the other, and vice versa.
-
-I\'m going to do a little setup on this one, as I think you need to
-understand how I view skills to get the point I\'m trying to make here.
-As always, this is just Rob\'s Humble Opinion and obviously ain\'t
-anything official. I work for a little software company in the
-Northwest, not a huge gaming conglomerate in San Francisco!
-
-So let\'s talk about skills. Skills are how good you are at something,
-right? I mean, that\'s what it says on the tin.
-
-That\'s true in most games, and is superficially true in Fate. But I
-don\'t really look at skills as \"skills\" in Fate, because, hey,
-Physique isn\'t a \"skill\". What I look at skills as is closer to \"how
-a character impacts the scene\". This makes a lot of things make more
-sense. If you think about someone with a gun versus a martial artist,
-realistically, the martial artist will be less effective given the same
-skill.
-
-But, if we just say that the skill represents your ability to influence
-the scene, then we can kind of roll the influence of the weapon into the
-influence of the skill and call it a day. So with a hypothetical Martial
-Arts skill of 4, you\'d be Jackie Chan, but with a Shoot of 4, you\'d be
-pretty competent, as your weapon itself would be part of that scene
-influence.
-
-I\'m getting somewhere with this, really! Thanks for reading so far!
-
-In the previous post, I talked about modeling a cybernetic arm primarily
-by just giving the character the appropriate skill (Physique or possibly
-Athletics), an Aspect for the more narrative bits, and maybe possibly a
-stunt, and calling it a day. This works because, to me, having that 4 in
-Physique says \"I have this much influence in scenes, when I approach
-them in this way. How I got that influence is irrelevant, whether it\'s
-working out, technology, magic, or whatever.\"
-
-At this point, you might ask \"what if I was a body builder that had
-cybernetics installed, hrm, Mr. Smarty Pants?\"
-
-\"Fate Doesn\'t Go To Eleven.\"
-
-Okay, I finally got around to the post title. But what the hell do I
-mean by that? If you\'re not familiar with the phrase \"goes to
-eleven,\" it comes from the movie This Is Spinl Tap. In it, one of the
-guitarists talks about his amps being special because while most amps
-have ten as the highest setting on the dial, his goes to eleven.
-Apparently he\'s too dumb to realize that it\'s the internals of the
-system that determine the volume of the amp, and that the label is
-exactly that, just a label.
-
-Fate does not go to eleven. If the maximum skill you can have in an area
-is 4, then that\'s what you get. That also represents the maximum
-ability that a starting character can have in that area. Period. (Okay,
-there\'s stunts, too, but there shouldn\'t be anything granting a flat
-bonus). 4 doesn\'t need to represent the same thing in every game. It
-represents the maximum that a player can start with, in that game. 4
-Physique could be the strongest a human can achieve in one game, and it
-could be Superman in another. It\'s a scale, a way of calibrating. It\'s
-not GURPS, where 15 STR means exactly what 15 STR means, and you have
-lots of tables telling you exactly what 15 STR does, and you have to
-have crazy high levels of strength to represent augmented individuals,
-or supers, or whatever.
-
-Now I\'m going to tie back to Just Do It again. One of the reasons that
-people like toolboxes is that they like going to eleven. They like
-hearing about the maximum value of something, and then finding a way to
-surpass it. \"How high can we stack the bonuses?\" Many folks will want
-to make a character with a cybernetic arm not because they think it
-makes a great story, but because they think that it will allow them to
-go higher than the supposed highest in the system -it lets them go to
-eleven. Which, of course, means that the \"highest\" in fact wasn\'t,
-and the real \"highest\" is totally dependent on how high you can stack
-your Lego blocks.
-
-Fate doesn\'t do that. Fate just says, \"You can have 4. And a few
-stunts to let you do a bit better in specific situations. You can\'t
-have more. Have a nice day.\" Fate just says your amp goes to 10, and if
-you want to be louder, you need a louder amp -aka, play in a setting
-where 4 means something else. It doesn\'t lie to you and just relabel
-the loudest as 11 so that you feel more awesome. It\'s honest in its
-calibrations and ranges.
-
-Some people, of course, do love that type of charop. I personally have
-litlte use for it, and I suspect some people agree with me. And
-thankfully there\'s tons of games in the hobby, and lots of them support
-that level of charop. If I want a game that does that, then I\'ll play
-that type of game.
-
-I\'m just glad that Fate doesn\'t do that, and that it gives me an
-option that doesn\'t go to eleven.
-
----
-
-## Fate doesn\'t have a damage system {#fate-doesn-t-have-a-damage-system}
-
-(Yeah, Wil Hutton, you kinda prompted this, but it\'s been in my head
-for a bit).
-
-Seriously, Fate doesn\'t have a damage system. I mean, read the books.
-Where does it say \'damage\'? We\'ve got Stress, we\'ve got
-Consequences. But nothing that says Damage.
-
-Which means we have two ways to interpret this. \"No, really, they mean
-damage, they just didn\'t say it.\" Which would mean that Fred Hicks and
-Leonard Balsera are incompetent, and didn\'t use the proper term. I
-don\'t buy that for a second.
-
-Which leads to the second interpretation. \"They didn\'t use the word
-\"damage\", because there\'s no such thing as damage.\" Yeah, that
-sounds about right. I\'ve found I\'ve learned the most about Fate when
-I\'ve stopped trying to interpret it and just take it at face value.
-
-So what\'s Stress, if not damage? Well, at an abstract level it\'s a
-pacing mechanism. What that means more concretely is that it\'s a
-measure of how close you are to being taken out -and there\'s lots of
-reasons you might be Taken Out! And since Stress clears at the end of a
-Scene, it\'s pretty clear that it\'s not meant to represent actual
-physical damage in any way.
-
-Well, what about Consequences, then?
-
-Nope. Still not damage. I\'m going back to \"physics, not fiction\"
-here. \"Damage\" is primarily a \"physics\" concept -what the actual
-physical effect something like an attack or a fall has on your body.
-Fate doesn\'t model that, and doesn\'t want to. It models fiction.
-
-Now, what\'s interesting about fights or other conflicts in fiction is
-not the detailed description of exactly what the physical effects of a
-sword blow are. It\'s the impact that they have on the story on an
-ongoing basis. Whether it\'s Harry Dresden having a headache, or John
-McClane limping from his feet being hurt from glass, what fiction cares
-about is the impact that the fight has on the story. If an \"injury\" is
-purely internal, or in another way doesn\'t impact the story, it\'s
-irrelevant.
-
-And that\'s what Consequences model. They model the continuing impact of
-the conflict and how it carries through the story.
-
-And this is awesome. Because it opens up all sorts of options. There\'s
-only so many ways you can describe damage, but there\'s lots of possible
-consequences from a fight. Big sword hit? Sure, it can be a Gashed Leg.
-But\... that\'s not very interesting. But if you assume that there\'s no
-damage model, then you can also dodge aside at the last moment and hit
-your head, giving you a Ringing Headache. You can barely parry it aside
-at the last moment, making you Fearful of Your Own Mortality. It can
-destroy a mystic artifact you\'re holding, leaving you Half In This
-World.
-
-The Stress and Consequences model dictates the level of lasting impact
-an Attack has on a character. It\'s not a \"damage\" model, so it
-doesn\'t dictate the type. That\'s up to you, your table, and your game.
-Make it awesome.
-
----
-
-## The Not-So-Hidden Logic of Paying to Invoke Aspects
-
-(Whew, long title.)
-
-Okay, one of the things that tripped me up the most when I started
-playing Fate (apart from the lack of statistics/abilities -that was a
-doozy) was the fact that I could claim things like Rippling Barbarian
-Thews for my barbarian warrior, but they didn\'t actually do anything
-unless I spent a Fate Point on them.
-
-I mean, seriously, huh? How does that work? Aspects are kind of like a
-combination of advantages and disadvantages from GURPS, only more
-freeform, right? If I\'m really strong, it would make sense that I\'d
-always be really strong, and it would be a constant bonus. I mean,
-that\'s just how the world works, right?
-
-\"Ahhhh,\" my older self says, as my younger self walks into the trap I
-set. \"That may be how the world works -but is it how fiction works?\"
-
-Let\'s take a section of badly-written prose:
-
-> Nanoc, the IP-Friendly Barbarian warrior, waded into battle. He knew
-> his target, the evil warlord Baddaguy. A screaming warrior attacked
-> him, but Nanoc split him in half, the pieces falling to his sides. He
-> looked around for a glimpse of Baddaguy. There! Up on that hill! Nanoc
-> started making his way up the hill, only to find three of Baddaguy\'s
-> filthy minions blocking his path. A sword strike felled one, and a
-> parry-and-counter combination sent the next to hell. The third minion,
-> seeing his friends die in a matter of heartbeats, ran off like the
-> coward he was.
-
-Now there was nothing between Nanoc and Baddaguy. He charged up the
-hill, screaming a barbarian warcry. Baddaguy faced him, and waved off
-his useless troops to battle Nanoc one on one.
-
-Their blades clashed, sparks flying. The two opponents were evenly
-matched, and traded light blows, neither being able to strike a solid
-blow on the other.
-
-Their swords locked. They struggled against each other, strength against
-strength. Nanoc\'s mighty barbarian thews rippled with the effort, and
-he flung Baddaguy down. Baddaguy cowered in helpless fear as Nanoc
-impaled him upon the tip of his blade.
-
-Okay. That was crappy prose. But while Nanoc presumably always has
-Mighty Barbarian Thews, they\'re only really narratively relevant at one
-point, when Nanoc needed to really pull something out.
-
-Compare that to just this modified first paragraph:
-
-> Nanoc, the IP-Friendly Barbarian warrior, waded into battle. He knew
-> his target, the evil warlord Baddaguy. A screaming warrior attacked
-> him, but Nanoc split him in half with the strength from his might
-> barbarian thews, the pieces falling to his sides. He looked around for
-> a glimpse of Baddaguy. There! Up on that hill! Nanoc started making
-> his way up the hill, only to find three of Baddaguy\'s filthy minions
-> blocking his path. A sword strike fueled by his mighty barbarian thews
-> felled one, and a parry-and-counter combination, supported by the
-> might of his barbarian thews sent the next to hell. The third minion,
-> seeing his friends die in a matter of heartbeats, and quivering in
-> fear of the mighty barbarian thews, ran off like the coward he was.
-
-As bad as the first section was, the second one is I feel I need to
-bathe in disinfectant for having written it.
-
-But that\'s the fundamental reason that aspects are \"fueled by\" Fate
-Points. Nanoc\'s struggle against Baddaguy was the only place he really
-needed to swing the narrative, and constantly talking about his mighty
-barbarian thews is just dull.
-
-Fate Core, as far as I can see, tries to emulate fiction. That doesn\'t
-just mean \"a physical simulation of fictional worlds\". That means the
-flow and structure of fiction. That means that when we look at how a
-game of Fate \'should\' flow, our reference point should be \'does this
-play out like a book, or a movie?\' rather than \'does this work like
-how it would work in the physical world\'?
-
-A slippery, ice-covered surface, in fiction, doesn\'t mean that every
-description or shot of people on it involves them slipping and sliding
-around. That\'s boring. What it probably means is that at some key
-moment, somebody will slip because of the surface creating some dramatic
-moment. And that\'s what Fate tries to emulate -how the dramatic
-elements work together, not the actual effects of fighting on a slippery
-surface. It follows the rules of fiction regardless of realism, not
-reality -even \'cinematic\' reality.
-
----
-
-## How I GM Fate Core
-
-Note: This is how I run Fate. It\'s not the be-all, end-all. It\'s not
-the only way to run it. It\'s not the One True Way, and other ways
-aren\'t BadWrongFun. But it\'s how I run it, and it seems to fit the
-system well.
-
-### Step one: The Pitch
-
-This is where I just say to some people \"Hey, let\'s play some Fate!\"
-I\'ll include a general description of what type of game I\'m thinking
-about running: \"Let\'s play a basic fantasy-type game!\" \"Let\'s do a
-game based on Brutal Legend!\" or something along those lines. I don\'t
-really have a lot in mind at this point -maybe something like an overall
-story or theme, but I deliberately keep things pretty vague.
-
-### Step Two: Initial Prep-work
-
-Assuming that someone is dumb enough to play with me, I\'ll usually then
-take a look at the skill list, dials in Fate, extra subsystems (Magic,
-armor, etc.) and propose some defaults. This is still pretty
-lightweight, and seriously subject to change. This is more about setting
-an initial stake in the ground in terms of what the game will be than
-anything. As part of this, I may flesh out some high level conflict that
-I think may be interesting -but again, this is kept very vague and
-loose, primarily so that I\'m not overly attached to it if it turns out
-the players go a totally different direction. Depending on how detailed
-the pitch is, the planning I\'ll do at this point will typically be more
-along the lines of coming up with NPCs/factions that may be opposing
-each other and create dynamic forces in the world, not a series of
-events. They\'ll typically be vague, so that I can insert appropriate
-details from character creation.
-
-If I\'m going to muck with the phases, etc., I\'ll usually do so at this
-time and throw it past the players to see what sticks. This will be
-based on what makes sense, thematically, for the scenario. In general,
-I\'ll add an aspect or two before I actually remove the Phase Trio, but
-if I need to dork with stuff more than that then I\'ll consider ditching
-it in some way.
-
-I\'ll also try to come up with some kind of immediate
-situation/encounter/etc. for session zero, though again, I go with
-lightweight for this.
-
-### Step Three: Session Zero
-
-Okay, now we\'re actually going to throw some dice. I come to this
-session with my prep work, a new folder for game docs, some blank
-character sheets, the Fate cheat sheets available, and a couple of
-devices that can display my electronic versions of Fate.
-
-First is setting generation. I\'m a big fan of \"Places and Faces\", and
-setting up immediate/impending issues. One thing I\'ve found with more
-narrative games like Fate is that they work best if there\'s something
-that demands immediate attention, so I try to make sure there\'s at
-least one current issue.
-
-I do setting generation first, as it helps give the players something to
-latch onto for character creation. I also try to be very permissive at
-this stage there\'s no game, so it makes no real sense to veto anything,
-unless it just goes utterly contrary to the game pitch -someone wanting
-to be a space alien in a fantasy game, for instance. Of course,
-sometimes that can be worked into something that makes sense -see
-Warforged in Eberron, for instance Even in cases where there\'s an
-established setting, most of setting generation makes sense, there\'s
-just a few more defined fences that already exist. But in no published
-setting is every tavern, every organization, and every city mapped out
-to the degree that players can\'t add their own stuff to it, even
-without contradicting canon.
-
-As part of this, I\'ll expand on the faces/places created, and use those
-to collaboratively world-build. Often, a single place/face will suggest
-something larger about the world, so I\'ll drill down on that. If
-organizations or governments are suggested, I\'ll guide the group into
-fleshing those out.
-
-Then, character creation. I generally run this by-the-book. I\'m a huge
-fan of the Phase Trio, and think it\'s something that adds a lot of
-value to Fate games, especially in terms of making the game really about
-the characters. If you\'ve already got a plot planned out that won\'t be
-impacted by your characters\' backstories it\'s less important. But
-that\'s not why I play Fate.
-
-I do the phase trio very collaboratively. I go from player to player, as
-each phase goes out, and have them say what their story is, kind of on
-the spot. I encourage other players to make suggestions or give input,
-and if the player whose turn it is seems stuck, I\'ll ask them for their
-kind of general thoughts on what they want, even if it\'s somewhat
-vague. The idea here is to keep everyone involved and active and
-thinking creatively. A second goal of this is to have all of the players
-involved with all of the characters, so that they have some knowledge of
-these characters and some investment in them. I is a sneaky GM.
-
-As we\'re going through the phases, I try to look for recurring themes,
-pull out oppositional NPCs/groups, and start merging this into any
-previous ideas I had about the big players in the scenario. If something
-pre-planned doesn\'t fit, I ditch it. If there\'s a clear theme in the
-characters, I run with it. If some of the backstories imply setting
-facts that don\'t work with my preconceptions, I run with those and
-ditch the preconceptions. This, to me, is really about the players
-telling me what kind of game/world they want to play in, and it\'s kind
-of my job to provide that.
-
-I have two primary jobs during all of this: Recording what is said, and
-keeping things moving. I\'ll offer my own suggestions and input, but I
-don\'t really assume that my input has any more weight than anyone
-else\'s. If there\'s enough time after character creation, and there\'s
-enough for me to grab onto, then I\'ll run some kind of initial
-encounter/inciting incident. I usually try to get to this, since many
-people aren\'t used to a \'play-less\' Session Zero.
-
-### Step Four: Post-Session Zero
-
-This is probably the biggest prep time for me, even more than keeping
-the game going. What I need to do now is to take my initial thoughts for
-what the game might be and reconcile them with what the players and I
-came up with. Between my initial thoughts, the current and impending
-issues, setting creation, and player backstories (via the Phase Trio)
-I\'ll have a number of elements to play with. Now, I take these elements
-and try to integrate them into some kind of consistent setting.
-
-This will often require the creation of NPCs. I focus more on NPC
-creation than plot creation -characters drive stories, not events.
-Events happen due to conflicts between characters. I\'ll try to have
-several NPCs/organizations/groups acting in opposition to each other, to
-keep things interesting. Depending on the game, I also try for a little
-ambiguity -bad guys who have good intentions or do some good work, or
-good guys that have bad methods, or even two groups that both want
-incompatible versions of good. I find these types of things make for
-more interesting stories, generally. I\'ll write all this down in my
-campaign folder, and use it to generate several possible initial arcs,
-where an arc is usually defined by some NPC/group trying to achieve some
-goal. I\'ll look at what their goal is, how other groups might be
-involved, and go with that. Part of this is always going to be looking
-at character aspects for things that tie into the characters -the story
-is about them, after all! Though that is generally not an issue since
-these groups/NPCs/goals have generally come out of setting creation,
-character backstories, or the current/impending issues! Still, ensuring
-that things are somehow tied into characters is always a good thing to
-do.
-
-### Step Five: Arc Generation
-
-This is where I start actually planning the arc. I set this out as a
-separate step, because there\'s a big loop here in longer games that
-goes back here when an arc is resolved or is starting to be resolved.
-
-Arc generation is usually about taking one of the preliminary arc ideas
-from Step Four, and fleshing it out. Again, I focus on NPCs, not events.
-Who is trying to achieve what? Who might be in the way? Who might assist
-them? And, perhaps most importantly, how do the PCs get dragged into
-this? The best arcs, again, are about the PCs in some way or another,
-and wouldn\'t work if you had a different set of characters. That\'s a
-pretty good heuristic on story arcs, anyway.
-
-So, anyway, for arc generation, I usually try to answer some pretty
-broad questions, and leave it at that. Those questions are:
-
-0.  Why is this relevant to the characters?
-1.  Who is involved in this?
-2.  What are they trying to achieve?
-3.  Who might be opposing them?
-4.  Who might be helping them?
-5.  What will they do, if unopposed?
-
-Question zero is especially important. When possible, the actions should
-stem directly from the characters in some way. This becomes easier on
-subsequent arcs after the first! At the minimum, what happens should be
-something that is directly opposed to one of the characters in some way.
-
-More traditional players/GMs might find this artificial. I see it as a
-focus on fiction -in fiction, the events are directly about the
-characters, and often specifically to highlight inner conflict of the
-characters. This involves the characters and players more directly, and
-focuses the story on them. This is what changes Star Wars from a generic
-story about shooting lasers to a more meaningful story about the
-darkness within us, and the temptation of that darkness. This is what
-gives us recurring enemies that players love to hate. Incidentally, one
-of the main reasons I use player-created opposition when possible is the
-simple fact of investment. Players care about things based on how much
-they have invested in them. GMs often forget this -the big bad that we
-create is cool to us, because we have invested in them heavily. The
-players could care less, until that bad guy touches something that they
-have invested in. By stealing opposition from the players, we start with
-some level of investment, even if that\'s no more than the players
-coming up with a name! And we\'ll be invested naturally through the prep
-process. So this ends up making a more involved game for everyone.
-
-### Step Six: Pre-Game Prep
-
-Okay, now we\'ve got the game and arc prep done, and it\'s time to do
-the session prep. Fortunately, this is usually pretty easy.
-
-1\) So what\'s changed in the world since we last played, or as a result
-of the last session? This is my way of getting my head around all of the
-other NPCs in the game and what they\'re doing. How are they going to
-react to the events of the last game? How have their plans changed?
-
-2\) What are the relevant NPCs up to, anyway? Figure this out, and
-usually the next set of events will suggest themselves.
-
-3\) Look over the character sheets for any good compels/complications to
-add. Always try to tie things back to the characters!
-
-4\) Do I have an idea of where the characters are going this session?
-Hopefully, yes -Fate is a game about proactive characters, and so
-generally they should have been in motion at the end of the last
-session. If not, that\'s okay, we can get them in motion.
-
-5\) Prep some hand grenades. Hand grenades are events that occur that
-demand a PC response -even if not a particular response. They should be
-things that make the story more interesting. They may or may not be
-compels, but if they tie into a character or aspect, that\'s awesome!
-NPCs coming to the PCs for aid, revelations, NPC actions, these are all
-example of hand grenades.
-
-An example of a hand-grenade from one of the last games I ran: The PCs
-were investigating some particularly nasty bandits, who it turned out to
-be were demon-infested (void summoners). One of the PCs had the aspect
-\"Doesn\'t trust a pretty face\", another one had the aspect \"Compelled
-to help those in need\", and the PCs got stuck with the situation aspect
-\"They know who we are\" as the result of a concession in the previous
-game (the inciting incident, actually). The hand-grenade was the
-youngish, female demon-infested bandit coming to the PCs and asking for
-help.
-
-Demands action? Yup. Deliberately targets PC aspects, and creates
-interesting conflict? Oh, yeah.
-
-6\) Sketch out possible set-pieces if they\'re clearly coming up. This
-is actually the thing I do the least, as it invests heavily in a defined
-course of action by the PCs, and I try not to do that. As a GM, it\'s
-way too easy to get a particular course of action in mind, and subtly
-\"guide\" the PCs that way. So I deliberate go the other way and avoid
-even thinking about what the PCs will do. Instead, I create interesting
-situations, and, as a \"fan of the PCs\", get excited about how they\'ll
-deal with those situations.
-
-### Step Seven: Running the Session -Session Start {#step-seven-running-the-session-session-start}
-
-And now we\'re into the good stuff! I sit the players down, spread out
-the snacks and drinks, hand out whatever handouts need to get there,
-check out any character sheet updates if necessary, and ask a player to
-recap the last session, including any corrections/etc. from my notes.
-
-During the game I have a laptop/tablet/etc. out that I can type on.
-Since I typically use pdf versions of the game books, I try to have at
-least two available, one set up just for note-taking.
-
-If this is the first session, I\'ll break out the inciting incident and
-start the characters in-situ. Otherwise, it\'s time for that
-time-honored question:
-
-### Step Eight: \"What Do You Do?\" -AKA, Setting the Scene {#step-eight-what-do-you-do-aka-setting-the-scene}
-
-Hopefully, the characters have some clear goal in mind, something that
-just won\'t stand and demands action. If not, I break out a hand-grenade
-and lob it at them. Done right, this will get them moving, even if in an
-unknown to me direction! For instance, with the demon-infested girl
-asking for help, I had no idea how that would go down, if the PCs would
-offer to help, if they would attack and kill her, if they\'d try to
-track her back, or what. The important thing is to get them moving.
-
-Now, the PCs should come up with some course of action. This is where a
-little GM subtle nudging comes into play. What we\'re trying to do at
-this point is to quickly drive to an interesting scene. I find there\'s
-a few things I can do to help this.
-
-1.  If the request is abstract, turn it into a real action.
-    \"Investigate\" isn\'t a scene. \"Go to the arcane academy\'s
-    library and look up xyz\" is a possible scene.
-2.  Understand what the PCs goal is. \"Okay, so what are you trying to
-    accomplish? If this goes your way, what changes?\" It\'s amazing how
-    often the players won\'t initially have an idea! Nudging them
-    towards this allows me as a GM to:
-    - not railroad
-    - provide appropriate opposition
-    - keep things moving!
-    - Figure out who might be opposed to this, and how it might go
-      poorly. While in some cases \'behind the scenes\' consequences can
-      be interesting, I more often prefer to keep things \"on-screen\".
-
-If there\'s no interesting consequences, and no interesting opposition,
-I generally just let them have what it is they\'re trying to do, or
-briefly do a couple of rolls and get on with it. No point in spending
-time on minutiae.
-
-Okay, so now we\'ve got a scene! At this point, I\'ll set the scene, and
-figure out the appropriate skill/roll structure for the scene
--challenge, conflict, contest, or just simple rolls. Lately I\'ve been
-trying to do less of the naturalistic \'roll after roll\' sequence in
-favor of more structure approaches, but that\'s a stylistic thing.
-
-Note that I\'ll generally allow almost any proactive action from the
-players, even if it\'s not what I had in mind. If the players want to
-try something that\'s just utterly against the precepts of the
-game/scenario, I will warn them, but apart from that, anything is fair
-game. Three guys taking on the entire King\'s Guard in broad daylight?
-Might be a bit much, but they can try. However, if they want to try and
-poison the garrison? Sure! If they want to try to drum up supporters?
-Sure! Find a way to sneak in undetected through a hidden passage? Why
-not? Disguise themselves and get in the front door? Sounds good to me!
-The players setting the scene is more about what kind of challenge and
-story we\'ll have than anything else, so I\'m typically willing to allow
-anything a chance of success unless it just makes no real sense within
-the fiction.
-
-Another good thing to do when players want to do something that
-short-circuits a lot of things is to add complications. \"You want to
-summon a ghost to find out who killed Baron Whatsisname? Sure, you can
-do that. You\'ll just need to find a ghost summoning spell, or a
-specialist. And figure out what materials are needed. And then you\'ll
-need to enter the Dead Realm to find him.\" Again, the player course of
-action is helping to determine what kind of story they\'ll have, it\'s
-not short-cutting the story entirely. In many cases, the player course
-of action will take more than a single scene, and that\'s fine -just
-handle the scenes one at a time.
-
-### Step Nine: Resolve the Scene
-
-Took a while to get here, huh? Well, this part is pretty much in line
-with the Fate Core rules, so I don\'t really have too much to add here.
-The only thing I will say here is to keep looking at your characters\'
-aspects, and look for ways to compel them.
-
-Also, each die roll should have a potentially interesting consequence.
-Before a player rolls, ask yourself \"what could happen to make the
-player go \'oh, crap!\'?\" That\'s your calibration point. Not
-necessarily the worst thing that could happen. Not even the most
-dangerous. But what\'s the most interesting thing that could happen as a
-result of this if it goes wrong?
-
-So play through the scene, and determine the aftermath.
-
-### Step Ten: Ending the Scene
-
-Okay, so your players have done some crazy stuff. They\'ll either get
-what they want, or get something else, or encounter a setback, or some
-combination of the above.
-
-Now is time for what\'s called in the fiction-writing business a
-\"sequel\". Recap with the players what\'s changed, figure out how the
-opposition is going to react to this in the near time, and give the
-players a chance to reflect on what\'s happened. Then -go back to Step
-Eight, and repeat this until the end of the session.
-
-If a scene resolves well (as in, you\'ve done a good job -not that the
-players get what they want), you shouldn\'t have to lob many hand
-grenades. A well-resolved scene will either provide the players
-something that they need to move forward (which is why I ask them the
-goal of the scene), or it will provide an obvious setback that needs to
-be accounted for. If investigating at the arcane library, a success
-might mean that they find the information that they need, which points
-them in the direction of whatever it is they need to
-find/kill/acquire/etc. A failure might mean that enemy agents have found
-them and are now chasing them. Either way, the players should have some
-impetus to keep them moving.
-
-If for some reason, this isn\'t the case (hey, it happens), throw out
-another hand grenade.
-
-Repeat Steps Eight through Ten until it\'s close to the session end.
-
-### Step Eleven: Ending the Session
-
-Hey, good job. Your players are having a good time, everyone\'s rolling
-dice and laughing. Awesome!
-
-But at some point the clock is going to tick closer to the ending time,
-or people will start yawning, or some other sign will occur that it\'s
-getting close to the end.
-
-And that\'s a fine thing! You want to leave your players wanting more,
-not anxious to leave! If they want more, they\'ll show up next time, and
-you\'ll keep a healthy game going. If the game drags on and on, you\'ll
-start to notice players not showing up. The goal isn\'t to keep the game
-going on as long as possible -it\'s to keep the Awesome Per Minute as
-high as possible! And if that starts to flag for any reason, call it a
-day and get some more ideas for what would be Awesome!
-
-One of the best things to do is to end the session on a bang. Is there
-some scenario-changing Compel you can throw down? Do it. Some great
-revelation you can make? Great way to end the session. Set things up for
-an epic battle? Oh, yeah. Make it a cliffhanger, and the players will
-want to tune in next time!
-
-Once you\'ve ended the actual \'game-time\', you\'ll need to handle all
-the wrap-up stuff. Tell the players what kind of milestone they\'ve hit,
-and what that means. Ask them if they\'ve got any initial ideas on
-character changes (especially aspects!) that they may want to make.
-Collect all of your stuff, and do the clean-up.
-
-But perhaps most importantly -solicit feedback. You should always ask
-after a game about what went well, what didn\'t go so well, what people
-would like to see more/less of, etc. The goal of the game is for
-everyone to have fun, and if they\'re not, then something needs to
-change. Also make sure that players feel they can email you or contact
-you privately, as some will not want to speak up.
-
-The most important thing about feedback is to listen to it. Don\'t get
-defensive -even if you think something was awesome and that the players
-are wrong, don\'t take it personally. It\'s not about what\'s \"good\"
-or \"bad\", it\'s about what the players find fun. And that will not be
-the same for every player. This is a learning process for you to be able
-to improve your GMing skills. And even negative feedback doesn\'t mean
-what you did was \"wrong\" -another group may have loved it. It\'s about
-finding out what this group likes.
-
-In cases where you had to make a call that was contentious, explain why
-you ended up making the call you did, the factors involved, and what
-else you considered. Also, ask the players how they would have handled
-it. Be open and honest -Fate is a game that encourages this kind of
-behavior. Often, simply explaining the situation and asking the players
-how they would have handled it is enough to get them to see your side,
-as well.
-
-Collect any Fate Points, and see how players are doing with them.
-
-If they\'re hoarding FP, did this cost them? A session where players end
-up with positive FP should, in general, be one where things went poorly
-overall for the players (or they just got lucky). But if they\'re
-hoarding FP consistently, and not suffering setbacks, throw more compels
-at them and increase the difficulty of their opposition.
-
-Are they all drained of FP? If so, they should have made decent progress
-if not, you may have been too hard on them. In the future, you can
-reduce the opposition or provide some \'weak\' compels to increase their
-Fate Point pools.
-
-### Step Twelve: Next Session
-
-So now you need to start thinking about the next session. Think about
-the events that have happened so far, and what that means for the
-future. If you\'re honest with yourself, you may need to revise some of
-your plans for the future of the game -nothing prepped is \"real\" until
-the players see it, anyway!
-
-Maybe some new characters/groups/etc. have been added to the game make
-sure you find some way to integrate these!
-
-Maybe something has been revealed that changes how you view one of the
-groups/NPCs in the game -again, go with it! Maybe it makes more dramatic
-sense for the supposed bad guy to actually just look bad, and be
-fighting the \"real\" bad guy! Maybe some innocent guy makes more sense
-to be the mastermind behind everything! Maybe an NPC changes their ways
-based on events! Remember, the world needs to react to the players -they
-are the protagonists, and they are the agents of change in the world!
-It\'s their story!
-
-Has the arc ended? If so, plan the next arc like Step Five. Otherwise,
-just plan the next session like Step Six.
-
-If the campaign has reached a natural conclusion, and there\'s no desire
-(or easy way) to continue it, then great! Pitch a new game!
-
-There\'s also a couple of things that I try to do during the game. These
-are overall guides, and so they don\'t really belong in any one section.
-
-0\) Try not to predict where the game will go. This one is so important,
-I\'ll put it at rule zero. The more you predict what will happen, the
-more you\'ll try to make it happen. Going into a game with no clue of
-where it will go is quite scary at first, but is also amazingly fun once
-you get used to it. It also ensures that you\'re listening to your
-players, and letting them drive the game. If there\'s an overall arc of
-the game that you\'re expecting, like fomenting a rebellion instead of
-having guerilla action, or heavy political play, make sure you talk to
-your players about that -this is the kind of thing that everyone should
-be on the same page about when it comes to \"this is the game we\'re
-playing.\" It\'s also something that can be readily discussed without
-causing \"spoilers\".
-
-1.  Keep people involved, but respect styles. This is something that\'s
-    a bit of a balancing act. As the GM, you are kind of the mediator.
-    It\'s your job to keep everybody involved in the game, but some
-    people are just naturally more introverted, and won\'t be as
-    proactive or forceful in their opinions. Try to coax interaction out
-    of them, but don\'t press the issue. Your main job with this is to
-    keep the more extroverted/forceful folks from drowning them out or
-    dominating the game.
-
-2.  Keep things dramatic! Fate is a game about drama. It\'s not a very
-    good game about prepping the hell out of things so that there\'s no
-    chance of things going wrong. Don\'t get me wrong -that can work
-    well with certain types of games, but those are usually the games
-    with enough tactical \'crunch\' to support this.
-
-3.  Keep things centered on the players! Show, don\'t tell. As I said
-    earlier, some \'behind the scenes\' stuff can be interesting, but in
-    general you want to keep things visible and on-screen. Your job is
-    to keep the players interested with what\'s happening, not keep
-    yourself interested with all of the behindthe-scenes hidden stuff
-    that you know about.
-
-4.  I usually like difficulties to be based on dramatic importance more
-    than anything. If something is critical, make the players decide how
-    bad they want it! Fate is more about deciding what\'s important, via
-    Fate Point expenditures, than it is about micro-managing bonuses or
-    simulating reality. So put those hard decisions front and center!
-
-5.  Keep failures interesting! Success with a cost is great, and
-    interesting failures are great, too. What\'s not great is \"that
-    doesn\'t work.\" Keep things moving, even if not in the direction
-    the characters necessarily wanted to go!
-
-6.  Solicit player input. This is a great way to offload some work.
-    Details about a holiday? Ask the players! Who\'s the innkeep? Ask
-    the players! Also, encourage collaboration. If a player feels on the
-    spot by a question like that, ask them for any kind of thought they
-    have on it, and then get others to jump in and collaborate.
-
-7.  Be honest. Fate is a great game for honesty. There\'s nothing wrong
-    with telling the players the consequences of a failed roll before
-    you roll especially if you\'re planning something that\'s not
-    super-obvious. Talk about why you\'re setting things a certain way,
-    and encourage players to be involved in that.
-
-8.  Keep consequences appropriate. I like to say \"For someone to be
-    Taken Out, they have to be Taken Out.\" That\'s my way of basically
-    saying that you can\'t shortcut the stress/consequences track by,
-    say, throwing someone off of a cliff -if they still have
-    stress/consequences, then maybe they\'re holding onto the cliff,
-    evaded your grab and twisted their ankle, etc. But it works for
-    other rolls, too. A check to cast a trivial spell generally
-    shouldn\'t have the end of the universe as failure! This can be true
-    even if it would \"make sense\". Instead, take a higher-leveled
-    view: Even if the particular spell failing would result in the end
-    of the world, maybe a failure means something else -maybe it means
-    that as part of casting the spell, something bad happens -or it
-    takes longer than you expected -or possibly you realize that you
-    don\'t have something you need or can\'t summon the energy.
-
-In general, I like to keep the results of success and failure roughly
-even. If a success in something will gain a huge advantage, it\'s pretty
-reasonable to make failure a large risk as well. While this may not
-always make sense from a \"how things work\" perspective, it\'s almost
-always good dramatically, and if you pull back and abstract just
-slightly, you can almost always find a way to justify it.
-
-9.  Help players with the rules and strategy! Man, if I could change one
-    thing about the first couple of times I ran Fate, this would be it.
-    Effective strategies in Fate aren\'t always obvious to new players,
-    and as such the game can be very frustrating. Make sure your players
-    know how Create Advantage works, especially in a Conflict. Make sure
-    they know how to use CA to use their better skills against either
-    environment opposition, or their opponents\' weaker skills. As a GM,
-    constantly ask yourself \"hey, what would I do if I was this
-    player?\" and suggest that to the players! Have a brief conversation
-    with them about skill matchups, stacking aspects granted via CA, and
-    even the tradeoffs between big hits (fewer rounds to take someone
-    out, requires more shifts) and little hits (more rounds to take
-    someone out, requires fewer shifts).
-
-10. This goes along with the last one. Get your players used to success
-    and failure in Fate! Specifically, make sure they know how tough it
-    is to get Taken Out in a single blow! Put them through a Concession
-    early if they\'re not used to Fate, and show them how the game keeps
-    going. Have them fail some rolls, and again show them how the game
-    keeps going. Many gamers are used to games where \"failure\" =
-    \"game over\", so this is a key part of Fate for new players.
-
-And most of all
-
-HAVE FUN
-
-Fate is a great game but it\'s still a game! The point of playing is for
-everyone -player and GM -to have fun. If you\'re not having fun, FIX IT!
-If someone at the table isn\'t having fun, FIX IT!
-
----
-
-## The Joy of Create Advantage
-
-While most of my posts are probably GM-centric, this one\'s a lot more
-player-centric. Hey, gotta change it up, right?
-
-One of the things that I see with players new to Fate is that they
-overly-rely on the Attack action in conflicts. My experience has shown
-that, in many cases, Attack is actually the least effective option, when
-viewed from an overall perspective. Sure, you can\'t Create Advantage
-someone to death (or to Taken Out, as the case may be), but CA has a lot
-of advantages over Attack overall, and especially as a lead-up to an
-actual damaging attack.
-
-To most vets, this stuff will be obvious, so I apologize for that but
-these might be good points to raise with your players, especially if
-they\'re having issues, or over-relying on Attack actions.
-
-Here\'s a few of the main reasons why Create Advantage should be the
-majority of the players\' actions in a Conflict:
-
-### 1. It\'s more efficient. {#1-it-s-more-efficient-}
-
-Both Attack and Create Advantage give you the opportunity to buy shifts
-of effect. For Create Advantage, these shifts (via free invocations) are
-delayed, but for a given success threshold, you\'ll actually get more
-shifts of effect than Attack for the vast majority of cases
-
-  Margin of success   Create Advantage shifts   Attack shifts
-  ------------------- ------------------------- ---------------
-  0                   2 (boost)                 2 (boost)
-  1                   2                         1
-  2                   2                         2
-  3                   4 (two free invokes)      3
-  4                   4                         4
-
-Admittedly, after a margin of success of four, Attack starts to win out
--but you generally won\'t see that margin of success unless you\'ve got
-a number of free invokes to boost you there, or burn a bunch of fate
-points!
-
-### 2. Create Advantage is flexible. {#2-create-advantage-is-flexible-}
-
-Attack does one thing -it causes stress and consequences to your
-opponent.
-
-However, the shifts of effect (free invokes) created by Create Advantage
-can,
-
-depending on the advantage, be used for Attack or Defense! And they also
-have the potential of being used by other members of your group. Or they
-can be used with an Attack to do straight damage. Create Advantage
-creates options.
-
-### 3. Create Advantage lets you choose the skill matchup {#3-create-advantage-lets-you-choose-the-skill-matchup}
-
-In conflicts, and especially with an Attack, absolute skill levels are
-irrelevant. What\'s important is the relative skill level between you
-and your opponent. And one of the main \'strategy\' bits in Fate is
-figuring out, narratively, how to maximize that difference in your
-favor.
-
-Using your \'best\' skill isn\'t always the best idea. If you\'ve got
-Fight of 4, and you\'re facing an opponent with Fight 6, you\'re at a
-permanent disadvantage. And it\'s usually pretty hard to justify why
-you\'re using another skill for Attack, or why Fight can\'t be used to
-defend (substitute Shoot/Athletics as appropriate).
-
-But Create Advantage lets you get around this. So long as the action you
-create justifies it, it allows you to set up the skill matchup. So if
-you\'ve got Fight 4, and the bad guy has Fight 6? No problem maybe
-you\'ve got Intimidate 4, and he\'s got a Will of only 1! Scare him with
-that! Or use your athletics skill to set up a favorable position,
-perhaps challenged by his Notice skill.
-
-Once you\'ve internalized this, the big bruiser just looks like a big
-opportunity, since you know he probably has some pretty weak social
-skills just waiting to be exploited. (Strangely, against a superior
-combatant, it\'s often the combat-focused characters that are the least
-effective, as they have fewer good skill matchups).
-
-Of course, an especially ninja trick is to use Create Advantage actions
-that are resisted by the environment, rather than the enemy -these are
-very likely to be easier to accomplish than something with passive
-resistance!
-
-### 4. Create Advantage lets you set up huge hits {#4-create-advantage-lets-you-set-up-huge-hits}
-
-While it\'s not always the case, in Fate it\'s often true that a single
-big hit is worth more than two little ones. If you\'ve got three stress,
-a pair of two-stress hits will just mark off your second and third
-stress boxes -but a single four-stress hit will force you to take a
-Consequence.
-
-In general, bigger hits will take down enemies quicker, while smaller
-hits will be more efficient (require fewer overall successes) at the
-expense of taking more actual attacks to accomplish.
-
-And what\'s the easiest way to set up a big hit? Either burn through
-your Fate Point supply or set up a bunch of free invocations of aspects
-via Create Advantage. You know what happens to bad guys if your whole
-team concentrates for a round or two on Creating Advantages, and then
-passes all of those free invocations to your most competent combatant?
-Pain.
-
-Combine this with the higher efficiency and preferred skill-matchup of
-Create Advantage, and you have a recipe for Taking Out even the
-nastiest, ugliest enemy you encounter (or, the most attractive, suave
-enemy if it\'s a social conflict!)
-
-### 5. The Narrative Truth of Aspects {#5-the-narrative-truth-of-aspects}
-
-So far, I\'ve just talked about the purely mechanical, math-based
-benefits of Create Advantage. But that\'s only part of the story.
-
-In addition to all of the other advantages listed above, Create
-Advantage creates narrative truth. If you get your opponent Cowering in
-Fear, then he\'s doing that. Which should restrict his actions.
-
-Aspects can do all sorts of things, from action permission to denial, to
-setting up difficulties where none existed, to granting permission for
-active interference.
-
-They knock people on the ground, disarm them, have them wandering about
-in a fog.
-
-And this is all on top of the mechanical benefits. Beautiful, I tell
-you!
-
-So, anyway, I hope this helps in some way. It\'s based on my observation
-of new Fate players, and is basically a rundown of the points I make
-with them to get them out of the \"Attack Attack Attack\" cycle, and
-thinking more \"like Fate\", which often gets them into describing
-narrative goodness and all the other coolness I\'ve come to associate
-with Fate.
-
----
-
-## Failure
-
-So, before getting into this, I\'d like to say again that these posts
-are about my experiences coming from a traditional game background.
-They\'re also about how I play Fate, and in many ways about how I\'ve
-figured out how to play Fate in a way that has little friction in the
-system, not by modifying it or changing in when I found friction, but
-rather by abandoning my preconceptions that were causing friction with
-Fate Core As Written.
-
-So, again, don\'t take what I write as any kind of authoritative source.
-Take it more as my revelations and me going \"wow! It makes sense now!\"
-rather than anything else. (This is also why I\'m probably a bit more
-critical towards Fate hacks than many others -I\'ve found in many cases
-that the \'need\' for hacks is more about the preconceptions I\'ve
-brought into the game than anything else, and that it\'s easier to
-either abandon those preconceptions, or play something that\'s better
-aligned with them if I really want that experience).
-
-Also, keep in mind that if I say something about traditional games, or
-people that play them, I\'m not being critical. I like traditional
-games! And most of the things that I portray as \'things traditional
-gamers say\' are things that I\'ve said myself at various points. So,
-again, nothing that I\'m going to say in this is really intended as a
-value judgement at all.
-
-Anyway. Failure.
-
-One of the things that I\'ve said here a bunch is that Fate is a game
-that encourages players to fail. I\'ve also argued that just about any
-player-created plan should have a chance of working (which seems
-contradictory, I know). Recent posters have said that their players want
-a risk of death. In the past, I myself have argued that games without
-death were weak, and that allowing players to always have a chance of
-success was crazy.
-
-These seem like a whole ton of unrelated topics, but they\'re not. They
-all come down to a key concept: Failure, and what it means in the game.
-(At a slightly deeper level, it\'s about game structure, and we\'ll get
-to that).
-
-So in a typical RPG session, you\'ve got some goal. The GM probably has
-some kind of quest path planned out. Princess Perky has been cursed! You
-have to go into the Clammy Caves to retrieve the Dewdrop of Decursing!
-And, once you do, unknown to you, Princess Perky will tell you the name
-of the Wiley Wizard that cursed her!
-
-Okay, great. Heck, you could even set up a Fate game like that if you
-wanted. Sure, it\'s a deliberately clich-ridden example, but the major
-elements are there. So the characters go into the Clammy Caverns, and
-encounter a room with bad guys and traps and whatnot. Awesome. They get
-into a fight.
-
-Okay, here\'s the real thing. In most traditional games, you\'re going
-to win that fight. Flat-out. Because the other real option is TPK, and
-that\'s not fun.
-
-The trick is that players want the impression that they may lose. And so
-a lot of the GM\'s job in these types of games is to make the opposition
-hard enough that the players feel at risk, but weak enough that they
-will win.
-
-Even players that say things like \'I want death to be a possibility\'
-are kind of being vague and missing the point. They want the feeling of
-danger. They probably don\'t want their characters to die (or, at worst,
-they want death to be an inconvenience). They surely don\'t want a game
-so lethal that they have a character dying every session.
-
-Here\'s an experiment: The next time that a player says \'they want a
-game where death is a real possibility\', ask them what percentage of
-games that they think the game should include their character dying, and
-whether they think that resurrection should be freely available.
-
-BTW, I don\'t blame players for this. When games are often about going
-through a series of challenges (whether they\'re puzzles, exploration
-issues, non-combat challenges, combat, or whatever), and they\'re gated
-by the solution, it becomes pretty obvious that they\'re very likely to
-actually succeed, and that the \'risk\' is mostly imaginary. They just
-want to believe it\'s not.
-
-There\'s two fundamental reasons for this:
-
-1.  the number of games (\'Adventure Paths\', I\'m looking at you!) that
-    utterly remove player agency in terms of the overall story structure
-
-2.  the number of games that don\'t provide for meaningful failures that
-    aren\'t death. If you lose combat, the orcs kill you. If you fail
-    your jump, you fall into the deathy-death pit of death. Or, you lose
-    hit points, which will either eventually result in death, or
-    effectively has no consequence. Okay, so let\'s get back to Fate
-    again, and more \'narrative\' styles of games in general.
-
-In Fate, death is a rare occurrence. By the rules. To kill someone, you
-have to Take Them Out before they can concede, and even then you have to
-explicitly choose that they die. There\'s no automatic death condition,
-and Taking Someone Out before they get a chance to react or concede is
-virtually impossible.
-
-To my traditional game eyes, when I snap back to that mode, that makes
-it seem like you can\'t fail in Fate. So, why bother playing?
-
-A similar issue occurs when you get to things like \'if a player wants
-there to be a hidden passage, give it a chance to exist.\' My
-traditional gamer brain hears this and says \'what? That fortress is a
-challenge, designed to test the players\' abilities. If you just let any
-old thing possibly succeed, then what\'s the point?\'
-
-And here we get to the crux of the matter, truly.
-
-I\'ve described this kind of \'gated event\' structure a bit before, I
-think. And you know what, it can be a lot of fun in the right game.
-There\'s nothing wrong with puzzles that are meant to be solved -you can
-buy jigsaw puzzles all over, and they\'re clearly meant to be solved,
-and the challenge of the jigsaw is figuring out how to do it. That\'s a
-lot of fun!
-
-But other things exist that let you make pictures. Like crayons. And
-crayons let you make any picture you want. That\'s crazy! Where\'s the
-challenge! How do you know you\'ve done it right?
-
-Here\'s the thing. I adore Fate. Truly. It\'s one amazingly elegant
-system. And I find it incredibly poor at producing the types of
-challenges I find in traditional games. It\'s a weak tactical skirmish
-game, at best. The rules don\'t have a lot of support for
-\'puzzle-solving\' type activities, either. The existence of Fate Points
-essentially means that players can \'buy\' success at just about
-anything.
-
-And with a weak challenge system, the whole idea of \'gated challenges\'
-utterly fails.
-
-So when traditional game players say things like \'what\'s the point,
-you\'ll always win!\' they kind of have a point. Fate is a pretty bad
-system to run traditional (gated challenge) adventures in.
-
-So let\'s not try. Let\'s rethink what these \'encounters\' are. And
-let\'s use the rules to guide us.
-
-Let\'s look at an incredibly simple situation. A locked door.
-
-In a traditional game, you\'ll have a chance to get past this door. If
-you fail, you fail. If you really need to get past that door, you\'re
-SOL. But nothing else will likely happen, just the door doesn\'t open.
-
-But if you really need to get past that door, other options will be
-available, somewhere -this is often called \"The Rule of Three\". And
-while it seems like it\'s not the \"gated challenge\" structure, it
-really is -there\'s just multiple \'solutions\' to the challenge.
-
-But what about in Fate?
-
-Fate Core, pg. 187: If you cant imagine an interesting outcome from both
-results, then dont call for that roll.
-
-Whoa. That\'s weird. Does that mean if you can\'t think of how to make
-opening the door interesting, then it just opens? Where\'s the challenge
-in that???
-
-But there\'s a hidden gem in there that\'s the key to understanding
-\'failure\' in Fate. If you have an interesting outcome for both
-results, then opening the door isn\'t a \"gated challenge\". It\'s a
-fork in the road. It\'s a place where the story can go one of two
-places, and you don\'t know which one will happen. So the roll becomes
-less about \'do we pass the challenge?\' and more about \'how does the
-story progress?\'
-
-So with the door, we want to break it down. Great. We now need to come
-up with an interesting failure, another way that the story can go. \"It
-just doesn\'t open\" isn\'t a story, it\'s a stall in the story. It
-kills momentum, and doesn\'t progress anything. But trying to break down
-the door is probably pretty noisy -so if you keep trying it, maybe
-someone will hear you Now you\'ve got an interesting branch! You can
-either get through the door, or be found by the guards! Either of them
-will keep the action going, and either of them can make an interesting
-story.
-
-I\'ve suggested the idea of \'Fractal Challenges\' before (the idea that
-a single roll can be expanded into a Conflict, Challenge, or Contest,
-and that the inverse is true as well). So let\'s look at Princess Perky
-from the same view. In the original version, if you don\'t make it
-through the Clammy Caves, you don\'t save Princess Perky, and she
-doesn\'t tell you who the Wiley Wizard is. And, due to how traditional
-systems generally work, the available choices will probably be \'you get
-the Dewdrop of Decursing\' or \'TPK\'.
-
-In Fate, the same \'interesting result\' rule for a single roll applies
-to a Conflict as a whole. If there\'s not an interesting result if you
-fail the conflict, don\'t have one. So what does failure mean? Well it
-could mean you\'re captured. It could just mean you don\'t get the
-Dewdrop which could mean that Princess Perky doesn\'t get cured. What
-happens then? Maybe Princess Perky turns into some kind of demonic
-vessel? Maybe the curse spreads across the town over time, cursing NPCs
-that the players either have relationships with, or that are useful
-assets. Maybe Baron Boring even gets cursed, and declares the PCs to be
-outlaws, and causes them to be hunted! By viewing the Conflict as a
-decision point, as a branch in the story, rather than a challenge to be
-overcome, we allow for \'failure\', where in the traditional game
-failure tends to be rather game-ending.
-
-For the third example, finding a secret passageway -again, the roll
-indicates less \'we overcame the challenge\' than it indicates \'how
-will the story progress?\' Finding a hidden passageway doesn\'t mean
-that the challenge is defeated. It just means that the story progresses
-a different way -it becomes a story about trudging through the dark,
-forgotten passages underneath the castle, and the horrors that lurk
-there. Maybe you figured that the game would be more about being sneaky
-and stealthy. Or heroically fighting into the castle. Or some masterful
-bluff. But a scary hidden passageway story is just as good, and can be
-just as tense. And you might still get your way -after all, if the
-attempt to find the passageway fails, then something bad is likely to
-happen as a result of the characters poking around!
-
-And here\'s the thing -since \'failure\' will generally mean that things
-get worse for the heroes, it can be a real threat in every single
-encounter. You can run the game so that no encounter is guaranteed. Your
-failure rate can be 50%. PCs can go into every encounter knowing that
-something is on the line, even if it\'s not usually their lives. Instead
-of winning 99% of the time, losing will be a real threat.
-
-I\'ll go so far as to say that every die roll in Fate should be tense.
-That\'s where the system works best. This isn\'t a game where the goal
-is to stack your bonuses so high that you never fail. This is a game
-where failure should always be a possibility, where things getting worse
-can always happen.
-
-Because here\'s the thing -Fate Points and the concession mechanics also
-combine to ensure that, in almost any situation, players can get their
-way if they choose to dedicate enough resources, in terms of Fate Points
-and consequences. I\'ve seen it said here that the initial die roll
-isn\'t about whether you succeed or fail, it\'s about the cost of
-success. And that seems pretty accurate.
-
-So, when I see questions like \"how do I make sure a fight is
-challenging, without having the players lose\", my answer is \"who
-cares?\" Make it tough. Let them buy their way out of it and carry those
-consequences. Or let them lose, and let the story go that way.
-
-Fate isn\'t easier because of these things. It\'s harder. A Fate game,
-run as Fate can be far more brutal than any D&D game I\'ve ever played.
-Embrace this. Embrace failure in your games. Embrace not knowing what
-will happen. Embrace rolls, Contests, Challenges, and Conflicts as
-decision points. Embrace Concessions, and don\'t think of them as a
-cop-out.
-
-Failure is a core part of Fate \"as Fate\". Embrace it.
-
----
-
-## Demystifying the Fate Fractal, and the Nature of Aspects
-
-(AKA, how are those even related?)
-
-So, my first real exposure (in terms of playing Fate) was Spirit of the
-Century. I had come from a long history of playing traditional games.
-And so I saw Aspects and thought \"Hey, neat! Those are just like
-Advantages/Feats/Edges/etc.!, except you get to name them cool things
-and you can make anything you want!\" It seemed pretty obvious, and
-pretty cool. Having figured that out, I went on to the rest of the
-system.
-
-Except that I was wrong. I couldn\'t have been any more wrong if my name
-was W. Wrong Wrongenstein.
-
-This was just one of my first errors in understanding Fate, but it\'s a
-pretty significant one. I was thinking of an aspect as primarily
-something that gave a bonus, and something that was attached to
-something else, like an adjective. And you can make an argument that
-some aspects are like that, but it\'s really not a very good
-understanding. An aspect is both simpler, and more complex than that.
-
-An aspect, really, is a story element. It is something, anything, that
-is important to the story in some way. It\'s an \'aspect\' of the story,
-if you will.
-
-At it\'s most simple, it\'s something that the story is about.
-
-I\'m going to go back to \'narrative first\' here. We need to understand
-what is important to the story (at least at this point, this scene), and
-then we capture those things, stick little labels on them, and call them
-\'aspects\'.
-
-But what about characters, you may ask. They\'re important to the story,
-clearly! And they\'re characters, not aspects!
-
-Ah-ha! You have fallen into my trap, oh
-non-existent-person-that-I-putwords-in-the-mouth-of! You\'re assuming
-that characters aren\'t aspects, but they clearly are!
-
-Well, then how come characters have skills, and aspects don\'t? I mean,
-clearly Pitch Darkness can\'t drive a car!
-
-And here, perhaps, there\'s some presumptions made about what a
-\'skill\' is. A \'skill\' doesn\'t represent training. It represents the
-ability of a story \'aspect\' to influence a scene, without being
-invoked by someone else.
-
-Okay, that sounds like a bunch of crazy meta-talk, so let\'s try and get
-back to English.
-
-A character is a story element. It can influence a scene. It does so by
-using skills. What a skill represents, then, is the ability for an story
-element to influence a scene, without the influence of another.
-
-So, what about Pitch Darkness? It certainly can\'t drive! This is true,
-which is why it won\'t have the Drive skill. But, depending on the game
-and scene, it can influence things! Darkness can make people paranoid,
-it can cause them mental stress. Instead of having a bunch of rules for
-all of these things, Fate just handles it by saying \'Sure, Pitch
-Darkness can be active and influence a scene if appropriate. Just give
-it skills\'.
-
-And this is one of the fundamental points of the fractal -that story
-elements can influence scenes, and they do those using \'skills\'.
-
-A character isn\'t really any different than Pitch Darkness. It\'s just
-easier to lump up some commonalities of story elements controlled by
-players, and call it a \'character\' by convention.
-
-And story elements can have other story elements. The character story
-element Han Solo is associated with The Millennium Falcon. It\'s easy to
-call the Falcon a \'detail\' of Han Solo since, if he wasn\'t in the
-story, the Falcon wouldn\'t be either. So we declare The Millennium
-Falcon to be an \'aspect\' of Han Solo (who is, himself, an aspect -a
-story element). And, of course, the Falcon can have its own skills, and
-its own aspects (Hidden Storage Everywhere, for instance).
-
-And that\'s a pretty good description of the Fractal. But there\'s one
-piece that\'s missing. A fundamental feature of fractals, in math, is
-that they have infinite detail. You can zoom out of them, view them at a
-larger scale, or zoom into them, and see them at a tighter scale, and
-they still have equivalent detail. That\'s pretty cool. And it\'s pretty
-important to understanding the Fate Fractal, as well.
-
-Let\'s say we\'re playing some fantasy game, and there\'s the setting
-aspect The City State of Warrington. It\'s relevant to the story, so
-it\'s an aspect, and as such can be invoked or compelled.
-
-Now, later on, our protagonists get closer to Warrington, and so it
-becomes more relevant to the story. We can start giving it aspects of
-its own, such as Rules With An Iron Fist, Constantly Guarded, and
-Bloodthirsty Militia. We can give it skills, like Conquer Other
-City-States:4.
-
-Now, let\'s say that our protagonists get closer to the city. The city
-is constantly guarded, but we want some more detail, so we can declare a
-Gate Guards aspect. If the protagonists maintain their distance, an
-aspect, by itself, is probably sufficient to indicate their effect on
-the scene.
-
-But if we get closer, we might want to have some more detail there,
-again. Maybe we decide that there\'s a Fat Guard and a Skinny Guard. As
-we get closer, maybe they get some aspects of their own. And certainly,
-if we storm the gates, they\'ll need skills, and possibly equipment, and
-so on! And even their equipment could get aspects -if a PC uses Create
-Advantage to declare that the Skinny Guard\'s sword is old and brittle,
-then so it is!
-
-This is, fundamentally, what the Fate Fractal is really about. It\'s
-about having a universal way of describing story elements, and their
-ability to impact the world. It\'s about having the ability to describe
-these elements with the right amount of detail for the current scene. I
-don\'t need to know specifics about the two guards if I\'m a hundred
-miles from Warrington. I need to know that it exists, and that it\'s
-oppressive.
-
-But as I get closer, its ability to manipulate things becomes important.
-I need to know more about how it impacts the scenes characters are in.
-So the Fate Fractal gives me tools to flesh this out. Even the guards go
-from being a generalized aspect (Gate Guards), to individuals, to
-individual elements containing skills, and possibly even sub-elements.
-
-And none of this changes a single thing about them, at any point. The
-guards don\'t suddenly \'gain skills\' when I get close to them. They
-always had them. It\'s just that they weren\'t actually important until
-we were in a position to interact with them. They didn\'t \'change\'
-from \'aspects\' to \'characters\' -that\'s a false distinction. They
-were always aspects, in that every story element is an aspect! And they
-were always \'characters\', because what else could a guard be? But as
-we needed to know more about them, we detailed them out further, and
-when we didn\'t need that detail, we didn\'t have to think about it. The
-city-state of Warrington didn\'t become a fractal aspect when we needed
-more detail -it\'s still \'an aspect\', just one with less detail
-associated with it. Nothing about its fundamental nature changed.
-
-So if you have an aspect that needs to be active in a scene, just give
-it a skill! There\'s no change in \'type\' that needs to occur.
-\'Skills\' is just how story elements impact scenes, without being
-driven by another story element. It\'s all just aspects. All the way
-down.
-
-Until you reach the turtles.
-
----
-
-## Some advice for new Fate players
-
-### Character Creation
-
-- Choose your aspects wisely: Remember, aspects are more about your
-  character\'s story than anything else. Feat/Advantage equivalents are
-  in stunts.
-- Choose your top three skills carefully. It\'s a tendency in many games
-  that hyper-specialization is the way to win. This is less true in
-  Fate, where skills tend to be more \"complete\". Think of a variety of
-  scenarios you think you\'ll be in, and try to have a skill that will
-  be useful in each -Remember that the advice for GMs, for solo enemies
-  at least, is to have their peak skill at the PC peak 2. When
-  encountering an enemy like that, you\'d better have something that can
-  target one of their weak areas.
-- Remember that nothing on your character sheet is permanent. Skills,
-  stunts, aspects, they should all change over time.
-- If you can, don\'t set all of your stunts at first. See what
-  situations you find yourself in frequently, and tailor your stunts to
-  that (and your character).
-- Seriously consider the stunts outside of the typical \"2 to skill when
-  \" mold. They can be surprisingly effective.
-- Make sure you and the GM have an understanding of what your stunts and
-  aspects do -when they come into play, how they can be used, how they
-  won\'t be used.
-
-### Basic strategy
-
-- The number one \"strategy\" in Fate is to get a good skill matchup.
-  Try to find a way to bring one of your better skills into play.
-- Against any opposition, it\'s more important to have a higher relative
-  skill than a higher absolute skill. 2 vs. 0 is better than 4 vs 6.
-- Don\'t get too paranoid even by imposing opposition. It\'s nearly
-  impossible to be Taken Out in a single hit.
-- Create Advantage is your friend.
-- Teamwork is also your friend. You may not be able to get a good Attack
-  matchup, but you can definitely pass along those free invokes (if
-  narratively appropriate) to someone else on your side, who can use
-  them to clean up.
-
-### Playing the Game
-
-- Play \"fiction-first\". Think of what you want to do in the
-  \"fiction\", and then work with the GM to translate that into game
-  mechanics. Frankly, Fate doesn\'t really have enough \"crunch\" to
-  play a mechanics-first game.
-- Prepare to fail. Fate is a game where occasional failure is
-  encouraged. Don\'t fear it. If you\'re playing Fate \"by the book,\" a
-  failure of any sort doesn\'t end the game or the story, it just pushes
-  it in a different direction. Don\'t feel you have to \"win\" every
-  encounter/scene -save the Fate Points for where you really, really
-  want the story to go a particular way.
-- Conceding is your friend. If you\'re getting your butt handed to you,
-  Concede! It\'s a lot better than being Taken Out, and you\'ll even get
-  Fate Points for it!
-- Self-compel whenever you can. The GM will complicate your life.
-  That\'s his job. By self-compelling, you at least get a Fate Point out
-  of the deal.
-- Be proactive. Call for scenes. Figure out how you want to drive the
-  story forward. A good Fate GM will work with this -after all, your
-  characters are the protagonists and should drive the story, not just
-  react to what happens.
-- Think in terms of goals. Your actions should be geared to drive the
-  story forward. Figure out what \"amazing success\" looks like, and
-  make sure the GM knows what you\'re after. Fate is less about probing
-  the existing scenario, and more about driving a story forward. Even if
-  your \"amazing success\" doesn\'t make sense for some reason, the GM
-  can at least give you something similar.
-- Negotiate with the GM, but accept that some things won\'t go your way.
-  In Fate, the GM has a lot of power. And sometimes you\'ll disagree
-  with him. Fate also recommends bringing things up to the table, and so
-  a good GM will do so when there\'s a dispute. Sometimes, though,
-  you\'ll still disagree with the final answer. Deal with it. If it\'s
-  not happening all of the time, and isn\'t just completely ruining the
-  game, let it go. Think about it after the game, and if it still bugs
-  you, take it up with the GM -away from the table.
-
----
-
-## Fate\'s Big Question {#fate-s-big-question}
-
-This is something that\'s been poking around my head for a bit, and I
-think I\'ve finally figured out how to express it.
-
-I think that all RPGs have a \"Big Question\" -that is, a fundamental
-decision-making exercise that\'s really the point of the game. To a
-great extent, competence with this question is what separates a \"good\"
-player from a \"bad\" player in a given game, so that\'s a useful metric
-to figure out what this Big Question is.
-
-For early D&D, the Big Question was \"can I use the resources at my
-disposal, and those I get on the way, to get as much treasure as
-possible out of the dungeon without dying?\" And by looking at that Big
-Question, we can kind of see the choices that drive the game -resource
-management, the risk of death, and a desire to gain treasure. It\'s all
-there, spelled out in front of us.
-
-The vast majority of RPGs today have variations on the same Big
-Question: \"Is my ability to build a character, and my ability to
-manipulate the mechanics of the game, sufficient to overcome these
-obstacles?\" And that\'s how most games are played -the first two
-factors, in various proportions, are put up against a set of obstacles
-to see if the player is skillful enough to beat them.
-
-(BTW, I understand that most games aren\'t \"just\" that. I\'m not
-talking about the totality, just the primary emphasis).
-
-And because a lot of elements in Fate look like those systems, it\'s
-pretty common to assume that Fate has the same Big Question.
-
-But it doesn\'t.
-
-Fate Core doesn\'t really allow for optimization in a way that makes
-charop an interesting exercise. Character building, sure. Character op?
-Not so much. If you\'re halfway proficient in the system, it\'s hard to
-make a character that\'s really incompetent, or super-competent. (As an
-aside, I find the biggest issue with charop in Fate is, ironically
-enough, people that over-specialize, which is the best strategy in most
-games).
-
-And Fate Core\'s mechanical systems don\'t really support a deep game of
-mechanical fiddling. Again, yeah, there\'s some basics, but once you\'ve
-got the general hang of using Create Advantage, the mechanics of
-Stress/Consequences, and how to get good skill matchups, you\'re pretty
-much good to go.
-
-So, those can\'t be Fate\'s Big Question. But what is?
-
-One thing that I\'ve been saying a lot more recently about Fate is that
-a Fate Character can do anything, but they can\'t do everything.
-
-Now, that\'s obviously an exaggeration. There are some things that
-character just can\'t do in a given setting. But that\'s not really what
-I\'m talking about. What I\'m talking about here is the fact that, given
-sufficient Fate Points to spend, and sufficient willingness to take on
-Consequences, a character can accomplish just about any reasonable goal.
-If the character wants to sneak into the castle, he will. It\'s almost
-inevitable. Almost anything can be accomplished. But doing so will
-deplete those resources. You\'ll end up out of Fate Points, and with
-your Consequences all consumed. And then you\'ll find yourself at the
-whims of the dice next time around -which is exactly why you can\'t
-accomplish everything.
-
-And to me this leads right to Fate\'s Big Question. And that question is
-simple: \"How much do you want this?\" Or, since cost is really only
-interesting in terms of opportunity cost, \"Which of these do you want
-more?\"
-
-And to me, that\'s the Big Question of Fate. And just like every
-encounter in a \"typical\" RPG has to drive towards being a challenging
-exercise of build/tactics, every scene in Fate should drive towards
-making the players make those tough choices. The choice of which thing
-they care about they can have, and which one they don\'t get to have.
-
-That\'s why failure is important in Fate -if you never fail, then that
-means that you\'ve gotten everything you want -and you\'ve never had to
-make that hard choice. That\'s why we drive plots off of character
-aspects -because otherwise, it\'s likely that the players/characters
-won\'t really care enough about anything to make the choice a tough one.
-And that\'s why we let the characters be proactive -to ensure that they
-get to make the decisions, that they set up the hard choices for
-themselves by conveniently telling the GM what they care about, and what
-they\'re invested in.
-
-So what a GM really needs to think about in Fate is not \"how do I make
-this encounter mechanically interesting\" (at least, primarily -though
-that\'s a great secondary concern). It\'s \"how much am I going to
-charge them to get their way on this?\" It\'s fundamentally a costing
-exercise, and the cost should be high. Every time they buy something, it
-should be painful, knowing that getting this means that there\'s
-something else that they care about that they\'ll have to forego, or a
-painful cost that they\'ll have to bear.
-
-### Spoiler alert
-
-Want an example of this? Harry Dresden. He refused to sign up with the
-bad guys for years, until his GM (aka Jim Butcher) made him choose
-between his daughter\'s life and signing on with one of the bad guys.
-
-He had to make that hard choice. That\'s great drama. That\'s great
-gameplay. That\'s the point of Fate.
-
-So drive that cost. Figure out what the players want, and make them pay
-for it. Make them give you the \"you\'re a dick\" look on Concessions or
-Compels. Let their priorities get them in deeper and deeper.
-
-They\'ll thank you for it.
-
----
-
-## Questions and Decisions
-
-Okay, this is more of a general RPG thing, but it applies very well to
-Fate Core. So, I read Save the Cat! recently. It kind of opened my eyes
-to a lot of script structure, and pushed me in a few directions I had
-already been going.
-
-I think there\'s two things that are critical in every RPG. Questions,
-and decisions.
-
-Every RPG session should answer some question. This is what drives play,
-and keeps people engaged. This is no different than a story, be it book,
-movie, or whatever. We watch Star Wars because we want to know \"Will
-Luke manage to destroy the Death Star?\"
-
-That\'s more of a campaign level question. But there are other questions
-as well -\"Will Luke find R2?\" \"Will they find a pilot?\" \"Will they
-disable the tractor beam?\" These are all interesting questions.
-
-So when starting a campaign, ask yourself what the campaign question or
-questions are. A grand, sweeping question is fine, but then there needs
-to be something more immediate, relevant, and obtainable. \"Will Luke
-defeat the Galactic Empire\" is an interesting question, but it\'s huge.
-\"Will he get off of Tatooine before the Stormtroopers find him\" is a
-much more approachable, and solvable question.
-
-The other thing is to ensure that the players care about the questions.
-So think about what your players care about -which is generally stuff
-they\'ve invested something in. In Fate, that means their characters,
-but can also mean the setting bits that they\'ve had input into. You may
-have a grand idea for a war between massive factions, but the players,
-at least to start, don\'t really care about your factions. You do,
-because you made them -you\'re invested in them.
-
-Even on a smaller level, most scenes should answer a question. Sure,
-there are scenes that are just exposition, or character development, but
-a good dramatic scene has to have a question that it answers. If you
-can\'t figure that out, then maybe you should skip over the scene, or
-give the players enough information that they can get to a scene with an
-important question.
-
-The other part of this equation is decisions. Questions set the stage,
-and create the drama. But player decisions are what answer the
-questions.
-
-Whenever you\'re looking at a scenario, think about what decisions the
-players are making. If they\'re just going along from point A to B to C,
-and defeating challenges, then they\'re not making a ton of decisions,
-and not doing much to answer the important questions. That\'s fine for
-some games, but it seems kind of counter to the games where Fate really
-shines.
-
-A lot of times we look at adding mechanics, or encounters, or tweaking
-things, or setting up scenarios. And that\'s great. But I find it\'s
-best to always do those things with a mind towards \"what decisions does
-this enable for the players?\"
-
-You\'ve got a town that\'s having an internal power struggle? Great!
-One\'s clearly the good guys, and one\'s clearly bad well, you\'ve just
-removed a decision, in that (hopefully!) the players will align with the
-good guys. Instead, try to make the two sides have implications for the
-future of the town that aren\'t just \"good\" and \"bad\" -or even
-better yet, tie them into character aspects, especially if you can find
-conflicting aspects!
-
-Same with game mechanics. Got some funky new dice mechanic you want to
-try? Awesome! But what decision points does it give to the players that
-they don\'t have? If the players are still making the same decisions (or
-worse, fewer because the new mechanics provide some kind of optimal
-path), then rethink your mechanic.
-
-Note that if the players\' decisions are driving the answer to the
-questions of the game, then you can\'t know the answers ahead of time. I
-deliberately avoid planning what will happen -even to the point of
-thinking about how cool things might be, and then stopping myself from
-thinking about that.
-
-Questions and decisions. Get those, and you\'re pretty much golden.
-
----
-
-## In Defense of Monster of the Week
-
-Okay, so this has been on my mind for a bit. It\'s a little bit less
-about grokking the system, and a bit more practical in terms of running
-sessions. Weird, huh?
-
-Anyway.
-
-(\"Monster of the week\" doesn\'t necessarily mean a monster, of course
-just any one-shot episode not related to the primary story).
-
-Monster of the week episodes on TV get a bad rap, and they can also get
-a bad rap in game sessions. The usual idea is that they\'re filler
-content that takes little creativity and has nothing to do with the
-overall plot that\'s occurring. And they can be all of those things. But
-they can be so much more.
-
-Monster of the week sessions are great trial balloons. They\'re ways of
-throwing elements at the players and seeing what the players like. If
-they like something, it\'s easy to bring it back, or something like it.
-But if they don\'t like an element, it\'s a lot easier to just forget
-about it and move on with the game, as opposed to bringing in a new NPC
-that\'s more integrated with the overall game.
-
-Especially at the beginning of a campaign, MotW sessions are great for
-helping to get a feel for the overall tone of the game, and figuring out
-what the group, as a whole, responds to. It\'s a great way to figure out
-what elements players will want to deal with, and to take those and
-start integrating them into the bigger picture.
-
-And those are all valid points in favor of MotW sessions.
-
-But there\'s a huge misconception about MotW sessions/episodes. And
-that\'s the idea that they\'re not relevant because they\'re not part of
-the overall plot. But they\'re very, very relevant. Because a monster of
-the week episode/session ain\'t about the monster.
-
-It\'s about the characters.
-
-Look at the first season of Buffy, for instance. Witch cheerleader mom?
-Totally unrelated to the overall plot. Monster of the week. Pointless,
-right? Nope. Because the episode wasn\'t about the witch. It was about
-Buffy wanting to live a normal life, and about how she can\'t because of
-what she is. Mantis teacher? Pointless, right? Nope. It was about Xander
-being unlucky (and a bit desperate) in love.
-
-Hyena gang? That\'s a double-whammy, being both about Xander\'s desire
-to fit in, but mostly about how much Willow cares about Xander.
-
-Computer demon? Another double-whammy, hitting up Willow\'s unluckiness
-in love as well as Giles\' love of books/discomfort of technology.
-
-The point of these episodes isn\'t to advance the plot. It\'s to
-highlight and flesh out the characters that are involved. And that\'s
-the key.
-
-So if you\'re doing a monster of the week, great! Good for you! But do
-it right. Make it about the characters. Don\'t start with a monster
-idea. Start with the aspects of the characters, and then make up a
-\'monster\' that reflects that aspect, or shows the weakness, or drives
-that conflict home.
-
----
-
-## Aspects, the Information Economy, and Chekov\'s Gun {#aspects-the-information-economy-and-chekov-s-gun}
-
-(No, not the Star Trek guy).
-
-Okay, I think most people are aware of Chekov\'s Gun -\"if a gun is on
-the wall in the first act, it should be fired by the third.\"
-
-Ultimately, what this really means is \"don\'t bother the audience with
-extraneous detail.\" Especially in a play, everything that\'s there
-should be there for a reason. There\'s a deliberate choice that\'s made
-to focus on what\'s important, and remove everything that isn\'t.
-
-We see this in TV shows, movies, and books, as well, but not to as great
-of an extent. Most of these media try to immerse their audience in the
-reality of what\'s happening, something that\'s generally not a goal for
-plays. And so there might very well be a gun on the wall that never gets
-fired, or a shadow that nobody leaps out of.
-
-But the camera will never focus on those things. And that\'s a useful
-way of looking at it, as well -an aspect is something that gets camera
-focus in describing the scene.
-
-To put it another way, there\'s a difference between a scene being dark,
-and a scene being Dark. A dark scene may be a poorly lit bar -but the
-lighting is just ambience. It doesn\'t influence the plot in any way. It
-doesn\'t really impact how the characters do things. It\'s just there to
-set a mood.
-
-A Dark scene is different. In a Dark scene, we can expect somebody to
-jump out of the shadows at some point, or disappear into them.
-
-And that\'s kind of what aspects are. They\'re the things we\'re
-pointing out to the players as important. We don\'t try to capture every
-detail, or worry about the minor things that have a slight influence on
-what happens. Size advantages/disadvantages aren\'t a big deal, until
-you\'re talking about something on the level of Bruce Lee vs. Kareem
-Abdul Jabaar yeah, one guy might have a slightly longer reach, and one
-guy might be slightly faster, yada, yada, yada, but all of those are
-minor factors.
-
-Fate worries about the major factors. It worries about the big things
-that will swing how the scenes play out. It doesn\'t worry about the
-minor effects, even though those certainly can add up to a big effect
--but it assumes that, like a TV show or movie, that those turn out to be
-a wash most of the time.
-
-Now, since we don\'t have full control of the story, we can\'t fully
-obey the law of Chekov\'s Gun. But it\'s important to keep in mind that
-every aspect should be something that could be important, and that could
-be something that causes the scene to swing a different way.
-
-And that\'s why aspect \"spamming\" is kind of a bad thing. The point of
-aspects is to restrict what the players have to think about, to restrict
-the important elements in a scene. If your scene has a list of twenty
-aspects, then you\'ve destroyed this economy of information, and have
-reduced the value of calling out things as aspects in the first place.
-
----
-
-## Character Creation Musings
-
-So, I\'ve done character creation a bit. Mostly because I force my
-players through it for one-shots, since those often end up as a sales
-pitch for the game as a whole.
-
-Anyway.
-
-Through doing character creation, I\'ve noticed that there are some
-things that are very quick, and some things that aren\'t. I\'ve also
-noticed that some things are very valuable, and some things less so.
-Annoyingly, many of the things that are less useful are also the things
-that take the longest.
-
-I\'ve decided that I like scoping out the \"First Adventure\" phase as
-\"your first spotlight episode\". It seems to help players in coming up
-with stories (antagonists, etc.) rather than vignettes for their first
-adventures. It also eases some of the time issues that I\'ve had occur.
-A nice side bonus of this is it gives me a pretty good idea of what the
-players think an episode/minor arc should look like! I don\'t see a lot
-of problems with this, except that it leaves out the possibilities for
-stuff that occurred before the \"series starts\". Luckily, that\'s
-handled well by\...
-
-I add the Early Life and Turning Point phases back in. I think it was
-Ryan Macklin that suggested this, and I think it\'s a great idea.
-
-Of course, this only really works if you decouple aspects from phases,
-so that\'s a given. Fortunately, one of the low-benefit, high-cost areas
-that I see is defining aspects at character creation. At this point, the
-character is usually being felt out, and I always give the go-ahead for
-massive aspect modification after the first few session. So, if I\'m
-going to do that, why not just allow for FAE-style aspect creation on
-the fly?
-
-Same with stunts. Stunts have been the highest-cost, lowest-value part
-of character creation that I\'ve seen from day one, so I\'ve switched to
-FAE style, on-the-fly stunt creation. If people have stunts that they
-know they want at the start, that\'s fine of course.
-
-I also only really ask that players fill in the top three skills, though
-I find that generally they do the entire pyramid.
-
-Procedurally, I think this will go something like:
-
-1.  Go around the table, come up with High Concept
-2.  Go around the table, come up with Trouble
-3.  Go around the table, do early life/turning point as appropriate
-4.  Go around the table, do first spotlight episode
-5.  Go around the table, do first crossing paths
-6.  Go around the table, do second crossing paths
-7.  Opportunity for people to write down aspects if they choose and get
-    input
-8.  Individually write down your top three skills and stunts as
-    appropriate
-
----
-
-## Missing rules in Fate
-
-There\'s a lot of rules that Fate \"doesn\'t have\". In many cases,
-these seem to be rules that are derivatives of the core rules, may be
-different based on a particular setting, often are variable in nature,
-and can easily be agreed upon at the table if you have reasonable
-people.
-
-Take the eternal example: \"on fire\". Many games say \"being on fire
-means you take some amount of damage per turn.\"
-
-That\'s one interpretation. Fate allows for that, with the fractal
-(though it\'s usually framed as an attack, not an automatic damage.
-Close enough.)
-
-But being \"on fire\" could mean lots of things, everywhere from being
-fully engulfed in fire to having a couple of flames on your sleeve. Is
-one answer really correct here? One single mechanic? If not, how many
-mechanics would it really take to cover all the possible situations? Do
-we just handle the mechanical, physical effects? What about the
-instinctual terror that something like being on fire tends to cause? I
-mean, get me around a wasp, and I guarantee I don\'t act in any kind of
-rational manner!
-
-And that\'s assuming a single genre. A similar cause (say, having your
-clothes on fire) might have very different effects in different genres
--an Action Movie Star might just blow it off, while someone in a horror
-movie could totally freak out.
-
-Fate Core\'s model (figure out what you want to do, then apply the
-rules) handles these variations incredibly well.
-
-There\'s disadvantages to this approach, of course. The lack of explicit
-mechanics means that there\'s room for negotiation and disagreement. If
-you can\'t come to some kind of an agreement without Appeal to
-Authority, Fate isn\'t going to work for you. If every bit of judgement
-call is going to result in an hour-long argument with flying dice, Fate
-definitely ain\'t the game for you.
-
-Personally, I prefer to game with people that can compromise, accept
-judgement calls, and don\'t have to argue about every little thing. So
-in that way, this weakness is actually a feature, as it\'s a great way
-to detect people that I probably won\'t enjoy gaming with long term
-anyway.
+## Зачем мне это?
+
+Ладно, тут не будет никаких внезапных (всё это время я работал на Evil Hat! Муаха-ха-ха!) откровений или чего-то вроде. Однако на некоторые из этих постов я убил немало времени, поэтому мне хотелось бы пояснить, зачем, собственно, я этим занимаюсь. Ведь, как ни посмотри, это просто НРИ, а НРИ — по сути своей развлечение, не работа.
+
+Я — геймер со стажем. Играю я более тридцати лет, а начинал с _D&D_ во времена Молдвея. Мне довелось попробовать немало систем. Я сотрудничал с громкими именами НРИ-индустрии, хоть сам я определённо не из их числа.
+
+Подход к играм у меня старой выправки: со смертью персонажей, сложными испытаниями, вбирванием наград потом и кровью. Спроси вы меня год назад, есть ли смысл позволять персонажу найти потайную дверь, которой не указано на карте, только потому что он совершил удачный бросок, то я бы поинтересовался, всё ли у вас в порядке с головой. А если бы год назад вы сказали, что я буду поддерживать идею не убивать персонажей без предварительного обсуждения, я бы спросил, где вы берёте такую забористую дурь. (К слову, касательно некоторых игр я всё ещё придерживаюсь тех позиций!)
+
+С _Fate_ я начал знакомство через _Spirit of the Century_ и _Dresden Files RPG_. И не скажу, что освоиться мне удалось легко и с порога. Кое-что из принципов игры я не понимал, и прекрасно осознавал это. Однако мне нравилось то, что происходило за столом, и в итоге _Fate_ приглянулась мне достаточно, чтобы я в неё втянулся (моим предыдущим опытом нарративных систем была _Burning Wheel_ ). И главной проблемой того периода, на которую я натыкался снова и снова, были мои подсознательные попытки заставить _Fate_ вести себя по принципам более традиционных игровых систем.
+
+Где, спрашивается, были характеристики? Какие цифры тут надо было складывать? В чём, чёрт возьми, смысл давать персонажу аспект Очень сильный и почти никогда его не применять? Безумие какое-то!
+
+Однако я втянулся. Я читал книги, играл с теми, кто понимал дух системы (привет, Джейкоб Посс). Я следил за ответами гуру сетевых форумов (всех я не смогу перечесть, но большая часть из вас и сами поняли, о ком я).
+
+Поначалу меня искренне цепляли только несколько моментов, крутость которых с лихвой перекрывала общее непонимание идей игры. Однако потом в какой-то момент что-то щёлкнуло. Пазл сошёлся. Я прозрел. Фраза «Фантазия, не физика» перестала быть для меня милым слоганом, и я в полной мере согласился с тем, что веселье важнее реализма. Я перестал искать для себя новые системы. Мне внезапно стало понятно, почему в _Kriegszeppelin Valkyrie_ самолёты подчиняются правилам трюков. Резко обрели значимость три фазы создания персонажей, и тогда я понял, что это не просто удобный способ свести группу авантюристов вместе.
+
+Когда я осознал это, меня открылся новый подход к НРИ. По-настоящему классный поход, не похожий на то _D&D_ , в которое я играл в 10 лет.
+
+Не поймите меня неправильно — я всё ещё не прочь поиграть и по-другому. Я не буду воротить нос ни от старого доброго данжен-кроула, ни от череды тактических схваток с миниатюрами, подкреплённых сюжетными/детективными сценами. За долгие годы я получил от таких игр массу удовольствия и не  сомневаюсь, что в будущем его будет только больше. Когда-нибудь я  хочу провести игру по мотивам X-COM , и я почти уверен, что правилами для неё вряд ли послужит Fate (пока что кандидаты — GURPS и Savage Worlds ).
+
+Вот о чём, собственно, мои статьи — я расписываю свои осознания и выкладываю их на всеобщее обозрение в надежде, что они, быть может, пригодятся кому-то, кто пытается осмыслить те же вещи, которые когда-то были невдомёк мне самому. То есть если я, например, напишу что-то в духе: «Эй, в Fate нет системы урона!», не думайте, что я выпалил это, как какой-нибудь пророк с вершины горы. Меня никогда не прельщала карьера пророка господня, учитывая, что с профессиональной униформой там всё плохо, а со средней продолжительностью жизни — и того хуже. Вместо этого воспринимайте это, словно я написал: «Ну дела! Я только что понял, что в этой игре нет системы урона!
+
+Итоги боя в ней подводятся абсолютно иначе! Это же нереально круто!» Вот о чём эти посты. Я пытаюсь помочь другим посмотреть на Fate «с точки зрения новичка», со свежей стороны, ещё не закостенелой после долгих лет игр в другие системы. Я не ставлю своей целью навязать другим восхищение теми вещами, которые нравятся лично мне. Также я не говорю никому, что они играют «неправильно» — насколько мне известно, ещё не организовали никакой Fate -полиции, которая будет выламывать двери и выписывать штрафы.
+
+Если вам весело и интересно, то со своей стороны вы всё делаете правильно.
+
+Моя же цель — поделиться вещами, которые я узнал о системе после того, как перестал пытаться «натянуть сову на глобус».
+
+И, знаете, перестать было трудно. В традиционных системах хватает рабочих, проверенных принципов, которые позволяют нам веселиться и  получать тонну радости. От этих принципов бывает очень трудно чуть-чуть отклониться, потому что обычно дизайнерские решения этих игр тесно переплетены между собой и работают только при взаимной согласованности. Однако мне кажется, что у Fate это переплетение кардинально отличается от привычных для традиционных систем, а потому, чтобы проникнуться им, вам придётся переменить много точек зрения и подойти к этой системе так, будто до этого вы ни разу не пробовали играть в НРИ. Мне этот подход несказанно помог и подарил много положительных эмоций, а потому я хочу поделиться своими находками и помочь другим добраться до той же самой тонны радости.
+
+Еесли вам интересно, присоединяйтесь, пройдём этот путь вместе. Делитесь со мной своими мыслями, и я с радостью поделюсь с вами моими. А если нет, то, чёрт возьми, быть может, нам когда-нибудь доведётся сыграть в игру, к этому подходу не относящуюся, и тогда мы повеселимся уже по-своему.
+
+## Знакомим людей с Fate
+
+Я часто натыкался на этот вопрос. Поэтому сейчас я изложу свои мысли и посмотрю, что думают другие. Поехали.
+
+У _Fate_ весьма необычный подход к некоторым вещам. Если искать первопричину, мне кажется, эта система пытается ответить совсем не на те вопросы, на которые отвечают типичные НРИ. Поэтому она может показаться новичкам странной. В ней есть много понятий, которые не слишком хорошо вяжутся с принципами более «традиционных» или типичных НРИ.
+
+Итак, как знакомить с _Fate_ новых игроков?
+
+Первое, что я делаю, это расписываю систему на словах, а особенно — её сильные стороны. Я подчёркиваю, что _Fate_ позволяет вам думать о том, _кто есть_ ваш персонаж, а не что он из себя представляет и что может. Я рассказываю, как быстро _Fate_ играется и как удобно в её рамках проводить небоевые взаимодействия. Также я уточняю, что это попросту другая игра, которую никто не навязывает как замену их любимой НРИ.
+
+Допустим, мне удалось промыть моз... кхм, заинтересовать потенциальных игроков, поэтому мы договариваемся об игровой сессии. Перед её началом, по возможности — индивидуально, я прохожусь по некоторым моментам.
+
+В первую очередь, я упоминаю, что _Fate_ не строится вокруг предположения, что вас ждёт несколько препятствий, которые обязательно нужнопреодолеть.
+
+Я делаю акцент на том, что провалы — нормальный и ожидаемый исход, игра на них не закончится. Когда игра начинается, я вместе с игроками перехожу к совместному созданию сеттинга/персонажей. Моя практика показывает, что это вовлекает игроков в сеттинг и облегчает процесс создания героев.
+
+Обычно к концу создания сеттинга (что не занимает много времени) я замечаю, что игроки уже сильно заинтересованы игрой. Поэтому, собственно, я  этим с ними и занимаюсь. Создавать игровой мир — весело, и на этом моменте игроки обычно ещё не успевают столкнуться с первыми трудностями, поэтому здесь очень кстати бывает подзадорить интерес игроков и вовлечь их в игру, чтобы в будущем, наткнувшись на непонятный или сложный для понимания элемент, они могли продраться через него на энтузиазме.
+
+На этом этапе я обязательно слежу, чтобы создание персонажей проходило совместно и при участии всей группы — разумеется, общий курс задаёт игрок, чей персонаж создаётся в данный момент, но общаться и уделять процессу внимание должен каждый участник.
+
+Тогда же весьма удобно бывает объяснить понятие аспектов, а также предлагать свои идеи. Поскольку на этом этапе мы всё ещё вовлечены в «сюжетную» составляющую, это кажется уместным и несложным. С помощью своих знаний и опыта я могу подкидывать игрокам идеи полезных аспектов, не заваливая их массивами информации о системе.
+
+Обычно я объясняю суть аспектов примерно так: «Представим Хана
+
+Соло в конце Звёздных Войн. Допустим, между этим моментом и созданием Империи он успел поучаствовать в других историях. Какие элементы должны фигурировать в них, чтобы можно было сказать, что они "про Хана Соло"?» Обычно мне говорят про «Сокол Тысячелетия», про Чуи, про его долг перед Джаббой, о его удали и норове и т. д. Всё это я считаю примерами его аспектов.
+
+На бумаге создание персонажей по очереди при участии целой группы может показаться медленным, но на деле я заметил, что так дела идут только быстрее. Мне кажется, соучастие и общий интерес вкупе с надзором со стороны человека, знающего игру, позволяет процессу идти бодрым темпом. Кроме того, совместное создание героев облегчает понимание сюжетных линий и действующих лиц в тех фазах, где в истории одного персонажа должен появиться герой другого игрока.
+
+С навыками сложностей обычно не возникает, но обычно я не задерживаюсь на трюках и прошу игроков оставить в бланке персонажа пробелы. Иногда я могу предложить игрокам трюки, которые по моему мнению подойдут их персонажам, но мой опыт показывает, что на это часто уходит немало времени. Поэтому обычно я решаю предлагать игрокам подходящие трюки по ходу игры и заблаговременно уведомляю их, что мы будем делать именно так.
+
+Итак, во время самой игры я обычно придерживаюсь образной модели телешоу/фильма/книги. Объясняя правила, я привожу примеры из подобных источников, либо пользуюсь средствами выразительности подобных форматов. Например, я буду делать отсылки к «операторским ракурсам» и тому подобным вещам — иногда я даже могу ввернуть «смену кадра» или «вступительные титры». Тут важно выдерживать эту тему на протяжении всех описательных моментов, чтобы преодолеть присущий многим новичкам «симуляционистский» подход (которого в своё время придерживался и я).
+
+Кроме того, в течение игры я прикидываю, как бы действовал я, играя определённых персонажей игроков, и иногда ненавязчиво предлагаю свои идеи.
+
+Также я стараюсь задавать вопрос «хорошо, но что твой персонаж делает?», если игроки начинают смещать акцент с повествования на цифры и правила.
+
+Я замечал, что игроки часто сталкиваются со сложностями, когда от них требуется быть проактивными и самим продвигать сюжет. Чаще всего я вижу, как игроки находятся в режиме, так сказать, пассивного исследования. Поэтому я часто буду задавать вопрос: «Хорошо, но что ты сделаешь, чтобы выбраться из этой ситуации? Представь наилучший исход этой сцены — как ты его видишь?» Прозвучит странно, но мне кажется, что для игроков в новинку бывает осознание того, что они могут получить то, к чему стремятся, и что успех подобных масштабов может быть достижим.
+
+Рано или поздно в сюжете почти неминуемо возникнет физический конфликт (сражение) — по настроению я могу подбросить его как раз, чтобы оправдать ожидания тех, кто считает схватки неминуемой составляющей НРИ.
+
+Эти конфликты кажутся мне важной составляющей обучения игры в _Fate_.
+
+Главное здесь — научить их оперировать стратегическими понятиями _Fate_ : использовать уязвимые места врагов, создавать преимущества и др. В этих случаях я, опять же, нередко ссылаюсь на повествовательные механизмы книг/телешоу/фильмов. Мне доводилось видеть, как незнакомые с _Fate_ (то есть почти все) игроки просто лоб в лоб ввязываются в схватку с противником, значительно превосходящим их по силе. Тогда я беру паузу либо до начала конфликта, либо спустя раунд после начала, и объясняю, как всё это работает: например, демонстрирую, как можно одержать верх над врагом, создав преимущество, вместо того, чтобы мериться своими 2 кубиками Драки против вражеских 6.
+
+Я также убеждаюсь, что они знают, что такое сдаваться, и напомню, что они могут попытаться капитулировать в любой момент. Я подчеркну, что их готовность продолжать борьбу должна быть соизмерима с их желанием идти на риск ради того, что можно выиграть в этом конфликте, и ещё раз повторю, что периодически терпеть поражение — нормально и не зазорно. Нередко я буду умышленно планировать первые сражения с оглядкой на то, что героям придётся проиграть или сдаться. Этим поражением я постараюсь подстегнуть их, чтобы у них появился стимул докопаться до сути событий данного сюжета.
+
+Ну, как-то так я в общих чертах и поступаю. До сих пор эта последовательность хорошо себя показывала, а в случаях, когда она давала слабину, я обычно выносил урок и заносил в список какую-то из описанных выше вещёй: весь этот перечень есть плоды множества моих проб и ошибок.
+
+То, чего я никогда не делаю — это не пытаюсь «облегчить» вхождение в  _Fate_ своими попытками сделать игру более схожей с другими традиционными системами. Я знаю, что так часто поступают, но я никогда не видел в этом смысла или нужды. Обычно мне всегда помогало просто сказать: «Да, эта игра не такая. Вот почему, и вот почему это здорово. Так что давайте попробуем». Касательно моментов, где ожидания игроков особенно расходятся с происходящим, думаю, стоит делать одно из двух: либо обыграть события так, чтобы они отдалённо напоминали ожидаемые, тем самым не вызывая подсознательной реакции, либо прямым текстом адресовать отличия в системах, чтобы игроки осмыслили это и, опять же, избежали подсознательного расхождения ожиданий.
+
+А вы как поступаете? Советы, хитрости? Личный опыт? Истории о том, как всё прошло без сучка, без задоринки? Или же хроники ужасных фиаско?
+
+## В первую очередь — фантазия
+
+Я решил изложить свои мысли на эту тему, потому что считаю, что ей уделяют недостаточно внимания (нередко — даже я сам). Что-то из этого может показаться вам слишком глубоким или просто педантичным. Можете посмотреть, что там у меня, а можете назвать меня идиотом. Меня устроит любой расклад.
+
+«В первую очередь — фантазия» — это золотое правило Fate. Чтобы понять его, нам надо для начала дать определение слову «фантазия».
+
+Для меня «фантазия» — это вся та муть, которую мы представляем у себя в головах. Когда мы забываем о цифрах и позволяем нашему воображению захватить сцену, это — «фантазия». Речь сейчас не об обсуждении каких-то сюжетов или абстрактной творческой жилке. В данном случае я говорю конкретно о ситуациях, когда мы даём нашим воображениям захватить игру вместо того, чтобы сосредотачиваться на кубиках и бланках персонажей.
+
+И такие моменты — настоящая мощь. Не берусь говорить за других, но именно ради такого я и играю в НРИ. Не ради того, чтобы мусолить цифры, но ради ощущения пребывания «в мире» и наблюдения за тем, что произойдёт.
+
+Это — лучшее, что есть, а всё остальное помогает до этого лучшего добраться.
+
+Итак, что же значит это «В первую очередь — фантазия», по крайней мере — для меня? Это значит, что действия персонажа должны брать начало из «фантазии» и описываться терминами «фантазии». А после этого, и только тогда, их стоит интерпретировать в рамках механики.
+
+Это значит, что игрокам не стоит начинать излагать действия персонажей с  фразы «Я атакую/преодолеваю/создаю». Если при обсуждении происходящих событий вы слышите много игрового жаргона, то стоит отдалиться от мыслей о правилах и больше сконцентрироваться на «фантазии». Нарисуйте картину. Убедитесь, что все воображают себе одно и то же положение вещёй.
+
+Пусть каждый игрок скажет, что делает их персонаж, а не изложит оптимальное решение с точки зрения чисел на листе перед собой.
+
+Исходя из этого определите остальные факторы, играющие в этом действии роль. Кто ему противодействует? Насколько сложно добиться цели?
+
+Определив это, можно думать, как это действие разрешить. Это атака? Преодоление? Создание преимущества? Присутствует ли пассивное сопротивления, и если да, то на каком уровне? Уже после этого мы кидаем кубики, призываем то, что нужно, и наконец-то добираемся до разрешения действия.
+
+И тут уже нужно обсудить другой момент. Fate не говорит игрокам напрямую, что происходит. Кости не говорят, что случилось — по крайней мере, уж точно не как в GURPS , где система сама скажет: «вы попали орку в руку, нанесли Х урона и вывели руку из строя». Вместо этого Fate задаёт рамки нарративу.
+
+Если вы атакуете противника мечом и выходите вничью, вы получаете усиление. Класс. Что это значит? Ничего конкретного, по крайней мере, не как это было бы в GURPS. Нужно вплести в нарратив, что произошло, но что именно?
+
+_Fate_ не сообщает деталей. Однако мы знаем общие параметры нарратива.
+
+Мы знаем, что противники не подверглись стрессу, поэтому они не приблизились выбыванию из конфликта. Мы также знаем, что они не получили последствий, значит с ними не произошло ничего существенного. Однако атакующий получил временное преимущество, и нам предстоит вплести в нарратив, в чём конкретно оно выражено.
+
+В более брутальной игре после парирования удара мечом у врага может онеметь рука, однако он от этого быстро оправится. Или, к примеру, его могло отбросить назад силой удара. Если игра нацелена на зрелищность поединков, быть может, ему распороло одежду, и враг замешкался, увидев выступившую кровь. А в совсем кинематографическом сюжете противник на мгновение отшатнётся, получив неглубокое, но дезориентирующее ранение.
+
+Стоп, что? Как это — усиление может быть ударом, наносящим кому-то физический ущерб? Но ведь мы не вызвали стресс!
+
+Ну да. Однако стресс — не урон. Это своего рода показатель темпа конфликта, способ определить, насколько кто-то близок к выбыванию. Успех при атаке не является показателем того, что персонаж нанёс врагу увечье, равно как и ничья, и даже провал при атаке не означают, что противника не удалось зацепить (хотя, конечно же, чаще всего так и случается). Повторюсь, _Fate_ не диктует непосредственные события, просто задаёт рамки нарративу. А поскольку согласно правилам стресс — способ показать, насколько персонаж близок к  выбыванию, никакие правила не нарушаются, пока результат броска должным образом вплетается в нарратив. Вам необязательно ранить кого-то, чтобы приблизить его к выбыванию, и не каждое попадание будет означать, что пострадавший может скоро выбыть из конфликта.
+
+Итак, мы оглашаем результаты, после чего продолжаем играть. Таким образом можно очертить примерный порядок вещёй:
+
+- Описать сцену с точки зрения «фантазии».
+
+- Определить действия персонажа в рамках «фантазии».
+
+- Определить противников.
+
+- Определить применимые правила.
+
+- Разрешить действие с точки зрения механики игры.
+
+- Понять повествовательное направление, которое задала механика.
+
+- Описать итог действия в рамках этого направления.
+
+Мне кажется, такой подход помогает решить несколько частых вопросов/ трудностей, возникающих при игре в _Fate_ , особенно у игроков, переходящих с других систем. Таких, как я, например.
+
+Для начала — если при создании преимущества можно добавить в сюжет новый элемент, то почему бы просто не создать что-то абсолютно, неприлично нарушающее баланс и тем самым выиграть весь сценарий?
+
+Отвечаю: потому что так мы пропустим первые пять шагов процесса разрешения действия! Если предложенное действие не имеет смысла в рамках фантазии, то вам не продвинуться дальше второго шага. И уж наверняка подобные попытки разобьются о четвёртый шаг, поскольку нет таких правил игры, которые можно было бы применить для реализации невозможного действия.
+
+Если мы играем в «грязную» игру с военной тематикой, и кто-то скажет, что его персонаж начинает очень-очень быстро махать руками, чтобы пролететь над караульным, то, увы, этого никогда не произойдёт. Равно как и попытки сделать бомбу из грязи и палок. Перед тем, как перейти к броскам, всем нужно согласиться, что заявленное действие — возможное, пусть и трудное.
+
+Далее: я слышал немало обсуждений таких вещёй, как стресс, урон, тяжёлые ранения и так далее. Здесь важно заметить, что стресс не является чем-то наглядно измеримым или определённым. Он просто задаёт рамки для нарратива. Если в вас «попали» из гранатомёта (иначе говоря, вас успешно атаковали), после чего вы записали себе всего один пункт стресса, это не значит, что ракета попала вам прямо в грудь, а вы отмахнулись от неё как от назойливой мухи.
+
+Это значит, что вы получаете пункт стресса. Один пункт. И повествовательная часть, описывающая исход совершённой с помощью гранатомёта атаки, должна с этим согласовываться. Поскольку по логике прямое попадание гранатомёта означало бы превращение вашего персонажа в кровавое месиво, очевидно, что из гранатомёта в вас не «попали». Возможно, увернувшись, герой вывихнул лодыжку. Может, его осыпало поднятыми в воздух осколками камней. Может, герою удалось найти укрытие, но его зацепило взрывной волной.
+
+Fate не может предоставить нелогичный исход, поскольку система не предоставляет определённого исхода в принципе. Чтобы система вынудила игроков принять нелогичный исход, нужно, чтобы к ситуации невозможно было подобрать ни одного логичного, а тому же случаю с пунктом стресса и гранатомётом можно придумать немало логичных объяснений.
+
+Третий вопрос, на который я натыкаюсь — различные методы убийств одним ударом. Это поднимается даже в основной книге правил Fate Core! В примерах один из персонажей (не помню, кто именно) убивает важного персонажа ведущего одним ударом меча. А как же стресс! А как же последствия!
+
+Ну, а что такого? Если опытный воин ударит мечом неподготовленного, безоружного, неспособного защитить себя противника, что, как вы думаете, должно произойти? Несчастному крышка.
+
+По сути своей эта ситуация не является конфликтом, поэтому здесь не имеет значения стресс (напоминаю, что стресс — измеритель хода конфликта, а не какая-то внутренняя шкала каждого персонажа). В данной ситуации был пропущен четвёртый шаг разрешения действия — определение применимых правил. Ошибка тут — предполагать, что всякий раз, когда кто-то взмахивает мечом (или стреляет), начинается конфликт, а потому нужно обязательно подключать все сопутствующие правила, измерять его ход и т.д.
+
+Но нет, не нужно. Не будем пропускать четвёртый шаг! Нам всегда, пусть даже на долю секунды, надо задумываться о том, как корректнее было бы разрешить действие. И, что важнее всего, выбираемая нами механика разрешения зависит от нескольких факторов:
+
+- Совершаемое действие
+
+- Желаемый результат
+
+- Конкретные обстоятельства ситуации
+
+- Глобальное «назначение» сцены
+
+В большинстве систем разрешение зависит только от первых пунктов.
+
+В  _Fate_ , однако, это не так. Когда персонаж кого-то толкает, это можно разрешить как атаку (попытка столкнуть кого-то со скалы), создание преимущества (попытка сбить врага с ног или заставить того потерять равновесие), либо преодоление (вытолкнуть противника с тактически выгодной позиции).
+
+Когда кто-то в кого-то стреляет, это тоже не всегда атака — ведь действие атаки чаще всего применяется уже в рамках конфликта. Бывает, что сцену лучше обыграть как вызов, состязание или даже простое преодоление, и тогда можно обойтись без атаки. Если вдумываться, снайпер, стреляющий кому-то в голову, должен избавиться от своей цели с одного выстрела, а это вряд ли можно сделать со значимыми персонажам, придерживаясь привычных правил по стрессу/последствиям. Так что, возможно, «обычная» ситуация с участием снайпера (ничего не подозревающая цель и т.д.) не является конфликтом — и это имеет смысл, поскольку цель не оказывает активного сопротивления и не стремится причинить снайперу вред (пока что!).
+
+Вот, собственно, что для меня значит принцип «В первую очередь — фантазия». Это значит, что фантазия указывает путь правилам, а не наоборот. Эту фразу неспроста называют «золотым правилом» _Fate_ : если ему следовать, то сами собой отпадают очень многие проблемы или вопросы.
+
+А ещё так куда веселее играть.
+
+## Что значит совместное создание игрового мира
+
+Многих игроков, не привыкших к играм нарративного характера, смущает процесс совместного создания игрового мира, и мне самому тоже было сложновато. Над какими именно элементами мира обладает властью ведущий? Значит ли это, что игроки могут сами решать и создавать, что им вздумается? Ведущий никак не участвует в создании мира? Если игроки могут просто заявить обо всём, разве игра не скатывается в простые посиделки за рассказом истории?
+
+Мне кажется, лучшим способом изложить мой взгляд на этот вопрос — показать несколько примеров. Разумеется, как и всегда, это только моё мнение, и кто-то имеет полное право с ним не согласиться. :) Три моих примера будут основаны вокруг одной идеи — о правительственных агентах, расследующих дела сверхъестественного характера — и как эта идея будет преображаться в зависимости от трёх групп, с которыми проводятся игры.
+
+«Все совпадения с “реальными” продуктами настолько же случайны, насколько не имеет ни с какими героями ничего общего». © Нанок-варвар, завоеватель авторских прав.
+
+Некоторые из этих примеров будут чуть-чуть оклоняться от прописных правил в угоду большей демонстративности самих примеров.
+
+### Группа 1
+
+В: Итак, правительственное бюро по борьбе с потусторонними угрозами. Каких врагов вы хотели бы увидеть, ребята? То есть глобальных, масштабных врагов, которые вам давно противостоят.
+
+И1: Пришельцы. Люблю пришельцев.
+
+И2: Класс! Но как насчёт теории заговора? Например, пришельцы работают заодно с правительством.
+
+В: Мне нравится. Выходит, вы, ребята, кто — ФБР?
+
+И1: Да, звучит клёво. Вижу тут интересные возможности — политические игрища, государство расследует свои же службы.
+
+В: Славно, есть мысли по персонажам? Я бы хотел, чтобы они были плюс-минус обычными людьми — не хочу скатываться в супергероику.
+
+И1: Окей, обычными так обычными. Раз уж мы остановились на пришельцах, как насчёт того, чтобы мой следователь был одержим сверхъестественным после того, как в детстве инопланетяне похитили его сестру?
+
+В: Я обеими руками за.
+
+И2: А вот я попробую наоборот — может, мне сыграть персонажа-скептика?
+
+Тогда между ними появятся интересные линии напряжения.
+
+В: Отлично. Мне надо прикинуть кое-какие детали, и тогда начнём играть.
+
+### Группа 2
+
+В: Итак, правительственное бюро по борьбе с потусторонними угрозами. Каких врагов вы хотели бы увидеть, ребята? То есть глобальных, масштабных врагов, которые вам давно противостоят.
+
+И1: Хм-м. Как насчёт какого-нибудь альтернативного измерения?
+
+И2: Да, например, где-то по ту сторону может назревать целая война, но мы об этом не в курсе.
+
+И3: Звучит круто. Впрочем, может, стоит добавить ещё что-то, например, группировку межпространственных копов или типа того?
+
+В: Славно. Какие идеи касательно персонажей?
+
+И1: Можно мне быть правительственным агентом? Может, экстрасенсом?
+
+В: Мне бы хотелось держаться уровня нормальных людей. Думаю, экстрасенс — годится, но ты не будешь против, если у него «сюжетные» способности, а не широко применимый по желанию навык?
+
+И1: Да, конечно. Пусть способности выстреливают только когда нужно.
+
+И2: Хочу быть безумным учёным, как вам?
+
+И1: Эй, знаешь, ты бы мог ставить надо мной опыты, пока я был ребёнком, поэтому-то я и экстрасенс!
+
+И2: Класс, мне нравится.
+
+В: Хорошо. И3?
+
+И3: Мы будем играть в этот сюжет с измерениями, да? Может, я как раз из этого другого измерения?
+
+В: М-м-м, на начало игры мне бы хотелось держать весь этот пласт с измерениями втайне от персонажей.
+
+И3: Всё в порядке, может, я даже сам этого не осознаю. Может, меня оттуда вытянули, пока я был ребёнком.
+
+И2: Может, это сделал даже один ваш знакомый безумный учёный?
+
+И3: Звучит отлично. Но почему?
+
+И2: Может, ты — альтернативная версия моего мёртвого сына?
+
+В: Ох, ну и дела. Мне пока не кажется, что вся эта задумка покатится под откос.
+
+Но постой, значит ли это, что у каждого есть альтернативная версия?
+
+И1: Да, похоже на то.
+
+В: Сюжет может нехило закрутиться, если люди начнут перемещаться между мирами. Мне нравится. Я всё подготовлю, ребята, увидимся через неделю.
+
+### Группа 3
+
+В: Итак, правительственное бюро по борьбе с потусторонними угрозами. Каких врагов вы хотели бы увидеть, ребята? То есть глобальных, масштабных врагов, которые вам давно противостоят.
+
+И1: Мне нравится идея того, что все мифы основаны на реальности, просто сильно искажённой. Можем попробовать что-то в этом роде.
+
+В: Конечно. Какие именно мифы возьмём?
+
+И2: Не знаю, почти все старые мифы уже в печёнках сидят.
+
+И3: Как насчёт сказок? Просто мы их очень сильно недопоняли.
+
+В: Звучит круто. Итак, что думаете, ребята? Будете из ФБР?
+
+И1: М-м-м-м, как насчёт более мелких сошек? Чтобы глобальный конфликт потом показался масштабнее. Может, местные копы?
+
+И2: Да, мне нравится. Может, существа из сказок пытаются вернуть себе былое величие.
+
+И3: О, звучит круто. Только если мы возьмём идею с искажёнными сказками, то я — злой и страшный серый волк.
+
+В: Миленько.
+
+И3: Нет, серьёзно! Просто, знаешь, исправившийся и ставший вегетерианцем.
+
+И1: Звучит здорово.
+
+В: Мне бы хотелось, чтобы история была об обычных людях, не супергероях.
+
+И3: Всё в порядке. Может, я просто немного сильнее обычных людей, но в остальном ничего такого. Думаю, эти сверхъестественные ребята просто живут обычными жизнями, так что мне не очень нужно что-то сверх-крутое.
+
+В: Да, думаю, это годится.
+
+И1: Значит, сказки, да? Может, сказки были написаны как своего рода притча, предупреждение об угрозе из-за той стороны? И тогда я — один из потомков тех, кто когда-то с этим боролся.
+
+В: Мне нравится. И2?
+
+И2: Итак, ты хочешь держаться планки обычных людей, при этом у нас уже есть серый волк и охотник на нечисть. Может, я буду просто обычным копом? Это хотя бы как-то привяжет нас к реальности. Плюс, я считаю, что столкнуться со всем этим потусторонним — отличный повод для развития персонажа.
+
+В: Супер. Тогда я всё спланирую и, ребята, увидимся на следующей неделе.
+
+В каждом из этих случаев игроки вносили свои правки в сеттинг, и  истории игр будут вращаться вокруг них — с другими персонажами эти игровые миры не сработают настолько же хорошо. Однако на плечах ведущего всё ещё лежит огромная ответственность за игру: игроки помогли создать общие зарисовки игрового мира. а также задали общие темы игры, но конкретные события и  сценарии всё ещё отданы на откуп ведущему, пусть они и часто будут вытекать из аспектов персонажей.
+
+## Внимание на стол
+
+Да, я знаю, что мои посты выходят не очень-то «ежедневно», но я успел выпустить сегодня, поэтому с натяжкой сойдёт, ладно?
+
+Один пост в Google+ заставил меня задуматься об одном моменте _Fate_ , ккоторому у меня особый подход. Немного обрисую ситуацию: большую часть своей жизни я так или иначе провёл за созданием видеоигр. Один из гуру этой кухни — Сид Мейер, пусть так и вышло, что он по какой-то причине прославился меньше, чем многие другие геймдизайнеры-визионеры. У Сида Мейера практически безупречный послужной список из гениальных игр, и очень немногие его проекты выходили ему боком.
+
+Есть цитата, которую приписывают Сиду Мейеру. Звучит она так: «Есть три вида игр. Есть игры, где веселится только дизайнер. Есть игры, где веселится только компьютер. И есть игры, где веселится только игрок». Неважно, Сид это сказал или нет, эта цитата мне кажется очень правдивой.
+
+К НРИ она тоже подходит. Некоторые ролевые игры известны своими глубокими, хитроумными, детально проработанными системами. Но кому весело в них играть? Рассмотрим простой пример. Допустим, есть простая игра, основанная на боёвке. Её даже НРИ-то с натяжкой можно назвать. В этой игре единственное доступное действие — атаковать. Допустим, есть две версии такой игры. В первой вы просто кидаете d6, чтобы определить урон. В других вы учитываете множество факторов и обстоятельств ситуации, уделяете внимание вовлечённым в действие персонажам, их оружию и броне, детально обрисовываете каждый аспект удара: угол, под которым его наносят, как именно атака пробила броню, и т.д. В итоге, вы приходите к урону от 1 до 6.
+
+Кому весело во втором случае? Если предположить, что игрок не может сильно повлиять на факторы в симуляции, чем, помимо процесса метания кубов, отличается вторая игра от первой с точки зрения игрока? (Я признаю, что, возможно, из такого бы получилась интересная игра-декбилдер, где манипуляции вероятностями составляют всю суть, но пост не об этом).
+
+Итак, что мы тут видим? Дизайнер игры постарался сделать достоверную симуляцию (и я не говорю, что симуляции это плохо, к слову, так что давайте не будем вдаваться в теорию GNS, м-кей?). Говоря языком Сида, он сделал игру, в которой веселится только компьютер.
+
+Какие решения нам нужно принимать, чтобы сделать игру, где веселится только игрок? Разумеется, ответ будет разным, смотря как именно «веселится» каждый конкретный человек (и это тоже тема для своей отдельной статьи), но в данном случае мне кажется, что иметь доступ к всего одному действию (атаке) каждый ход — не очень интересная игра.
+
+Лично я бы попробовал сделать «шахматную» игру-боёвку. Я бы дал игроку доступ к разным ходам и придумал бы, как эти ходы работают. Может, ввёл бы элемент «игры вслепую», чтобы добавить напряжения. Я бы применил немного теории игр, чтобы определить подходящую систему выигрыша, и далее задействовал бы как можно меньше математики, чтобы направить взаимоотношения между участниками в нужное мне русло.
+
+А причём тут Fate? Я уже немало слов написал, и ни одно из них не связано с кубиками, на гранях которых нарисованы плюсы и минусы.
+
+Одно из свойств, присущих Fate как бессеттинговой системе — в неё нередко нужно внести какие-то правки и надстройки, чтобы подогнать под определённый жанр или сеттинг. И тут мы приходим к главному вопросу — какие правки мы вносим и почему? С чего начать? Как понять, что нужно, а что нет?
+
+Обычно в этом случае многолетний опыт гейминга подкидывает нам идею: игру можно воспринимать как некий симулятор реальности, а затем придумать модель, которая свяжет необходимые нам части воедино и позволит им работать. И это порой весьма полезная идея.
+
+Однако главное — что происходит за столом. Как игроки взаимодействуют с системой, фантазией и друг с другом. И вот в чём реально кроется суть.
+
+Например, вы можете задаться вопросом: «Как мне реализовать кибернетические имплантаты в Fate ?» Это хороший вопрос. А ещё это пример, к которому я возвращаюсь снова и снова, поэтому поехали.
+
+Итак, с чего начать? Мы можем предположить, что есть какой-то счётчик стресса, отражающий человечность. Исходя из этого, можно попробовать привязать к нему последствия. Начать с этого звучит логично, но все эти вопросы касаются системы. Иначе говоря, всё это — построение модели, и эти идеи не рассматривают эти вещи со стороны игроков. Допустим, в них заложены косвенные мысли о том, как игроки будут с ними взаимодействовать, но, быть может, стоило сделать это нашей отправной точкой?
+
+Подумаем, что же делают кибернетические имплантаты? Ну, для начала они делают вас «лучше», но физические тренировки тоже это делают, значит для реализации эффектов имплантов вряд ли стоит просто поднимать навыки. Да и не слишком-то интересно сводить всё к плоскому увеличению цифр.
+
+Мы можем часто заметить, что кибернетика сопряжена с потерей эмпатии, особенно когда люди пересаживают себе всё больше и больше имплантатов.
+
+А ещё эти запчасти могут сбоить. Однако есть и плюсы: иногда эти машины могут позволить людям превзойти некоторые ограничения человеческого тела.
+
+Пока что все эти элементы кажутся очень сильно ориентированными на сюжетную роль. Отрицательные стороны можно реализовать через навязывание, а положительные — через призывы. Если мы предполагаем, что на них придётся часто полагаться, то можно ввести для этого особый трюк.
+Однако главное здесь — не «облегчить нагрузку на систему», хотя в случае с _Fate_ это без проблем удаётся. Сделайте систему настолько тяжёлой, насколько потребуется. Вопрос в том, как определить, насколько тяжёлой ей нужно быть.
+
+Будучи разработчиком приложений, я верю в понятие «разработки через тестирование», или TDD (test-driven development). Хотя название этому принципу ужасно не подходит. Но суть TDD в простом цикле:
+
+- Определить, что подразумевается под «выполнять свою работу»
+
+- Сделать так, чтобы этот элемент её выполнял
+
+- Всё подчистить и прибрать для красоты и изящества
+
+Главное здесь — первый шаг. Он кажется самоочевидным, но ему часто не следуют. Если вы не можете с уверенностью сказать, что подразумевается под «успехом», то как тогда понять, что ваша работа закончена?
+
+При внесении изменений в системы мы обычно имеем какое-то представление о том, что такое «успех», пусть и размытое. А для меня размытое представление об «успехе» обычно равнялось чему-то в духе «предоставляет реалистичные результаты».
+
+Вместо этого я научился смотреть на успехи с точки зрения: «что игроки делают за столом?» Математика почти не имеет значения, пока есть взаимодействия. И, сменив таким образом ракурс, я сосредоточился на создании игр, в которых веселится игрок, а не система.
+
+Самое забавное — если вы начнёте думать с позиции игроков, то начнёте замечать, что вам нужно меньше системы, чем казалось. Правила одной из самых глубоких и сложных игр в мире (го) можно уместить на тетрадном листе.
+
+Обычно мне удаётся научить кого-то играть менее чем за пять минут.
+
+Большую часть этого поста я уделил внесению изменений в игры — это потому, что там с описанными выше моментами приходится сталкиваться чаще всего. Однако эти принципы могут пригодиться при любых размышлениях над НРИ в целом, особенно — если вы ведущий. Спросите себя: кому весело?
+
+Вам весело, потому что вы можете продемонстрировать свою исключительную креативность? Как следует подумайте ещё раз о том, каково сейчас игрокам — им не пристало быть зрительным залом (особенно в _Fate_ ).
+
+Вам весело, потому что перед вам — продуманная хитроумная математическая симуляция? Ещё раз, а игрокам-то каково?
+
+Ведь в конечном итоге игра — про игроков (включая, разумеется, ведущего). Если им не весело, то и игры по сути нет. Неважно, если веселится при этом система. И ведущему/геймдизайнеру тоже, разумеется, нужно веселиться, но не за счёт игроков.
+
+## Показатели темпа в Fate
+
+Я нередко замечаю, что у игроков в Fate вызывают недопонимание представленные в системе показатели темпа: конфликты, состязания и вызовы.
+
+Я называю их показателями темпа. Что я под этим подразумеваю? Наверное, что они между собой связаны, но ведь это не очевидно, так?
+
+Пора Робу удариться в педантизм (никогда такого не было, и вот опять).
+
+В Fate мы кидаем кубики, чтобы ответить на вопрос. Технически, если б на то была наша воля, мы могли бы ответить на любой вопрос, сколь угодно большой или маленький, одним броском костей — вероятнее всего, через преодоление.
+
+Чёрт, если бы мы играли в Звёздные войны по Fate , мы бы могли разрешить всю игру одним броском преодоления против Империи! Но кому это надо?
+
+Собственно, в этом и состоит суть показателей темпа. Они ни много ни мало — инструмент, чтобы превратить разрешение одного вопроса в более длительный процесс, нежели один бросок кубов/действие.
+
+(А ещё я называю показателем темпа стресс — это потому, что стресс во многом определяет, насколько долгим окажется конфликт.)
+
+Но зачем называть их показателями темпа? Например, разве состязания по сути своей — не погони? Ведь именно это они и моделируют.
+
+Не-а. Состязания ничего не «моделируют». Они просто растягивают события и ставят условия завершения. Конечно, их механики вполне вписываются в модель погони, но это не значит, что они именно погони и моделируют. В целом, лучше всего использовать показатели темпа именно как таковые, а моделирование оставить для повествовательной части игры. Киньте кости, определите результаты и включите их в нарратив так, чтобы было ясно, какая из сторон приближается к цели. В Fate «фантазия», продукт общего воображения и совместный взгляд на происходящие события информирует игровые механики о сюжетной составляющей, а не наоборот.
+
+Какими показателями темпа тогда пользоваться? Это расспространённый вопрос, однако я, кажется, смог найти ему простой ответ — для этого, правда, нужно посмотреть на сам вопрос под немного другим углом.
+
+Подобно тому, как выбор между атакой и преодолением зависит не от вашего действия, а от того, хотите ли вы заставить противника выбыть из конфликта, нужный показатель темпа в первую очередь определяется не характером ваших действий, а природой сопротивления.
+
+### Вызовы
+
+Я начну с вызовов — у них, пожалуй, самый простой критерий. Обыграйте ситуацию как вызов, если на протяжении всех её событий в ней не будет активного сопротивления. Например, сопротивление может быть оказано местностью (не считая, впрочем, сеттингов типа Fight Fire и т.д.) Или, например, сторона, которая должна сопротивляться, бездействует или не знает об угрозе (подробнее об этом я написал в пункте Состязания ).
+
+Или активное сопротивление всё же представлено, но только в течение какой-то части вызова (которую в этом случае можно смоделировать как преодоление или короткое замкнутое в себе состязание/вызов).
+
+Пример из книги правил _Fate_ , где Зирд пытается отогнать зомби от таверны, подходит под эти критерии. Толпа зомби является (в основном) пассивной угрозой, «окружающей» героев. Более того — сейчас они вне сцены, а Зирд пытается перекрыть им проход. Попытки воодушевить постояльцев можно считать активным сопротивлением, однако они не вмешиваются в события вызова, поэтому этот элемент сцены можно реализовать через отдельный бросок преодоления. Сам же процесс проведения ритуала является разовым препятствием и вообще не включает сопротивления, так что это бросок преодоления.
+
+Заметьте, часть вызова может включать активное сопротивление — воодушевление горожан из примера с Зирдом. В этом случае можете либо разрешить этот элемент через простое преодоление (помните, все показатели темпа по сути — расширенные версии одиночных бросков на разрешение), либо, если будет уместно, развить эту ситуацию во внутренний конфликт/состязание.
+
+Однако что делать, если в ситуации есть активное сопротивление — некто, настроенный напрямую помешать достижению поставленной вами цели или ответу на поставленный вопрос? Тогда перед нами выбор из конфликта или состязания, и тут уже возникают вопросы.
+
+### Конфликты
+
+Если сопротивление активное и прямое, вам нужно использовать правила конфликтов. Под «прямым» я подразумеваю, что цель обеих сторон — победить соперников через убийство, выведение из строя, принуждение к капитуляции, бегству и т. д. Конфликт должен удовлетворять двум условиям:
+
+- Обе стороны настроены оттеснить другую.
+
+- «Цель» конфликта — это:
+
+◆ заставить другую сторону оставить часть своих позиций;
+
+◆ что-то, чего победитель может достичь, только устранив сопротивление.
+
+Поэтому если вы пытаетесь взять в плен злодеев (или наоборот), это может быть конфликт — при условии, что обе стороны обмениваются ударами (добровольно или потому что им не оставили выбора). Если вы пытаетесь пробиться через оцепление охранников, чтобы обезвредить бомбу, это тоже конфликт до тех пор, пока караульные (или вы) не ударятся в бегство.
+
+### Состязания
+
+Если сопротивление является активным и непрямым, прибегните к правилам состязаний. Под «непрямым» я имею в виду, что обе стороны не объединены желанием уничтожить друг друга. Лучшими примерами являются гонки или погони. Например, кто-то может пытаться взять кого-то в плен, а этот кто-то избежать плена, не давая отпор.
+
+Таким образом можно смоделировать даже побег от стрелка (в этом случае вопрос стоит так: «Смогу ли я добраться до укрытия до того, как меня подстрелят?»). Но здесь очень важно активное участие двух и более сторон: вы вряд ли прибегнете к состязаниям, если одна из сторон не знает о происходящем.
+
+Заметка: Можно устроить состязание с участием не подозревающей о событиях стороны, если эта сторона активно участвует в чём-то, что завершит состязание: например, маг, открывающий врата во Тьму, может быть вовлечён в состязание с героями, пытающимся вломиться в его ритуальную залу с целью прервать заклинание, даже если не знает о них. Главное — активное участие.
+
+Можно обобщить, что ситуация является состязанием до тех пор, пока вы можете поставить вопрос как: «смогу ли я ... до того, как они ...?», если только цели обеих сторон — это не «начистить другому морду».
+
+### Выбор исходя из контекста
+
+Выше я привёл базовый метод, по которому я распределяю показатели темпа.
+
+Это вызывает новые вопросы, ведь некоторые сложные действия могут подпадать под любой из трёх показателей, в зависимости от контекста.
+
+Например, допустим, ваш персонаж — снайпер, и вы хотите прострелить кому-нибудь лицо. Это будет вызовом? Состязанием? Или же конфликтом?
+
+Если цель не знает о ваших действиях, и враги не ожидают вашего появления, то это вызов — никто не оказывает активного сопротивления, нет «противоборствующей стороны». Разумеется, вам предстоит преодолеть какое-то пассивное сопротивление, но против вас не выступает активных оппонентов.
+
+Если цель не знает о вас, но вас активно разыскивает патруль, то это состязание: вопрос здесь «Смогу ли я подстрелить свою цель до того, как враги меня найдут?», и он очень чётко вписывается в критерии состязания.
+
+Если же вы, находясь в гуще схватки, пытаетесь выцелить и подстрелить кого-то из своих врагов, то тут и думать не нужно — это очевидный конфликт.
+
+### Последние мысли
+
+Эти три показателя темпа хорошо справляются со своей задачей — охватить реализацию примерно любой из потенциальных ситуаций. Над некоторыми, случаями, возможно, придётся немного поколдовать, но все они могут работать в нужных условиях. Не думаю, что мне когда-нибудь придётся смешивать черты разных показателей: например, стрельба по движущейся цели кажется мне состязанием, поэтому вряд ли мне придётся добавлять туда механики стресса/последствий. И, опять же, помните, что показатели темпа по своей сути ничего не «моделируют». Они про темп, а не про моделирование.
+
+Ну и, конечно, темп игры можно отслеживать и другими способами. Если вам что-то совсем не нравится, придумайте собственный механизм! Но я бы в этом случае всё ещё придерживался общих идей этих трёх механизмов, а моделирование перекладывал на нарратив.
+
+## Калибровка: настройка без настройки
+
+Ох, звучит в духе дзена. Я видел обсуждения, как в рамках _Fate_ моделировать сверхсилу и подобные штуки. Вопрос хороший. Если навык атлетики 4 это спортивный человек, а 5 или 6 — олимпийский гимнаст, как смоделировать кого-то ещё атлетичнее? Может, порог навыков должен быть настройкой?
+
+(И стоило мне написать «настройка», вы, возможно, глянули на заголовок и подумали: «Ой, Роб, думаешь, ты такой умный». Ну, подловили.) Мне нравится, что в _Fate Core_ механики системы целостно и удачно вписываются в большинство сценариев как есть. К тому же, навыки там отражают не  объективную степень тренировки, а способность повлиять на сцену конкретным образом. Поначалу это может показаться противоречивым заявлением, но оно имеет смысл в рамках идеи «калибровки».
+
+В контексте _Fate Core_ я не думаю, что атлетика 4 это «очень атлетичный человек». Или же что 5-6 это «олимпийский гимнаст». Я думаю, что 4 — «максимум атлетики для персонажа на старте». Ни больше, ни меньше.
+
+Конкретика этой планки, разумеется, будет отличаться от сеттинга к сеттингу. В игре в стиле фильма _Цель номер один_ 4 будет означать высококвалифицированного, очень сильного профессионального солдата, достигшего пределов человеческих возможностей или близкого к ним. 0 будет означать минимальный порог физподготовки, требуемый от профессионального солдата, и если кто-то не будет ему соответствовать, то его попросту спишут со службы.
+
+А если, например, вы проводите игру об обычных людях, попавших в незаурядные ситуации, то калибровка будет отличаться: 0, вероятно, равен возможностям обычного человека, в то время как 4 можно откалибровать под значение чуть ниже уровня 4 из предыдущего примера (а значение 4 из того сеттинга, вероятно, в свою очередь будет уже ближе к 5 в игре про обычных людей). А если игра про супергероев? Тогда Супермен это, наверное, 5, а любой человек без особых способностей будет счастливчиком, если дотянет до 1.
+
+Красота этого подхода в том, что все отличия можно списать на повествование, а с математикой не придётся делать ничего. Это здорово! Ведь математика системы как она есть работает слаженно, а потому вмешиваться в неё куда рискованнее, чем просто подстраивать свой нарратив под условия игры!
+
+Не отрицаю, есть обстоятельства, где такой подход не сработает. Например, если вы хотите, чтобы один навык имел больший вес в сцене, чем другой, или если нужно сделать куда больший разрыв между пиковым и базовым уровнями. На практике такие обстоятельства встречаются редко и обычно выявляются методом плейтестинга. В конце концов, вы вряд ли преднамеренно столкнёте кого-то с навыком 0 против навыка 5 и понадеетесь на удачный исход.
+
+Также калибровкой можно удачно повлиять на урон. В этом контексте часто всплывает вопрос, как сделать игру более «жестокой», и я видел несколько идей, через которые «жестокость» пытались смоделировать с точки зрения цифр. И они вполне могут сработать, но есть способы обойтись и без них.
+
+Я трактую стресс и последствия как показатели темпа и «развязки событий». Эти понятия — не про урон, реализм или жестокость. Они отражают, насколько долго длятся схватки и что после этой схватки с вами случится.
+
+Допустим, что, играя по базовым правилам Fate , ваш герой получает удар мечом на три сдвига стресса. Вы зачёркиваете третий маркер стресса в своём листе (что значит, что вы стали ближе к выбыванию из конфликта) и описываете, как вашего персонажа наискось полоснули по груди.
+
+А теперь предположим, что мы хотим более жестокую игру. Такую, где такой удар в грудь может быть смертельным, и даже если вам повезло его пережить, то вашему персонажу, вероятно, всё равно крышка. В этом случае, например, можно оставить в счётчике стресса всего один маркер, а ячейки последствий приравнять к -1/-2/-3. Выходит, что подобный удар заставил бы вас принять среднее последствие и зачеркнуть ваш единственный маркер! Жестоко!
+
+При этом схватки становятся более скоротечными. И, быть может, этого вы и добивались, но этот фактор не должен быть неразрывно связан с жестокостью боёв. Жестокой схваткой может быть поединок между двумя врагами, которые минутами стачивают выносливость друг друга и в отчаянной схватке оставляют множество синяков и порезов. Жестоко, но не скоротечно.
+
+Итак, как нам смоделировать жестокую схватку в Fate без подкрутки настроек? (Я не против настроек, просто интересно обойтись без них.) Допустим, нашему персонажу прилетел удар на три сдвига. Что это значит?
+
+Ну, механически, это значит две вещи: он приблизился к выбыванию — раз, и два — от удара не будет долгосрочных последствий.
+
+Если мы стремимся к «жестокости», очевидно, что это не будет глубоким ударом в грудь. Это, однако, может значить много других вещёй. Например: - Герой потерял равновесие, и его «выбили из колеи».
+
+- Герой неудачно парировал удар, из-за чего его рука зашлась ноющей болью, но никакого долгосрочного урона нанесено не было.
+
+- Герою пришлось отпрыгнуть, чтобы уклониться от удара, и он не получил урона, но был этим измотан и немного запыхался.
+
+А чем тогда будет глубокий удар в грудь? Вероятно, выбыванием. Боль, порванные мышцы, кровопотеря, шок — если всем этим не пренебрегать, то пропуск единственного серьёзного удара может означать Game Over.
+
+Так же можно обойтись и с последствиями. Что означает последствие за -2?
+
+Ну, механически это значит, что виновник этого последствия может совершить бесплатный призыв, от этого последствия будет несложно избавиться после битвы, а также — что вы значительно ближе к выбыванию.
+
+Повествовательное же значение должно соответствовать духу игры. В «кинематографической» игре герой мог поранить руку или вроде того. В «жестокой» же это может означать, что герой немного подвернул лодыжку, у него онемела рука после того, как на его броню пришёлся тяжёлый удар и так далее.
+
+«Стой,» — скажете вы. «Эти описания не похожи на попавшие удары!» И что? Кубики диктуют итог действия с точки зрения механики. «Попадание» или «промах» это повествовательные объяснения этих механических эффектов. Кубики не излагают нам нарратив, они лишь предоставляют информацию, согласно которой мы формируем повествовательную часть. «Три сдвига стресса» — заявление на уровне системы. Как это перевести в нарратив — уже в ваших руках, и ваше решение должно отличаться в зависимости от стилистики игры, которой вы придерживаетесь.
+
+В итоге это значит, что для более жестокой игры вы, как ни парадоксально, будете описывать эффекты ударов менее заметными. Трёх-сдвиговый удар становится потерей равновесия. Лёгкое последствие — одышка или царапина от осколка. Тяжёлое — неглубокий порез, а не рваная рана. А выбывание означает, что по персонажу пришёлся один сильный удар, а не целая дюжина!
+
+Вот примеры, как одну схватку можно описать в «кинематографическом» и «жестоком» стилях. В обеих ситуациях одни механические эффекты!
+
+Альфред бьёт Боба на три сдвига стресса: «Альфред наносит Бобу
+
+удар, рассекая грудь. Залив всё кровью, Боб идёт в контратаку».
+
+Боб поражает Альфреда на четыре сдвига, Альфред зачёркивает
+
+маркер на 2 и принимает лёгкое последствие: «Коварный контрудар Боба застаёт Альфреда врасплох и приходится тому на предплечье.
+
+Ранение выглядит глубоким, но Альфред не спешит сдаваться».
+
+Альфред бьёт Боба на пять сдвигов, Боб берёи тяжёлое послед-
+
+ствие и зачёркивает маркер на 1: «Альфред продолжает наступле-
+
+ние, нанося Бобу тяжёлое ранение в ногу. Непохоже, что ему удалось прорубить плоть до кости, однако увечье выглядит серьёзным.» И так далее. Для сравнения:
+
+Альфред бьёт Боба на три сдвига стресса: «Альфред наносит Бобу
+
+удар. Боб не был готов к внезапному нападению, поэтому он оступается и падает, едва успев вовремя отразить атаку.»
+
+Боб поражает Альфреда на четыре сдвига стресса, Альфред
+
+зачёркивает маркер на 2 и принимает лёгкое последствие: «Альфред опрометчиво подаётся вперёд, и Боб атакует, замахиваясь с земли.
+
+Альфред успевает подставить свой клинок, однако похоже, что ему не удалось как следует погасить силу удара, и у него свело руку.» Альфред бьёт Боба на пять сдвигов, Боб принимает тяжёлое по-
+
+следствие и зачёркивает маркер на 1: «Баюкая онемевшую руку, Альфред бьёт Боба ногой, заставляя того растянуться на земле. У Боба перехватывает дыхание, и похоже, что у него сломано ребро».
+
+Одни механики, разная атмосфера. Спасибо нарративу и калибровке.
+
+## Конфликты как структуры темпа в кампаниях
+
+Я довольно давно размышлял над каким-нибудь способом внести в кампанию по Fate форму глобальной структуры — эту идею я украл из Burning Empires (и в меньшей степени — из Мышиной стражи ). Есть в этой задумке для меня что-то манящее. Кроме того, она хорошо сочетается с моей идеей дробления вызовов на составляющие (см. мои предыдущие посты). И вот сейчас я достаточно пораскинул над ней мозгами, чтобы чем-то с вами поделиться.
+
+Важное замечание: Я не уверен, что это хорошая идея. Возможно, она ужасная. Это просто мои первые наброски того, как её можно реализовать.
+
+Всё это строится вокруг идеи, что весь сюжет игры (в какой-то мере) можно свести к одному броску на преодоление. Однако это не очень интересно с повествовательной точки зрения, поэтому для того, чтобы добавить в игру деталей и увеличить её длительность, мы используем показатель темпа. Каждый «ход» в задействованном показателе темпа (будь то вызов, конфликт или состязание) может быть превращён в другой вызов/конфликт/состязание, и т. д.
+
+Для начала я допущу (отчасти потому, люблю симметрию), что все механизмы темпа работают одинаково на всех уровнях. Я не уверен, что это так, но от этого можно начать развивать идею, и, опять же, симметрия.
+
+Чтобы создать один из таких показателей темпа, мы создаём персонажей-сторон, представляющих задействованные в сюжете фракции. Мы приписываем им навыки, подходящие их стороне и отражающие их способность влиять на мир. Мы также задаём всей ситуации соответствующие аспекты.
+
+Обратите внимание, что эти навыки, вероятно, никак не будут совпадать со списком навыков обычных персонажей!
+
+Допустим, согласно этой идее у нас начинается конфликт. Теперь в  каждом «ходу» каждая сторона может совершить действие, как и в обычном конфликте. Если это действие совершается без возможности обыграть его в виде сцены с участием персонажей игроков, то для него просто кидаются кости.
+
+Однако если действие может быть развито в сцену с участием персонажей игроков (и желательно стараться делать побольше таких сцен!), мы углубляемся в этот эпизод и выстраиваем вокруг него сцену.
+
+Мы определяем цели для каждой участвующей в сцене стороны, а также какой показатель темпа будет использован в её реализации. Если эта сцена — преодоление или создание преимущества, мы определяем, что будет значить «стильный успех». Если это атака, то мы определяем, что можно сделать в сцене и во сколько сдвигов стресса это оценить.
+
+Далее мы разыгрываем сцену. Её итоги переносятся в «вышестоящий» конфликт, будто это был одиночный бросок: при успешно совершённом преодолении убирается один аспект. Если успешно прошло создание преимущества, то создаётся новый аспект. Атака причиняет пострадавшему стресс и (возможно) вызывает последствия.
+
+Затем мы переходим к ходу следующей стороны, пока не удастся прийти к исходу вышестоящего конфликта. В общих чертах алгоритм выглядить так: 1. Задайте конфликт.
+
+◆ Создайте стороны с подходящими навыками, аспектами, счётчиками.
+
+◆ Создайте ситуационные аспекты, описывающие сцену.
+
+◆ Создайте зоны, если необходимо.
+
+2. Каким-то образом определите, кто ходит первым.
+
+3. Совершающая ход сторона может заявить обычное действие конфликта.
+
+Действие всё ещё надо вплести в повествование, а не просто «я атакую».
+
+4. Если это нельзя развить в сцену с участием персонажей игроков, разрешите действие обычным броском.
+
+5. Если же можно задать сцену, создайте её:
+
+◆ В зависимости от навыков сторон поместите в сцену соответствующих персонажей ведущего и противников.
+
+◆ Если кто-то призывает аспекты, учтите это в картине вещёй.
+
+◆ Определите критерии успеха и количество сдвигов стресса, если это атака.
+
+6. Сыграйте эту сцену.
+
+7. Согласно критериям из пункта 5, перенесите стресс/создание аспектов/уничтожение аспектов/последствия в «вышестоящий» конфликт.
+
+8. Передайте ход следующей стороне и вернитесь к шагу 4.
+
+Поскольку я ненавижу механики без примеров, вот пример.
+
+Коалиция Повстанцев ведёт непримиримую борьбу с Империонами! Чтобы уничтожить Базу Погибели, для начала им нужно деактивировать генераторы защитных барьеров на покрытой лесом луне Родна.
+
+В сравнении с силами Империонов у повстанцев не так много бойцов. Несмотря на то, что база Империонов относительно небольшая, там значительно больше военной техники и боеспособного персонала, но при этом у повстанцев преимущество: им хорошо известно местоположение их врагов, и эти враги не имеют ни малейшего понятия о грядущем налёте. Смоделируем это: **Повстанцы:** Налёт 2 Разведка 3, Незаметность 4
+
+**Империоны:** Обнаружение 1, Огневая мощь 4, Поиск 2
+
+Допустим, что Империоны не ожидают нападения и их местополо-
+
+жение известно, однако у них есть мощный арсенал и надёжно укреплённый бункер.
+
+Повстанцы же малочисленные, мобильные и имеют преимущество
+
+неопределённого местоположения.
+
+Также в этой местности есть враждебные аборигены, потому что почему бы и нет? И вся эта заварушка происходит в непролазном лесу.
+
+Допустим, первыми ходят Империоны. Не по какой-то обоснованной
+
+с  игровой точки зрения причине, а потому что я хочу, чтобы пример больше походил на фильм. Живите с этим.
+
+Империоны стеснены введёнными в игру аспектами — они не могут атаковать повстанцев, пока они не ожидают нападения. Поэтому ведущий решает, что хочет раскрыть присутствие повстанцев. Это звучит как Обнаружение против Незаметности.
+
+Мы, конечно, могли бы просто кинуть кости, но можно ли превратить этот бросок в сцену? Разумеется, можно! Мы решаем, что было бы круто небольшому империонскому патрулю наткнуться на повстанцев, после чего идёт погоня, где повстанцам нужно поймать Империонов и не дать тем донести на базу! Звучит как состязание, поэтому обыграем всё именно так. Обнаружение империонов — 1, что не предвещает им ничего хорошего, поэтому у них задействованы всего несколько рядовых, и персонажи игроков быстро их догоняют (оставим открытым вопрос, призывали ли Империоны свой аспект мощный арсенал, чтобы ввести в дело скоростные космобайки!).
+
+Игроки выиграли в этом раунде, поэтому аспект не ожидают нападения остаётся в игре. Они понимают, что лобовая атака будет бессмысленной, и решают заручиться поддержкой враждебных аборигенов. Сойдёмся на том, что это можно реализовать как вызов, и цель повстанцев, раз уж мы идём по канве известной франшизы — заставить туземцев почитать их как богов.
+
+К счастью, игроку за робота-переводчика удаётся это провернуть, благодаря чему повстанцы получают два бесплатных призыва аспекта враждебные аборигены! Команда, вперёд! (Я уже смутно помню, как было в первоисточнике, поэтому извините, если немного напутаю с порядком событий.) Итак, повстанцы решают, что вместе с новообретёнными друзьями у  них появился шанс победить Империонов и вывести из строя защитные барьеры. Однако Империоны призвали свой мощный арсенал, и штурмующих встретят с огоньком. Повстанцы решают, что бок о бок с ними в бой врываются враждебные аборигены, и тем самым немного уравнивают шансы. Потери с каждой стороны будут расцениваться как соответственные сдвиги стресса, и мы начинаем конфликт! До стресса дело дошло, но вот заставить Империонов принять последствия не удалось: повстанцам удалось захватить некоторые вражеские позиции, но не переломить ход битвы — пока что.
+
+Империоны организуют контратаку, но повстанцы её успешно отражают.
+
+Бункер действует повстанцам на нервы! Они решают, что время решить эту проблему, и тратят свой ход на преодоление этого препятствия. Это реализовывается как вызов: так мы отражаем сложность доступа к бункеру и угрозу беспрестанно напирающих ударных сил. Персонажам игроков вновь удаётся победить и вломиться в бункер. Внутри укреплений разгорается битва!
+
+И так далее: до тех пор, пока Империоны не сдадутся, либо им придётся выбыть из конфликта.
+
+Во всей этой идеей осталось ещё несколько открытых вопросов: например, расходы жетонов судьбы в «вышестоящем» конфликте могут значительно повлиять на общую картину, а потому — как регулировать их трату?
+
+Может, сказать, что «вышестоящие» траты требуют расхода одного жетона от каждого игрока? Или создать отдельный банк жетонов именно для трат подобного масштаба? Хорошие вопросы.
+
+Кроме того, меня смущает односторонняя работа действия атаки. Согласно правилам обычных атак, причинить стресс может только нападающий. Не знаю, как увязать это с нашим случаем, но, быть может, сработает условие, что полученное при «стильном успехе» усиление может смоделировать разгром и отступление наступающих, а также допущение, что в большей части случаев атакующие будут просто отступать без значимых жертв или потери позиций.
+
+Итак, ваши мысли? Комментарии? Предложения? Или, может, это в общем и целом ужасная идея в рамках _Fate_?
+
+## Фантазия, не физика
+
+«Фантазия, не физика». Я часто цитирую эту фразу, и она стала показателем того, как я понимаю _Fate_. Когда я впервые её услышал, подумал, что она значит: «Эй, мы тут не загоняемся по поводу реализма!» Это тоже сюда входит, но  в  полной мере сути не передаёт, более того — не отражает даже самого главного смысла фразы (ведь, как-никак, бывает реалистичная фантастика).
+
+Я понял эту фразу так: _Fate_ стремится моделировать ход истории сродни классическим повествовательным форматам: фильмам, романам и т.д.
+
+Приведём пример. Допустим, в шпионском фильме герою нужно попасть за дверь, которую охраняют несколько караульных. Мы видим, как он растворяется в тенях вдали от взора часовых. Затем он карабкается на трубы над охранниками и, оказавшись над ними, спрыгивает, вырубая обоих с помощью своего веса. Затем он оттаскивает тела за какие-нибудь ящики и идёт дальше.
+
+В традиционной НРИ это был бы бросок на Скрытность, пара проверок Внимательности, затем, вероятно, бросок на лазанье по трубам, а потом — бросок на атаку с ситуативными бонусами.
+
+Разумеется, в _Fate_ можно было бы провернуть что-то подобное, ведь в этой системе есть такие элементы, как проверки навыков и т.д. Однако на деле лучше распределять действия согласно «экранному времени», прямо как в фильмах.
+
+Поэтому в первом кадре сцены мы видим, как наш шпион затаивается в тенях: это бросок на создание преимущества против внимательности часовых.
+
+После этого наш герой забирается на трубы. Это, опять же, создание преимущества, но против статичной сложности (риск падения несёт угрозу травмы больше, чем угрозу быть замеченным — мы уже условились, что наш герой оказался вне поля зрения охранников).
+
+Теперь, когда у нас есть эти аспекты (сцена теперь ПОСВЯЩЕНА нашему герою в тенях и на трубах над дверью) и мы можем их бесплатно призвать, потребуется лишь несложная проверка Драки, чтобы сдвигов стресса хватило на оглушение часовых.
+
+Одним из моих любимых примеров в пользу этого подхода являются правила по принятию поражения, ведь они как ничто иное моделируют повествование в рамках «фантазии». Иначе почему, спрашивается, поражение может сделать вас (в какой-то мере) сильнее? Подумайте сами. Второй акт многих фильмов предполагает, что нашему герою как следует надерут зад, после чего он, окрепший, вернётся в третьем акте, чтобы размазать злодеев по стенам.
+
+И этого можно добиться через правила принятия поражения.
+
+Чёрт, если обрисовать это в рамках правил, то весь сюжет фильма «Империя наносит ответный удар» — игроки, принимающие все мыслимые и немыслимые поражения в течение нескольких сессий, чтобы получить прорву жетонов судьбы и с их помощью разгромить Империю! Уверен, что эвоки настолько эффективно себя показали только благодаря тому, что игроки за Хана и Лею потратили целую горсть жетонов на аспект сцены бесполезные (?) эвоки.
+
+В «Звёздных войнах» куча примеров того, как правила Fate переносятся в  рамки фантастического повествования, и я черпаю оттуда много идей для игр. Хан даёт дёру от имперцев и угодил в пояс астероидов. Сопротивление крайне сильно, и он знает, что ему не совладать с противниками в прямой схватке, а истощение его ресурсов — лишь вопрос времени.
+
+Хан: «Эй, я контрабандист. Я хочу найти астероид с большой пещёрой или чем-то вроде, чтобы в нём спрятаться».
+
+Джордж: «Конечно, давай бросок пилотирования».
+
+Хан: «Супер, стильный успех! Допустим, там астероид, в котором большая, глубокая пещёра».
+
+Джордж: «Хорошо, но тебе придётся совершить ещё один бросок пилотирования, чтобы вырулить внутрь и не повредить корабль — разумеется, это же будут делать и плохие парни».
+
+Хан: «Нет проблем! Мне удаётся залететь внутрь».
+
+Джордж: «Как и двум TIE-истребителям, следующим за тобой».
+
+Хан: «Не так быстро! Я бесплатно призываю глубокую пещёру, чтобы завалить им бросок. Они же мелкие сошки c нулём пунктов, да?»
+
+Джордж: Да, истребители разбиваются о стену пещёры. Ты в безопасности — пока что. Ты слышишь, как над тобой разрываются бомбы, и имперцы пытаются выследить, куда ты делся,» — тут у него загораются глаза, и он берёт жетон судьбы, — «Эй, Хан, у тебя, случаем, нет по этому поводу никакого дурного предчувствия?»
+
+Хан: «Раз уж ты сказал, есть, да ещё какое!» — он берёт жетон судьбы.
+
+Джордж: «Ты приземлился в пещёре и переводишь дыхание, как вдруг что-то врезается в твоё лобовое стекло. Это какое-то существо...»
+
+## Конфликты с именными персонажами ведущего
+
+Конфликт с именным персонажем ведущего — не про то, кто победит и даже не про тактику. Это тест на целеустремлённость. Война ставок, игра в «слабо».
+
+В приблизительно равном конфликте возрастает расход ресурсов с обеих сторон постепенно. Разумеется, вы выиграете, если для этого потребуются только броски навыков, ведь это ничего не стоит. Однако готовы ли вы потратить ради победы жетоны судьбы?
+
+Далее риски возрастают, следующая остановка — последствия: готовы ли вы их принять? Готовы ли вы рискнуть выбыть из конфликта?
+
+Здесь в игру вступают правила принятия поражения: вы в любой момент можете сдаться и получить жетон судьбы. Благодаря этим правилам ставки возрастают на протяжении всего конфликта.
+
+Поначалу на чашах весов — лишь «то, чего я добиваюсь» против «получить жетон судьбы». Далее это уже «то, чего я добиваюсь и ради чего готов потратить жетоны судьбы» против «получить жетон судьбы».
+
+А потом это «то, чего я добиваюсь и ради чего уже потратил жетоны судьбы» против «получить жетон судьбы и не принимать при этом последствия».
+
+И вот мы приближаемся к точке «то, чего я добиваюсь, ради чего потратил жетоны судьбы и принял последствия» против «получить несколько жетонов судьбы», и только потом начинаем рассматривать вариант выбывания.
+
+Разумеется, этот рост ставок влияет на решения обеих сторон конфликта.
+
+Тактики и способности могут изменить темп возрастания относительно каждой конкретной стороны, однако в конечном итоге всё сводится к тому, насколько сильно вы хотите то, ради чего ввязались в передрягу.
+
+## Устраивайте сцены
+
+Уверен, что я раньше уже об этом говорил, но эти посты по сути — мой дневник отвыкания от других систем, и я делюсь всем этим не для того, чтобы сойти за гуру НРИ, а как перечень моих ошибок. Чтобы те, кто проходит тот же путь, учились на них. Я более чем ожидаю от многих реакции в духе «Ну да, Америку открыл». Наверное, более всего это относится к сегодняшней статье.
+
+Итак, давайте поговорим о Главе 9. Ну, знаете, той самой главе базовой книги правил, которую я пропустил при первом прочтении, ведь сами понимаете, долгосрочное планирование игры, все эти штуки — я их наизусть знаю, читать про это для новичков. Вы мне, главное, правила объясните.
+
+Вы уже могли заметить, насколько часто я пишу о том, что _Fate_ во многом отличается от других систем. А потому всякий раз, когда я думаю «эй, это я уже знаю, это мы уже проходили», я, вероятно, готовлюсь наступить на грабли.
+
+Итак, я провожу свою игру по _Kriegszeppelin Valkyrie_ , и один из игроков заявляет, что его персонаж хочет поковыряться в деталях и подкрутить эффективность своего самолёта.
+
+Я, мысля в рамках GURPS / D&D , предлагаю ему кинуть кости. Он кидает успех, призывает аспект сцены и мы идём дальше. Я всё правильно сделал, да?
+
+Нет. Я бы вряд ли мог адресовать эту ситуацию ещё хуже. Где была драма? Где конфликт? Где повествование? А нигде. Как мне надо было поступить?
+
+Обыграть эту ситуацию как сцену. «Окей, Эдди, твой самолёт в ангаре среди других машин. Когда ты это делаешь? Ночью, когда никто не видит? Или ты не скрываешь своего намерения? Что подумают инженеры, если узнают, что ты мудришь с движком самолёта? А другие пилоты?»
+
+Далее я мог бы задать сцене рамки. Определившись с конкретным местом и временем, можно сделать всё куда интереснее — могут появиться другие пилоты. Или инженеры. На ум напрашиваются навязывания аспектов. Конфликты. Драма. История. Всё то, ради чего мы играем.
+
+Вот моё сегодняшнее великое осознание. Всякий раз, когда что-то происходит, раскройте это в виде сцены. Проверка Контактов? Окей, а куда вы пойдёте, чтобы найти нужных людей? Расследования? Хорошо, вы в библиотеке или шныряете по улицам. А учитывая, что это новая полноценная сцена, как можно добавить изюминки и усложнить игрокам жизнь? Кому могут мешать задумки игроков, какие сложности могут возникнуть по пути? Не существует механики игры, которую нельзя улучшить, развив её применение в сцену. Фантастика, не физика — если бы вы хотели добиться желаемого результата в рамках сюжета телесериала, как бы вы показали это на камеру?
+
+И это работает в обе стороны. Вы должны радоваться, если игроки сами просят о создании сцен, в которых они могут себя проявить. Допустим, они могут организовать совещание экипажа перед важным вылетом, чтобы воодушевить соратников броском Взаимопонимания и тем самым получить несколько бесплатных призывов свежесозданного аспекта сцены. Может быть, персонажи окажутся в одном ресторане с главным злодеем, чтобы перемолвиться с ним парой ласковых в духе мафиозных переговоров.
+
+В том, чтобы мыслить сценами, есть ещё одно преимущество. В сценах должны происходить значимые события. Если вы застряли в режиме «симуляции физики» и пытаетесь осмыслить и смоделировать всё, что детально происходит от мгновения к мгновению, то можно увязнуть в скучной конкретике и слишком долго отыгрывать малозначимые, скучные мелочи. Однако если вы раскрываете события в сцену, то для начала вам придётся задать несколько важнейших вопросов о сценах — «О чём эта сцена? Что на кону? Что может пойти не так? Что сейчас произойдёт интересного?» И если у вас нет интересных ответов на эти вопросы, то вряд ли сейчас происходит интересная сцена, а потому это можно просто пропустить. Если ваша игра — это телешоу или фильм, зачем бы режиссёру тратить на это экранное время?
+
+Накрутите событий. Устраивайте сцены.
+
+## Создание персонажей в Fate Core
+
+Я обожаю создание персонажей в _Fate Core_. Но чтобы объяснить, почему, мне придётся рассказать историю.
+
+Когда-то я пытался играть в _Burning Wheel_ , но не проникся. Затем у меня появилась возможность поиграть с кем-то, кто действительно понимал суть этой игры, и этот опыт изменил несколько углов моего восприятия. Помню, как я обсуждал с ним проведение «лоскутной» игры, но он сказал, что в Burning Wheel, как он считал, эта идея не сработает, и я абсолютно не понял, почему.
+
+Создание персонажей там показалось мне обычным, и я сделал много привычных вещёй: выбрал своему герою персонажа-врага, а также друга. Мы проработали предыстории наших персонажей и начали ждать первой сессии.
+
+А потом мы начали играть. Мне быстро стало ясно, что введённый мной в игру враг — очень значимая фигура в общей картине вещёй, и история была о наших персонажах (не как сюжеты обычно строит _D&D_ ). Это была _наша_ история, а не история, в которую можно добавить случайных героев.
+
+Для меня это было одним из первых моментов озарения в понимании нарративных игр. Предыстории — не «просто» предыстории.
+
+И поэтому мне нравится создание персонажей в _Fate_. Во-первых, это одна из первых систем создания персонажа, которая в первую очередь делает акцент на том, кто такой персонаж, а уже во вторую — что он может. Сейчас мне сложно создавать персонажей в других системах, поскольку обычно это сводится к оптимизации и пауэргеймингу. Мдэ.
+
+Общие между персонажами истории также дают группе причину быть знакомыми, вырубая всю эту рутину класса «вы встретились в трактире».
+
+Однако главная причина моей любви к созданию персонажей в _Fate_ это три фазы. Они позволяют обогатить истории персонажей. Кадый раз, когда мы проходим через этот процесс, мы наполняем мир множеством угроз и антагонистов. Создаём сюжетные зацепки и концы, которые нужно куда-то подвязать, и это разжигает мой интерес — что же из этого выйдет? Между персонажами выстраиваются сложные отношения, и мне узнать, как они раскроются.
+
+Не представляю, как играть в _Fate_ , чтобы создание персонажей _не  влияло_ на грядущие события. И доведись мне поучаствовать в игре, в построении которой прошлое наших героев оказалось не задействовано, мне бы казалось, что меня словно оставили не у дел.
+
+Поэтому я выработал неприязнь к термину «предыстория», когда речь идёт о персонажах _Fate_. Само это слово подразумевает, что это всё в прошлом, и среди многих геймеров оно несёт подтекст, что предыстория важна только с  как источник мотивации героя: ведь обычно сюжетная канва самой игры сформулирована до создания персонажей. Однако история персонажей _Fate_ ведёт себя иначе. Именно она продвигает игру вперёд. Именно она создаёт осложнения на пути персонажей и даёт игрокам возможность решить, в какого же рода игру они хотят играть.
+
+## Просто сделай это
+Вероятно, я разобью эту статью на две части и выложу вторую ближе к утру.
+
+Один из вопросов, с которым я часто встречаюсь как в сети, так и за игровым столом: «Есть ли в Fate Core правила по ...?»
+
+И я считаю, что этот вопрос поставлен неверно. Правильно он звучал бы: «Могу ли я сделать в Fate Core такого персонажа?» И ответ в 9 случаях из 10 будет: «Конечно! И даже без домашних правил!»
+
+Это очень просто. Нужно просто забыть кое-что. Можно начать с вопроса «Что означает кибернетическая рука?» В фантастике это обычно значит, что персонаж с ней очень силён. В некоторой фантастике — что он теряет связь со своей человечностью. В зависимости от сеттинга это также может значить, что люди на тебя косо смотрят. Рука может сбоить, нужно техобслуживание.
+
+Я начинал с традиционных систем. Моей первой НРИ была Basic D&D времён Молдвея, а любимой системой в течение долгого времени — GURPS. Не скажу, что успел поиграть во все системы в мире, но в 80-е я перепробовал их целую тонну. У меня получилось поучаствовать в реально «олд-скульных» кампаниях — одну из них вёл отец моего друга, он делал это с 80-х, если не раньше, и всё это время в ней участвовали только взрослые, как игроки и как ведущие.
+
+Я всё это говорю, не чтобы получить какой-нибудь гико-приз: я знаю, что среди читающих эту статью найдутся ребята с куда более увесистым гик-багажом. Я пытаюсь донести, что всё это время моим подходом к вопросу о кибернетической руке было выяснить, что она делает, как она мне вредит, как сбалансировать её через ограничения или траты ресурсов персонажа и т. д. То есть я прекрасно понимаю этот склад мышления и порывы людей добавить что-то такое в Fate. Когда-то это было моим первым инстинктивным желанием.
+
+Но в этом нет необходимости, пусть мне и потребовалось время, чтобы это понять. Вот как вы можете согласно правилам Fate создать персонажа с кибернетической рукой, которая повышает его силу: дайте ему навык Телосложения (или, возможно, Атлетики) 4. И дайте ему аспект, отражающий его кибернетическую руку. Вот и всё. Дело сделано. Возьмите пивка и отдохните. Серьёзно.
+
+Вы закончили. Я не шучу.
+
+Но как же так? Ну, вы хотите, чтобы он был сильным, так возьмите соответствующий навык и дайте его ему — просто сделайте это. Хотите, чтобы рука сбоила — создайте аспект для навязывания. Просто сделайте это.
+
+Хотите, чтобы рука изредка могла сделать его супер-мега-сильным? Призывайте аспект, если вам это нужно. Чаще всего бонусы от этого не сделают погоды, поэтому особой разницы не будет — и при этом с точки зрения реализма кибернетическая рука не должна делать персонажа крутым постоянно, ведь это приестся. Просто сделайте это.
+
+Вот так с помощью этих двух вещёй нам удалось удачно ввести в Fate сбалансированную кибернетическую руку, которая справляется со всеми игровыми задачами, которые мы ей поставили.
+
+Если вы хотите углубиться в возможности, то можете добавить трюк для повышения урона сродни уже существующим трюкам в игре. Однако мне кажется, что рука будет отлично работать и без этого.
+
+И таким образом можно решить почти любую проблему.
+
+Хотите магию иллюзий? Решите, что вы от неё хотите, создайте соответствующий навык, который делает именно это, и дайте персонажу аспект «иллюзионист», который даёт доступ к этому навыку. Бам. Просто сделайте это.
+
+Таких примеров вагон. И я буду честен — есть случаи, где вам правда придётся углубиться в дебри дополнительных правил, чтобы какая-то штука работала как по маслу. Порой эти правила могут добавить в общую модель интересные штрихи. Если вы играете по мотивам _Dresden Files_ , возможно, стоит уделить особое внимание трюкам. Илти вам могут встретиться основополагающие для жанра элементы, которые нельзя смоделировать без модификаций правил — мне кажется, отличным примером подобного будет _Camelot Trigger_.
+
+Тем не менее, система _Fate Core_ предоставляет вам не просто инструментарий, но полноценный рабочий 3D-принтер (спасибо за метафору, Джек Галик, пусть я использую её немного не в изначально вложенном тобой смысле).
+
+У желания добавить в _Fate_ новые «инструменты» есть ряд причин: **- Так везде делают, чёрт возьми!** И, признаться, поначалу я тоже так подходил к системе. «Где правила по ... ?» Ведь какой-то не предусмотренной вещи должны быть уделены свои параграфы в книге!
+
+**- Дозволение.** Идея «просто сделай это» покажется кому-то немного дикой, особенно тем, кто привык проводить игры, которые мы обсуждали выше, где ты не можешь что-то сделать, если для этого нет правила.
+
+**- Баланс.** Эй, если мы позволим кому-то создавать свои штуки, они же явно не будут сбалансированными, да? То есть, например, что будет, если они сделают аспект всесторонне крутой? И мой ответ на это довольно
+
+прост: не будьте детьми. Если вы не можете урегулировать такое за столом, то, возможно, _Fate_ — не для вас. И будем честны — разве в играх со сложным и многоступенчатым созданием персонажей баланс соблюдается лучше? Вы скажете мне, что все персонажи _GURPS_ , созданные на 150 пунктов, одинаково сильны? Я играл в эту игру ГОДАМИ, и я с уверенностью скажу вам, что нет. Поэтому если сложность не может обеспечить нам баланс, то зачем нам придерживаться сложности во имя баланса?
+
+**- Люди любят играть в «Лего».** Вот и всё. Многим нравится эта мини-игра в создание персонажа, и им хочется сочетать детальки в новых комбинациях, но они вряд ли хорошо покажут себя в ситуации, если их просят: «Хорошо, а как ты хочешь это реализовать?» Я считаю, это наибольшая преграда, мешающая людям отойти от «инструментального» подхода.
+
+- Некоторые хотят использовать Лего/инструментальный подход, чтобы обеспечить своему персонажу большие цифры, и об этом я поговорю в следующей части этой статьи, если у меня дойдут руки её написать.
+
+## Советы Роба по написанию хороших аспектов
+
+Мне показалось, что у многих (особенно новичков) с этим бывают проблемы, поэтому решил вбросить своих идей. Не стесняйтесь и говорите, что из этого можно улучшить, а что — и вовсе неправильно.
+
+### Плохие аспекты
+
+Многие люди, только начинающие играть в Fate , воспринимают аспекты как определение рамок того, что может их персонаж, сродни чертам/преимуществам в других системах. Попытайтесь отбросить эти взгляды, поскольку тогда аспекты у вас выйдут так себе. Лучше смотреть на аспекты с точки зрения «что я бы хотел увидеть в истории про этого персонажа?»
+
+Вещи, которые можно реализовать через навыки и трюки, лучше так и реализовывать. Не нужен аспект Хороший снайпер, чтобы метко попадать во врагов из ружья — для этого есть навык Стрельбы. А если хотите быть снайпером, то трюк выполнит эту задачу куда лучше аспекта.
+
+С другой стороны, например, Белая смерть звучит весьма интересно, равно как и история о том, что произошло бы с ним после (или во время) войны. Кроме того, это описание охватывает некоторые области механики, которые не подпадают под простой аспект Хороший снайпер.
+
+В отличие от плохих аспектов, довольно сложно сформулировать, что собой представляют хорошие, особенно, без понимания, что должны делать аспекты. Я не буду излишне углубляться в механику, и моя цель — доходчиво донести эти идеи с минимумом игрового жаргона.
+
+### Что делают аспекты?
+
+Чтобы написать хороший аспект, критически важно понимать, что аспекты делают в игре. Это зависит от многих факторов, но в целом присущие персонажам аспекты обычно выполняют одну или более из пяти функций ниже: 1. Дают разрешение на действие.
+
+2. Позволяют вам делать определённые вещи круче обычного.
+
+3. Мешают вам в определённых обстоятельствах.
+
+4. Осложняют вам жизнь.
+
+5. Создают сеттинг.
+
+Мы охватим каждый из этих пунктов и определим, почему они важны.
+
+### Дают разрешение на действие
+
+Одна из главных функций аспектов — «дать разрешение» на совершение действия, которые не под силу большинству. Это, пожалуй, самое размытое из применений аспектов персонажей, поэтому я попробую привести пару примеров.
+
+- Большинство не может применять магию, но волшебник-детектив — может.
+
+- Большинство не владеет Силой, но Последний джедай — ещё как.
+
+- Большинство не может просто так войти во дворец и поговорить с королём, но Брат короля — определённо может.
+
+- Большинство не может найти гильдию ассасинов, а уж подавно — войти внутрь, но Высокопоставленный ассасин с у меет.
+
+Как можно заметить, аспекты типа «предоставить разрешение» часто следует формуле «большинство не может ..., но ... может». Если вам пришёл на ум аспект, подумайте, даёт ли он вам какие-либо разрешения. Если нет, то тоже не беда — не все аспекты следуют этому правилу.
+
+### Позволяют делать определённые вещи круче обычного
+
+Самое, пожалуй, частое применение аспектов — позволить вам делать что-то круче, чем обычно. Если вы придумываете аспект, попробуйте представить вещи, которые дались бы вашему персонажу сложнее, не будь у него аспекта.
+
+- Мой персонаж мог промазать, но Белая смерть не промахивается.
+
+- Я бы вряд ли справился с этими штурмовиками, если бы не мой Второй пилот-вуки.
+
+- Я бы, возможно, не смог выбраться из этой карбонитовой ловушки, не будь я Последним джедаем.
+
+- Они бы могли заметить, как я крадусь мимо, но я Как дома в тенях.
+
+- Я бы, может, и не добился своего, но я Мастер дипломатии с «белым русским».
+
+### Мешают вам в определённых обстоятельствах
+
+Этот пункт — полная противоположность предыдущего. Аспекты в этой категории могут заставить вас провалиться, когда иначе вы бы преуспели.
+
+Постойте, это странная идея. Зачем бы игроку умышленно на такое идти?
+
+Аспекты можно аутивировать жетонами судьбы. В каждой сцене ведущий получает по одному жетону судьбы на каждого персонажа. Если ведущий решает использовать жетон против вас, навязав вам один из ваших аспектов, в конце сцены этот жетон перейдёт к вам. Если же ведущий использует жетон для задействования аспектов своих персонажей, вам он не достанется.
+
+Итак, для начала будьте уверены, что ведущий обязательно использует весь свой запас жетонов судьбы в каждой сцене. Это неминуемо произойдёт. Вопрос в том, получите ли жетоны вы, другие игроки или они просто испарятся.
+
+Однако «отрицательное» применение аспектов по своему формату очень похоже на «положительное», поэтому вы можете придумывать методы такого задействования и для аспектов, которые обычно находите полезными.
+
+- Возможно, мне бы удалось уговорить чиновника сотрудничать, но я уж точно не выгляжу надёжным типом — Как дома в тенях.
+
+- Я бы мог уцепиться за карниз, но у меня заклинило бионическую руку.
+
+- Я мог бы выскользнуть из западни, если бы не был хромоногим.
+
+### Осложняют вам жизнь
+
+Вот ещё один случай, в котором может показаться, что аспекты вредят персонажу, а не помогают ему. Зачем вам это? Причина та же — жетоны судьбы.
+
+Ведущий может осложнить вам жизнь с помощью одного из ваших аспектов. Если вы — Последний джедай, не исключено, что за вами идёт охота, и преследователи могут застать вас врасплох в самый неожиданный момент.
+
+Когда это произойдёт, ведущий даст вам жетон судьбы (не беспокойтесь, есть способы этого избежать, но это уже не касается темы этой статьи).
+
+Однако даже если вам не достанутся эти жетоны — разве вам хочется жить без подобных осложнений? Подумайте. Работа ведущего — осложнять вам жизнь. Он должен это делать, иначе игры превратятся в тягомотину.
+
+Чтобы понять, применим ли этот метод к вашей ситуации, попробуйте прикинуть, может ли аспект осложнить персонажу жизнь. Это несколько отличается от подходов к предыдущим идеям, поскольку речь здесь не о непосредственном успехе или провале при выполнении конкретной задачи, а о глобальных событиях, влияющих на сюжет. Например:
+
+- Найти охотника за головами стало куда сложнее после того, как на меня устроили засаду имперские ищейки — ведь я Последний джедай.
+
+- В этом городе всё сложнее работать, ведь копы обожают наступать на ноги единственному известному Волшебнику-детективу в этих краях.
+
+- Я вечно оказываюсь в новых передрягах, ведь я Известный баламут.
+
+- Люди обожают меня похищать, поскольку я — Брат короля.
+
+### Создают сеттинг
+
+Это, пожалуй, наименее важный метод применения аспектов, но упоминания заслуживает. Поскольку, создавая аспекты, вы заявляете какие-то факты о персонаже, таким образом можно заставить вещи существовать в мире игры.
+
+Например, если вы — Высокопоставленный ассасин, логично, что
+
+где-то должна быть гильдия ассасинов.
+
+Не забывайте, ведущий волен запретить что-то в этом духе по своему усмотрению. Однако значительная часть игры в Fate — черпать идеи у всех сидящих за столом и сплетать их в отличную историю, поэтому ваш ведущий, вероятно, пойдёт навстречу хорошим идеям и предложениям такого рода.
+
+### Собственно, создание аспекта
+
+Итак, мы обсудили, что аспекты могут для вас сделать. Как теперь их создать?
+
+В качестве хороших аспектов подойдёт многое — конкретные предметы, связи с людьми или организациями, черты вашей личности или характера, цели или даже любимые фразы персонажа. Кто-то, любящий приговаривать Добром это не кончится, вероятно, хотя бы иногда да будет прав!
+
+Поэтому подумайте, что в вашем персонаже кажется вам интересным и что бы вы хотели вывести на передний план в истории, где он — действующее лицо.
+
+Теперь пробегитесь по списку применений аспектов и посчитайте, сколько из них кажутся рабочими для вашей идеи. Чем больше, тем лучше! Если подходят хотя бы три метода, вы на верном пути. А если вдобавок некоторые из них могут вам как помочь, так и вставить палки в колёса, ваша идея явно хороша.
+
+Описывайте свои аспекты широко. Если вы решили добавить персонажу отношения, подумайте об отношениях, которые могут на  многое повлиять.
+
+Брат короля позволит интересным вещам случиться, однако Опальный единокровный брат тирана скажет куда больше! Для аспектов, с отношениями не связанных, подумайте о фразах, несущих интересный смысл и по возможности несколько значений: очевидно, как можно применить аспект Смекалистый механик, но куда интереснее будет Гаечный ключ (один из моих любимых аспектов): здесь вам и чинить вещи гаечным ключом, и бить им кого-то, или даже, согласно английской игре слов, вставить кому-то палки в колёса или же получить их себе (“monkey wrench in the works”).
+
+Наконец, постарайтесь, чтобы аспекты были с характером. Подумайте о  чертах персонажа, которые цепляют ваше внимание и проявляют его личность. Тяжёлая жизнь — не звучит. Магнит для неудач — чуть получше, но вот Добром это не кончится уже может многое сказать о персонаже.
+
+И самое главное — веселитесь. Это не ракетная физика. Это игра, и она должна быть в радость. И нет решений, которые вам не удастся исправить — большинство аспектов несложно заменить на другие, поэтому когда вы проникнетесь духом игры и своим персонажем, а также поймёте, что удаётся задействовать часто, а что — нет, вы сможете подкорректировать аспекты, чтобы они были полезнее и же отражали развитие вашего персонажа.
+
+## Цель и задача
+
+Для этой темы я позаимствую немного терминологии из Burning Wheel. Она всё ещё подходит по смыслу, честно!
+
+Я часто вижу, как камнем преткновения для многих новичков в Fate становится то, что в этой игре броски и действия регулируются несколько иначе, нежели в большинстве «мейнстримных» игр.
+
+Во многих из этих игр вы описываете, что хотите сделать, кидаете кости и  смотрите, что произойдёт. Поэтому если вы, например, хотите кого-то отшвырнуть, то правила могут сказать, что отшвырнуть его не удалось, либо что вы его отшвырнули, а также — насколько далеко. Мне нравится называть такие игры «основанными на задачах», поскольку игрок выбирает, какую задачу он хочет выполнить, после чего смотрит, каков результат этого действия.
+
+В Fate всё немного по-другому. Она относится к играм, которые я люблю называть «основанными на целях». Игрок заявляет, каких результатов он хочет достичь своим действием. Затем он смотрит, удаётся ли ему этого добиться.
+
+Чтобы основанная на цели система работала, для каждого действия нужно знать две вещи: цель — то, чего ты хочешь достичь; и задачу — как именно ты будешь этого достигать. Без этих двух единиц информации вам не удастся толком определить, как и для чего совершать бросок в Fate.
+
+Допустим, что у нас есть персонаж-пилот, у которого на хвосте вражеский самолёт. Тогда игрок говорит: «Я хочу пролететь через каньоны». Ладно, допустим, это проверка Пилотирования, ибо задача во многом определяет применяемый в броске навык, однако каким из четырёх действий будет проверка?
+
+Напрашивается преодоление, а цель игрока — отвязаться самолётов!
+
+Или, может, это — создание преимущества над этими самолётами, или даже абстрактными врагами в целом, что-то вроде скрылся в каньонах.
+
+Игрок может захотеть так поступить, чтобы уж наверняка оторваться!
+
+Или, может, он попытается повернуть трюк в духе Хана Соло: заведёт самолёты врагов в каньоны, чтобы там они разбились о скалы — звучит как атака.
+
+Без понимания как цели, так и задачи нам нельзя толком перейти к разрешению действия. Под это подпадают несколько «классических» вопросов, как реализовать то или иное событие. Приковать кого-то наручниками к столу — это предполагается как долгосрочный вывод цели из схватки? Если так, то это выбывание из конфликта, а потому — атака. Или же это просто временное замедление врага? Тогда создание преимущества.
+
+Туда же — Халк, швыряющий кого-то за горизонт. Если вы пытаетесь зашвырнуть врага так далеко, что в бою он уже не будет участвовать, это выбывание из конфликта, следовательно — атака. Если это оглушение, перемещёние врага в невыгодную для него позицию и т. д. — создание преимущества.
+
+Иногда игроков не так-то просто разговорить об их цели, особенно если они пришли из более традиционных игр. Я люблю спрашивать: «Опиши свой успех. Допустим, тебе удалось, что должно, по твоему замыслу, произойти?» Иногда, конечно, всё это бывает не нужно. Если игрок говорит: «Я пронзаю его мечом», будьте уверены, здесь его задача — кого-то убить.
+
+Кроме того, задача и цель бывают важны при обсуждении модификаций/ трюков и хаков _Fate Core_. «Как мне реализовать кибернетику?» — вопрос без ответа, если вы не понимаете, чего вы хотите от кибернетики. Если вам нужно, чтобы кибернетика делала людей сверхсильными, это одно. Если она должна давать другие преимущества — другое. Или, может, они должны приближать человеческое тело к пределу его возможностей.
+
+Но какие осложнения может вызвать кибернетика? Поломки? Техобслуживание? Вдруг, имплантаты даже можно взломать?
+
+С другой стороны, нужно брать в расчёт и социальные аспекты кибернетики — можно ли из-за неё отдалиться от человечности? Вызывают ли они странные реакции, косые взгляды?
+
+И по сути своей кибернетика — это «задача». Они — путь к итоговому результату. Чтобы понять, как их использовать, нужно начать с того, чего вы хотите от своей игры. Если вы хотите, чтобы у вас супергерои делали сверхчеловеческие вещи, то подход будет одним. Если одной из тем игры планируется потеря человечности, то подход будет совсем иным. Все эти вопросы совокупно формируют «задачу» вашей системы кибернетики. И в зависимости от  ответов вы можете решить, что это всего лишь описательная мишура без нарративного эффекта (люди не против кибернетики, но вы не хотите, чтобы она давала кому-то сверхспособности или доставляла носителям хлопоты).
+
+И, в общем-то, все эти подходы хороши и могут послужить какой-то конкретной цели. Однако единственный способ определить эффективность вашего моделирования кибернетики — только относительно поставленной задачи.
+
+## Fate нельзя выкрутить до 11
+
+Если кто-то из вас не понял отсылку, посмотрите фильм Это — Spinal Tap!
+
+Стоит пояснить, что здесь я излагаю свои размышления, которые дополняют или раскрывают предыдущие мои посты настолько, что мне сложно будет говорить об одном, не ссылаясь на другие, и наоборот.
+
+Также потребуется небольшое введение, поскольку я считаю, что вам нужно понять, как я воспринимаю навыки, чтобы отследить ход моей мысли и мою точку зрения. Как и всегда, это — всего лишь Скромное Мнение Роба, а не чтото официальное. Я, в конце концов, разработчик программного обеспечения в маленькой компании на Северо-Западе, а не сотрудник огромного конгломерата игровой индустрии из Сан-Франциско!
+
+Итак, поговорим о навыках. Навыки отражают, насколько вы в чём-то хороши, верно? Это заложено в самом названии и является правдой в большинстве игр. В общих чертах это распространяется и на Fate. Но в Fate я не рассматриваю навыки именно как «навыки», потому что, ну, Телосложение это не навык. Я воспринимаю навыки больше как «насколько персонаж влияет на сцену». Так многие вещи обретают больше смысла.
+
+Например, задумаемся о схватке между стрелком с ружьём и мастером боевых искусств. С точки зрения реализма мастер боевых искусств покажет себя менее эффективно при равном значении навыка. Но если мы скажем, что навык отражает вашу способность влиять на сцену, то мы можем, грубо говоря, учитывать значимость и влияние самого оружия как часть общего влияния навыка.
+
+Поэтому при гипотетическом навыке боевых искусств 4 ваш персонаж будет Джеки Чаном, но при стрельбе 4 он просто будет умелым и опытным стрелком, поскольку само его огнестрельное оружие уже имеет вес во влиянии на сцену.
+
+Я действительно пытаюсь подвести всё это к идее, честно! Спасибо, что пока что продираетесь через мою писанину!
+
+В предыдущем посте я обсуждал моделирование кибернетической руки через приписывание персонажу подходящего навыка (Телосложения или, возможно, Атлетики), аспекта из повествовательных соображений и, быть может, трюка — этого было бы достаточно, потому что, с моей точки зрения, Телосложение 4 означает: «У меня столько влияния на сцену, когда я могу задействовать этот навык. Как именно я получил эту общую сумму влияния, через физподготовку, технологию, магию и так далее — не имеет значения».
+
+На этом моменте вы можете спросить: «А ну-ка, умник, а что будет, если я — культурист, да ещё и с механической рукой?»
+
+А я отвечу: « Fate нельзя выкрутить до 11».
+
+Вот я и добрался до заголовка. Но что я пытаюсь сказать? В фильме Это — Spinal Tap! один из гитаристов заявляет, что его звукоусилители особенные: у большинства максимум на крутилке громкости — 10, а у него — 11. Видимо, он слишком тупой, чтобы понять — громкость усилителя определяется начинкой машины, а подпись с цифрами это лишь подпись с цифрами.
+
+Фейт нельзя выкрутить до 11. Если максимальное значение навыка, которое вы можете получить, равно 4, это вы и получите. Это же определяет максимальный уровень способности, которым в этой сфере может обладать начинающий персона. Точка. (Ладно, есть ещё трюки, но они не должны предоставлять никаких статичных бонусов.) 4 не должно отражать одно и то же в каждой игре.
+
+В  каждой конкретной игре оно означает максимум, с которым может начать персонаж в условиях игрового мира. В одной игре Телосложение 4 может означать наивысший порог физподготовки человека, а в другой — силу Супермена. Это — шкала, способ калибровки. Это вам не _GURPS_ , где 15 STR (Силы) означает ровно 15 STR , где есть множество таблиц, детально разжёвывающих, к  чему приравниваются 15 STR , и где для моделирования людей с киберимплантатами вам потребуются неприлично высокие показатели силы.
+
+Теперь я вернусь к принципу «Просто сделай это». Одна из причин, по которой люди любят инструментарии — им нравится выкручивать до 11. Они любят слышать о максимальном значении показателя и искать способы превзойти этот предел. »Сколько бонусов мы сможем суммировать?» Многие игроки захотят создать персонажа с кибернетической рукой не потому что им кажется, что из этого выйдет интересная история, а потому что они думают, что так им удастся превзойти предположительный максимум в системе — так им удастся выкрутить до 11. Что, разумеется, означает, что тот максимум отнюдь не был максимумом, а действительный максимум зависит от того, насколько высокую башню можно построить из своих деталек «Лего».
+
+В _Fate_ такого нет. _Fate_ просто говорит: «У вас может быть 4. И несколько трюков, чтобы лучше себя проявлять в конкретных ситуациях. Больше нельзя.
+
+Удачного дня». _Fate_ прямо заявляет, что ваш звукоусилитель выкручивается до 10, а если вы хотите быть громче, то вам нужен более громкий усилитель — то есть сеттинг, где 4 означает что-то большее. _Fate_ не лжёт вам и не наклеивает ярлык «11» на самое громкое значение только для того, чтобы вы чувствовали себя круче. Система честно относится к своим калибровкам и диапазонам.
+
+Разумеется, некоторым игрокам очень нравится подобная оптимизация персонажей. Лично я вижу в ней мало толку и думаю, что найдутся те, кто со мной согласится. К счастью, в индустрии есть множество игр, и многие из этих игр поддерживают такой подход к оптимизации. Если я захочу поиграть в игру с таким подходом, то в неё я и поиграю.
+
+А так я просто рад, что _Fate_ такого не делает, и что она предоставляет мне возможность поиграть во что-то, где нельзя выкручивать до 11.
+
+## В Fate нет системы урона
+
+Да, Уил Хаттон, ты уже адресовал эту тему, но мне есть что добавить.
+
+Серьёзно, в Fate нет системы урона. Посмотрите в книги. Где там написано «урон»? Есть стресс, есть последствия. Про урон — ни слова.
+
+Есть две возможные трактовки этого факта. Первая: «Нет, вы чего, они имели в виду урон, просто не написали прямо». То есть Фред Хикс и Леонард Бальсера — некомпетентные разработчики, не удосужившиеся использовать правильный термин. В это я ни на секунду не верю.
+
+Что приводит ко второй трактовке. «Они не использовали слово “урон”, потому что в Fate его нет». Мне кажется, больше всего о Fate я узнал, когда смирился с этим фактом и перестал интерпретировать его как-то иначе.
+
+Так что же такое стресс, если не урон? В абстрактном смысле это показатель темпа. Если конкретнее, это показатель близости к выбыванию из конфликта — а выбыть из него можно кучей способов! Поскольку стресс пропадает в конце каждого конфликта, можно с уверенностью сказать — он никак не отражает получаемый физический урон.
+
+Ладно, а что же такое последствия? Всё ещё не урон. Я вернусь к фразе «фантазия, не физика». «Урон» — прежде всего «физическое» понятие, отображение того, как на ваше тело воздействуют атака или падение. Fate это не моделирует и к этому не стремится. Она моделирует фантастику.
+
+В художестенных произведениях в сценах схватоко и других конфликтов важны не детальные описания физических последствий взмахов меча, а их влияние на сюжет. Это может быть головная боль Гарри Дрездена или осколок стекла, попавший Джону Макклейну в ногу и заставивший его хромать — истории важнее влияние на историю. Если «ранение» косметическое и не влияет на сюжет, оно не имеет значения.
+
+Именно это моделируют последствия — остаточное влияние конфликта, которое сыграет роль в дальнейшем сюжете.
+
+И это круто. Благодаря этому открывается масса возможностей. Способов описать урон не так много, зато последствия схватки могут быть самыми разными. Задело мечом? Конечно, это может быть порез на ноге. Но... это скучно. Если помнить, что Fate не моделирует урон, то, например, ваш герой может увернуться в последний момент и удариться головой, из-за чего у него будет звон в ушах. Возможно, ему он отразил удар в самый последний момент, и его накрыл страх смерти. Может, удар пришёлся на артефакт, который персонаж держал в руках, и после его уничтожения герой лишь наполовину в этом мире.
+
+Модель стресса и последствий отражает уровень остаточного влияния, которое на персонажа оказала атака. Это не модель «урона», поэтому она не  диктует тип нанесённого вреда. Это уже предстоит сделать вам, игрокам за вашим столом и вашей игре. Сделайте это круто.
+
+## Не очень скрытая логика оплаты призыва
+
+_Ух, длинный заголовок._
+
+Одной из вещёй, сбивших меня с толку, когда я начинал играть в _Fate_ , (не считая отсутствия способностей/умений — это вообще шок) было то, что я мог добавить своему персонажу-варвару штуки вроде бугрящихся мышц, но  они толком ничего не делали без траты жетонов судьбы.
+
+Нет, сами подумайте, а? Как это работает? Аспекты — это же что-то вроде сочетания преимуществ и недостатков из _GURPS_ , но с менее строгими формулировками, так? Если герой очень силён, логично, что он всегда должен быть очень силён, и это постоянный бонус. Мир же так устроен, разве нет?
+
+«Ах,» — говорит старый я, видя, как молодой я заходит в расставленную мной ловушку. «Может, так устроен мир, но разве так устроена фантастика?» Давайте рассмотрим немного паршиво написанной прозы:
+
+Нанок-варвар, покоритель законов интеллектуальной собственно-
+
+сти, вступил в бой. Он знал, по чью душу пришёл — за головой военачальника армии тьмы Супостатия. На него с криком набросился
+
+вражеский воин, но Нанок разрубил его надвое, оставив позади располовиненные останки. Он оглянулся в поисках Супостатия. Там! На холме! Нанок начал подниматься вверх по склону холма, но путь ему преградили три подлых приспешника Супостатия. Взмахом меча он
+
+сразил одного, а затем, отразив удар и контратаковав, отправил в ад второго. Третий приспешник, увидев, как его соратники расстались с жизнями в мгновение ока, развернулся и трусливо удрал.
+
+Теперь никто не мог помешать Наноку добраться до Супостатия.
+
+Проревев варварский боевой клич, он взбежал вверх по холму. Супостатий, встав напротив своего врага, приказал своим никчёмным солдатам отступить — он собирался дать Наноку бой один на один.
+
+Клинок встречался с клинком, сталь высекала искры о сталь. Не
+
+уступая друг другу, противники обменивались лёгкими ударами —
+
+ни одному из них не представлялось возможности зацепить другого.
+
+Наконец их мечи сцепились. Поединок превратился в состязание
+
+силы. Могучие бугрящиеся мышцы Нанока напряглись от усилия,
+
+и он опрокинул Супостатия навзничь. Супостатий скорчился в бессильном страхе, и Нанок пронзил его острием меча.
+
+Ладно, это была паршивая проза. Но несмотря на то, что у Нанока вроде как всегда есть его бугрящиеся мышцы, повествовательную значимость они обретают лишь единожды, когда Наноку пришлось выложиться на полную.
+
+А теперь для сравнения посмотрим на дополненный первый абзац:
+
+Нанок-варвар, покоритель законов интеллектуальной собствен-
+
+ности, вступил в бой. Он знал, по чью душу пришёл — за головой
+
+военачальника армии тьмы Супостатия. На него с криком набро-
+
+сился вражеский воин, но Нанок разрубил его надвое силой своих
+
+бугрящихся мышц, оставив позади располовиненные останки. Он
+
+оглянулся в поисках Супостатия. Там! На холме! Нанок начал подниматься вверх по склону холма, но путь ему преградили три подлых приспешника Супостатия. Взмахом меча, подкреплённым его бугря-
+
+щимися мышцами, он сразил одного, а затем, отразив удар благо-
+
+даря мощи его бугрящихся мышц и контратаковав, отправил в ад
+
+второго. Третий приспешник, увидев, как его соратники расстались с жизнями в мгновение ока, развернулся и трусливо удрал, исполненный страха перед бугрящимися мышцами варвара.
+
+Сколь бы плохой ни была первая версия, после написания второй я чувствую, что мне нужно искупаться в антисептике.
+
+Однако это демонстрирует основную причину, по которой аспекты работают «на топливе» из жетонов судьбы. Битва Нанока с Супостатием была единственным моментом сюжета, где ему потребовалось переломить ход повествования, а постоянно говорить о его бугрящихся мышцах — уныло и глупо.
+
+Fate Core , насколько я его понимаю, пытается передавать дух фантастических произведений искусства. И это подразумевает не просто «физическую симуляцию фантастических миров». Это подразумевает повествовательный ход и структуру фантастики. Это значит, что если мы размышляем о том, как «должна» выглядеть игра по Fate , нам стоит отталкиваться от вопроса «протекает ли она как книга или фильм?», а не «протекает ли она так, как всё это должно работать в физическом мире?»
+
+Если в фантастических сюжетах появляется обледенелая тропа, это не значит, что в каждом абзаце или кадре нужно упоминать, что люди скользят на ней и спотыкаются. Это скучно. Вероятнее всего, появление этого элемента будет значить, что кто-то поскользнётся на ней в самый ключевой и драматический момент. И именно такие моменты и пытается передавать Fate — взаимосвязь драматических элементов, а не действительные условия схватки на скользкой поверхности. Эта система следует правилам фантастики независимо от реализма или реальности — даже «кинематографической» реальности.
+
+## Как я провожу игры по Fate
+
+**_Важно:_** _это — то, как провожу игры по Fate именно я. Это не единственный и непреложный подход. Водить эту игру можно и по-другому, а те, кто так делают, не должны быть преданы огню. Однако именно так её вожу я, и это, как мне кажется, хорошо сочетается с системой._
+
+### Шаг первый: зацепить игроков
+
+На этом шаге я просто скажу кому-нибудь: «Эй, давайте поиграем в _Fate_ !» К этому я прибавлю общее описание игры, которую планирую провести: «Это будет игра в духе классического фэнтези!», «Как насчёт игры на основе _Brutal Legend_ ?» или что-то в этом духе. Обычно на этот момент я не держу многого в голове — может, прикидываю общую канву сюжета или тему игры, но в остальном я умышленно не углубляюсь в конкретику и оставляю детали размытыми.
+
+### Шаг второй: изначальная подготовка
+
+Затем, допуская, что нашлись дурачки, которым не жалко своего времени на  меня, я обычно смотрю на список навыков, настройки _Fate_ , дополнительные подсистемы (магия, броня и т. д.) и предлагаю возможные условия. Это всё ещё грубые намётки — скорее всего, позже я их сильно изменю. Мне просто надо задать игре отправную точку. Из этих же соображений я, возможно, набросаю масштабный конфликт — но, опять же, я не привязываюсь к этой задумке на случай, если игроки решат развернуть игру в совсем другом направлении. В  зависимости от проработанности преподнесённой игрокам «зацепки» я могу распланировать персонажей ведущего/противостоящие фракции, задающие динамику миру, но буду избегать продумывания каких-либо последовательных событий. Вероятно, эти наброски будут очень размытыми, чтобы я мог обогатить их подходящими деталями на этапе создания персонажей.
+
+Кроме того, если я пхочу как-то обойти или вмешаться в три фазы, обычно я делаю это на этом данном и обсуждаю это с игроками, чтобы понять, о чём можно условиться касательно их персонажей и что тематически вписывается в сценарий. Обычно перед тем, как полностью отказываться от трёх фаз, я всё же добавляю один-два аспекта, но если в процессе пойму, что тут надо поработать более детально, я попробую отойти от обычных фаз в угоду чему-то ещё.
+
+Также я попробую придумать какую-нибудь ситуацию/схватку, чтобы сразу же поместить в неё персонажей в ходе нулевой сессии, однако, опять же, я не буду слишком вдаваться в подробности.
+
+### Шаг третий: нулевая сессия
+
+Итак, а теперь нам пора покидаться кубами. На эту сессию я прихожу, вооружившись материалами с проведённой накануне подготовки, свежей папкой для игровых бумаг, чистыми бланками персонажей, шпаргалками по правилам _Fate_ и гаджетами, на которых смогу открывать цифровые копии моих книг по _Fate_.
+
+Для начала — создание сеттинга. Я очень люблю подход «места и лица», а также создавать сиюминутные/требующие внимания проблемы. Одна из вещёй, которые я узнал о нарративных играх вроде Fate — они лучше всего себя проявляют, когда что-то требует немедленного внимания игроков, поэтому я постараюсь создать хотя бы одну такую проблему.
+
+Я начинаю с создания сеттинга, поскольку тогда игрокам будет за что уцепиться при создании персонажей. Также на этом этапе я пытаюсь разрешать игрокам как можно больше идей: игры пока нет, поэтому и нет особых причин что-нибудь запрещать, если только это не идёт совсем вразрез с зацепкой: например, если кто-то захочет быть космическим пришельцем в фэнтези-мире (конечно, иногда можно реализовать даже что-то подобное: например — раса кованых ( warforged ) в сеттинге Эберрон ). Не стоит пренебрегать созданием сеттинга даже тогда, когда игра будет проходить в уже опубликованном авторском мире. В книгах могут быть масштабные и глобальные детали о мире, но ни в одном авторском сеттинге не прописаны каждая таверна, каждая организация и каждый город, а особенно до такой степени, чтобы игроки не могли развивать эти идеи, не противореча канону.
+
+В рамках работы над сеттингом я буду развивать созданные места/лица, используя их для создания мира совместно с игроками. Нередко задумка одного места/лица может намекать на более обширные детали сеттинга, и я не упущу такого шанса этим воспользоваться: привлеку внимание группы, чтобы нарастить на эти идеи больше мяса.
+
+Далее — создание персонажей. Обычно этот этап я провожу без изменений относительно книги. Я — огромный фанат трёх фаз и считаю, что они добавляют играм в Fate очень много глубины, в частности — благодаря им игра действительно становится историей об этих персонажах. Если у вас уже проработан сюжет, никак не связанный с предысториями ваших героев, то это не столь важно. Однако я не ради этого играю в Fate.
+
+Во время трёх фаз я очень активно сотрудничаю с игроками. В течение каждой фазы перехожу от одного игрока к другому и прошу каждого рассказать, какова их история — выходит своего рода экспромт. Я подталкиваю других игроков вносить свою лепту, а если тот, чья очередь рассказывать, испытывает трудности, я спрашиваю, чего он хочет в общих чертах. Здесь главное — вовлечь всех в процесс, зарядить их активностью и поощрять творческое мышление. Вторая же цель — позволить всем игрокам повлиять на создание каждого персонажа, чтобы у всех было определённое понимание всех участников сюжета и личный вклад в их историю. Видите — как ведущий я люблю схитрить.
+
+В течение фаз я пытаюсь про себя подмечать повторяющиеся темы и идеи, а также выхватывать упоминания враждебных персонажей ведущего или различных групп, после чего согласовываю эти идеи с предварительными набросками значимых противников и других участников сценария, которых я в общих чертах придумал накануне.
+
+Если что-то из моих изначальных наработок не вписывается в итоговую канву, я отказываюсь от этой идеи. Если все персонажи следуют какой-то ярко выраженной общей теме, я принимаю это в работу. Если какие-то элементы предысторий расходятся с моими задумками, я выбрасываю свои задумки куда подальше и оставляю идеи, родившиеся за столом. Здесь для меня главное — игроки и то, в какую игру и в каком мире они хотят играть. Удовлетворить их желания я в какой-то мере считаю своей ответственностью.
+
+В течение этих этапов я делаю две вещи — записываю всё сказанное за столом и подталкиваю творческий процесс. Иногда предлагаю собственные идеи, но я не считаю, что они должны иметь больший вес, нежели предложения любого из игроков. Если после создания персонажей у нас остаётся достаточно времени и у меня хватает материала, тогда я провожу первую сцену/завязку сюжета. Обычно я пытаюсь успеть добраться до этой части, потому что многим непривычно проводить нулевую сессию без самого процесса игры.
+
+### Шаг четвёртый: после нулевой сессии
+
+Возможно, сейчас меня ждёт больше всего работы над игрой, даже больше, чем при поддержании самой игры на ходу. Мне предстоит взять свои изначальные задумки касательно того, чем могла бы быть игра, и согласовать их со всем, что мы придумали вместе с игроками. Теперь у меня на руках есть немало элементов: мои первые наброски, созданный сеттинг, сюжетные проблемы и угрозы, предыстории персонажей (созданные через три фазы). Все эти элементы я пытаюсь собрать воедино и связать в относительно целостный сеттинг.
+
+Для этого нередко требуется создать персонажей ведущего. Я уделяю больше внимания этим персонажам, а не сюжетной канве — ведь историю рассказывают её участники, а не события. События происходят вследствие конфликтов между персонажами. Чтобы сюжет был интересным, я попытаюсь столкнуть несколько противоборствующих персонажей/организаций/групп.
+
+Если атмосфера игры располагает, я также добавлю в эти отношения немного двоякости — злодеи с благими намерениями/приносящие миру пользу, хорошие ребята со злыми методами или две группы с несовместимых взглядами на добро. Мне кажется, такие конфликты делают сюжеты интереснее.
+
+Всё это я занесу в отведённую для кампании папку и на этой основе создам несколько возможных стартовых сюжетных арок; «арку» в данном случае задают некие персонажи ведущего/группа, стремящиеся к какой-то цели. Я рассмотрю их цель, прикину, как могут быть вовлечены другие группы, и буду с  этим работать. В течение всего этого я обязательно поглядываю на аспекты героев, выискивая что-то, чем их можно связать с сюжетом — ведь эта история о них! Обычно с этим не возникает сложностей, ведь эти группы/персонажи ведущего/цели изначально проистекают из созданного сеттинга, предысторий персонаж или сюжетных угроз! Однако никогда не повредит убедиться, что всё это каким-то образом связано с персонажами.
+
+### Шаг пятый: создание арки
+
+На этом моменте я начинаю полноценно планировать арку. Я вынес это в отдельный пункт, потому что в затяжных кампаниях фигурирует своего рода петля, в ходе которой процесс игры возвращается на этот шаг, когда предыдущая арка разрешается или приближается к разрешению.
+
+Обычно для создания арки нужно взять одну из зачаточных идей арок из  четвёртого шага и дополнить её всем необходимым. При этом я, опять же, сосредотачиваюсь на персонажах ведущего, а не событиях. Кто стремится к  чему? Кто может этому помешать? Кто захочет помогать? И, возможно, самое главное — как в это умудряются ввязаться персонажи игроков? Повторюсь — лучшие сюжетные арки так или иначе рассказывают историю именно персонажей игроков и не сработают с другими персонажами в главной роли.
+
+Сказанное выше — весьма неплохой эвристический взгляд на сюжетные арки.
+
+Итак, касательно создания арок — обычно я пытаюсь ответить на несколько довольно обширных вопросов, и мне этого хватает. Эти вопросы: 1. Почему это относится к персонажам?
+
+2. Кто в этом замешан?
+
+3. Чего они пытаются добиться?
+
+4. Кто может им противостоять?
+
+5. Кто может им помогать?
+
+6. Что они сделают, если им не помешать?
+
+Особенно важен здесь первый вопрос. В идеале у вас должна быть возможность отмотать все действия к персонажам. После каждой следующей арки это становится проще! События как минимум должны быть каким-то образом напрямую противопоставлены интересам одного из персонажей.
+
+Более традиционным ведущим/игрокам это может показаться искусственным. Я же воспринимаю это как акцент на фантастике: в фантастических произведениях события напрямую связаны с персонажами, нередко подчёркивая их внутренние конфликты. Такой повествовательный подход теснее вовлекает персонажей и их игроков в сюжет, помещая их в  центр истории. Именно это превращает _Звёздные войны_ из обычной истории про бластеры в глубокую сагу о тьме внутри нас и её искушениях. Именно это позволяет нам создавать долгоиграющих сюжетных врагов, которых игроки так любят ненавидеть.
+
+К слову, одна из главных причин, почему я использую противников, которых придумывают сами игроки — та же вовлечённость. Игроки заинтересованы в событиях в меру своей вовлечённости в их создание. Ведущие часто об этом забывают — созданный нами злодей кажется нам клёвым, но игрокам на него может быть наплевать, если тот не протянет свои руки к чему-то, важное игрокам. Позаимствовав идею противников у игроков, мы втягиваем их в события, пусть даже они просто придумали ему имя! А ведущий уже, в свою очередь, будет вовлечён во время подготовки сюжетных элементов. И вот так в конечном итоге нам удаётся больше вовлечь в игру каждого из участников.
+
+### Шаг шестой: предыгровая подготовка
+
+Ладно, мы подготовились к кампании и создали арку, теперь время готовиться к сессии. К счастью, обычно это сложно.
+
+Итак, что изменилось в мире с момента последней игры или по итогам последней сессии? Так я пытаюсь охватить в мыслях всех персонажей ведущего, которые не участвовали в сюжете, и прикинуть их действия. Как они отреагируют на события последней сессии? Как изменились их планы?
+
+И что в таком случае будут делать персонажи ведущего, задействованные в событиях? Если вы сможете ответить на этот вопрос, дальнейший сюжет, вероятно, напросится сами собой.
+
+Посмотрите на листы персонажей и придумайте хорошие навязывания/ осложнения. Не забывайте всегда привязывать события к персонажам!
+
+У меня есть понимание, куда в течение грядущей сессии отправятся персонажи? Хочется верить, что да: _Fate_ — игра о проактивных персонажах, поэ тому в идеале предыдущую сессию они должны были закончить в движении.
+
+Но если нет, ладно, мы сможем привести их в движение.
+
+Подготовьте несколько _гранат_. Гранаты это внезапные события, требующие реакции персонажей игроков (неважно, какого рода реакции). Гранаты должны делать историю интересней. Они не обязательно должны быть навязываними, но если их удаётся привязать к персонажу или аспекту, это просто замечательно! Примеры гранат — персонажи ведущего, спешащие героям на помощь; важные откровения; значимые действия персонажей ведущего.
+
+Вот граната, которую я «бросил» в одной своей недавней игре: герои расследовали группировку особо мерзких бандитов, которые, как выяснилось, одержимы демонами (они были призывателями бездны). У одного из персонажей был аспект Не доверяет смазливым, у другого — аспект Спасатель.
+
+Кроме того, по итогам событий прошлой сессии (завязки, более того) на группу навалился ситуативный аспект Они знают, кто мы. Гранатой была миловидная одержимая разбойница, подошедшая к героям с просьбой о помощи.
+
+Требует реакции? Ага. Целенаправленно бьёт по аспектам персонажей и создаёт интересный конфликт? О да.
+
+Набросайте наметки для каких-нибудь «декораций», если вам приходит что-то на ум. Обычно я занимаюсь этим в последнюю очередь, поскольку это требует от игроков весьма конкретно заданного курса действий, а я пытаюсь этого избегать. Когда вы — ведущий, слишком легко бывает выдумать определённую последовательность событий и незаметно подталкивать игроков в желанном направлении. Поэтому я умышленно выбираю другой путь и стараюсь даже не задумываться о том, что именно будут делать персонажи. Вместо этого я придумываю интересные ситуации и, будучи «фанатом игроков», с интересом предвкушаю, как из этих ситуаций они будут выпутываться.
+
+### Шаг седьмой: проведение сессии — начало
+
+Переходим к мякотке! Я рассаживаю игроков, выставляю закуски и  напитки, передаю нужные раздатки, сверяюсь с новыми правками в листах персонажей и прошу кого-то из игроков вкратце пересказать события предыдущей сессии, дополняя его рассказ в соответствии с моими записками, если нужно.
+
+Обычно во время игры у меня есть ноутбук/планшет, где можно печатать.
+
+Я часто пользуюсь PDF-версиями книг правил, и пытаюсь держать наготове хотя бы два гаджета, один из которых нужен только для ведения заметок.
+
+Если это первая игровая сессия, я перейду к сцене-завязке и помещу персонажей в центр событий. Если нет — время для сакраментального вопроса: 
+
+### Шаг восьмой: «Что вы делаете?», или создание сцены
+
+Желательно, чтобы перед персонажами стояла чёткая цель, которая не будет их дожидаться и требует немедленных действий. Но если её нет, я достану гранату, выдерну чеку и кину им под ноги. Если провернуть это правильно, игроки придут в движение, возможно даже — в неизвестном мне направлении! Например, когда я подбросил им одержимую девушку с просьбой о помощи, я не знал, что произойдёт. Герои решат помочь? Нападут на неё? Попытаются отследить, откуда она пришла, или что-то ещё? Главное — привести их в движение.
+
+Итак, игроки должны определиться с планом действий. Здесь ведущему можно их чуть-чуть, ненавязчиво подтолкнуть. Сейчас цель — поскорее перейти к интересной сцене, и чтобы этого добиться, у меня есть несколько трюков.
+
+Если просьба игроков абстрактная, превратите её в конкретное действие.
+
+«Мы расследуем» — это не сцена. «Мы идём в академию магию и ищем сведения о предмете Икс» — уже возможная сцена.
+
+Поймите, какова цель персонажей игроков. «Чего вы хотите добиться?
+
+Если вам это удастся, что изменится?» Удивительно, как часто игроки могут не знать, что сказать! Подтолкнув их к ответу на этот вопрос, ведущий сможет: - избежать рельс;
+
+- подготовить соответствующее сопротивление;
+
+- продвигать сюжет дальше;
+
+- определить, кто может противостоять этому действию и что может пойти не так. Иногда сюжет можно обогатить, если последствия произойдут «за кулисами», но в целом я предпочитаю выводить всё важное «на экран».
+
+Если у всего этого нет интересных последствий или интересного сопротивления, я обычно позволяю им добиться желаемого, либо прошу игроков сделать пару бросков, не более. Незачем тратить время на мелочи.
+
+Итак, теперь у нас есть сцена! На этом этапе я её задаю и определяю подходящую ситуации структуру бросков/действий: вызов, конфликт, состязание или же простые проверки. В последнее время я часто пытаюсь отходить от  естественной последовательности «бросок за броском» в угоду более структурированных подходов, но это уже вопрос стилистики.
+
+Заметьте, что обычно я разрешаю почти любое проактивное действие игроков, даже оно не вписывается в мои планы. Если игроки решат попробовать что-то, абсолютно перечащее принципам игры/сценария, я предупрежу их, но  не считая этого — сгодится что угодно. Трое бойцов, средь бела дня бросающие вызов всей королевской страже? Может, немного перебор, но попробуйте! А что, если они захотят отравить весь гарнизон? Конечно! Может, они попытаются найти себе сторонников? Конечно! Отправятся на поиски потайного лаза, чтобы пробраться за стены тайком? Почему нет! Притворятся кем-то ещё и постучатся прямо в парадный ход? Звучит отлично! Именно в таких случаях, когда игроки сами задают сцену, делается наибольший акцент на  том, какими будут история и грядущие испытания, а потому я обычно настроен дать любому их начинанию шансы на успех, если только это не является полным бредом с точки зрения фантастического повествования.
+
+Ещё один хороший трюк — осложнять игрокам жизнь, когда они хотят как-то обойти сразу много сюжетных витков. «Хотите провести спиритический сеанс, чтобы узнать, кто убил барона Как-Его-Там? Хорошо. Но для этого нужен либо умелый медиум, либо знание обряда призыва. И материалы для ритуала. А в момент сотворения заклинания вам придётся отправиться на поиски нужного духа в Царство Мёртвых». Пусть планы планы игроков помогают задать нужное русло истории, а не служат порталом к финалу. Часто неожиданные решения игроков повлекут несколько сцен их разрешения, и в этом нет ничего плохого — просто переходите к этим сценам по очереди.
+
+### Шаг девятый: разрешите сцену
+
+Долго добирались, а? Ну, этот этап плюс-минус соответствует правилам _Fate Core_ , так что мне особенно нечего сказать. Разве что напомню — не забывайте подглядывать в аспекты персонажей и искать способы их удачно навязать.
+
+Кроме того, каждый бросок костей должен в потенциале вызывать интересные последствия. Перед тем, как игрок возьмёт кубики, спросите себя: «Что может произойти, чтобы игрок воскликнул “Ничего себе!”?» Это момент вашей калибровки. Речь необязательно о худшем возможном исходе. И даже не о самом опасном. Но — какой исход провала будет самым интересным?
+
+Отыграйте эту сцену и перейдите к последствиям.
+
+### Шаг десятый: завершение сцены
+
+Итак, ваши игроки заварили кашу. По итогам они либо получат то, чего хотят, либо получат что-то ещё, либо наткнутся на препятствие, либо случится всё вышеперечисленное в разных сочетаниях.
+
+Пришла пора того, что в ремесле сценариста называется «сиквелю. Подведите с игроками итоги; определите для себя, как в обозримом будущем на это отреагируют противники; и дайте игрокам возможность всё осмыслить. А после этого вернитесь к шагу восемь и повторяйте всё это до конца сессии.
+
+Если сцена удачно разрешилась (в смысле «справились ли вы со всем как ведущий», а не «получили ли игроки того, чего хотели»), то вам вряд ли придётся кидать в игроков слишком много новых гранат. Удачно разрешившаяся сцена должна либо предоставить игрокам что-то, на что они будут опираться при движении дальше (поэтому я обычно и уточняю цель сцены у самих игроков), либо столкнуть персонажей с очевидным препятствием, с которым им придётся иметь дело. Например, если герои вели расследование в магической библиотеке, успех может означать, что им удалось добраться информации, нужной, чтобы найти след чего-то, что им нужно найти/убить/получить. При провале же, например, персонажей могут застигнуть врасплох вражеские разведчики, вследствие чего начинается погоня. Так или иначе — персонажи получают какой-то толчок, мотивирующий их двигаться вперёд.
+
+Если этого почему-то не произошло (ну, бывает), киньте в них гранатой.
+
+Повторяйте шаги с восьмого по десятый до самого завершения сессии.
+
+### Шаг одиннадцатый: завершение сессии
+
+Эй, хорошая работа! Игрокам весело, все кидают кости и смеются. Но  вкакой-то момент часовая стрелка намекнёт, что пора закругляться, либо люди за столом начнут зевать, или вам как-то ещё дадут знать — пора заканчивать.
+
+И в этом нет ничего плохого! Вам нужно, чтобы игроки жаждали продолжать. Если они захотят играть дальше, то придут в следующий раз, и вам удастся поставить на ноги стабильную кампанию. Если же кампания будет скучной и  затянется, вскоре вы заметите, что игроки начнут пропускать сессии. Ваша цель — не затянуть игру, насколько возможно, а максимально повысить градус крутости на единицу времени! И если вы заметите, что это соотношение проседает, скажите, что на сегодня всё, а сами отправьтесь на поиски новых идей.
+
+Один из лучших способов завершить сессию — сделать это с огоньком.
+
+У вас есть на примете навязывание, которое сможет в мгновение ока перевернуть сюжет с ног на голову? Дерзайте. Неожиданное откровение, которое прольёт свет на что-то умопомрачительное? Отлично. Расставить фигуры в преддверии эпической битвы? Самое то. Оборвите игру на моменте, кричащем «продолжение следует», и игроки обязательно захотят собраться снова!
+
+По завершении игры вам предстоит подвести общие итоги. Сообщите игрокам, какой вехи они достигли и что это для них значит. Спросите, есть ли у  них желание внести изменения в своих персонажей (особенно это касается аспектов). Соберите вещи и приберите за собой.
+
+Самое, пожалуй, главное — соберите отзывы. После игры вы просто обязаны спросить, что прошло хорошо, что пошло не так, что игрокам хотелось бы видеть чаще/реже и т. д. Цель игры — чтобы всем было весело, а если это не  так, то нужно что-то менять. Также убедитесь, что у игроков есть возможность связаться с вами по сети или написать вам в частном порядке, поскольку кто-то, возможно, не захочет делиться мнением при всех.
+
+Самое важное в отзывах — прислушиваться к ним. Не вставайте в позу: даже если вам кажется, что что-то прошло отлично, а игроки другого мнения, не принимайте это на свой счёт. Вопрос не в том, что «хорошо», а что «плохо», а в том, что нравится игрокам. И это будет разниться от игрока к игроку.
+
+Для вас это учебный процесс, позволяющий отточить навыки. Даже отрицательные отзывы не означают, что вы справились «плохо», другой группе всё могло бы понравиться. Главное — понять, что нравится именно этой группе.
+
+Если в какой-то момент вам пришлось принять спорное и неоднозначное решение, объясните, почему вы рассудили именно так, перечислите все повлиявшие на решение факторы и другие варианты, которые вы рассматривали. Также спросите игроков, как бы они решили возникший вопрос на вашем месте.
+
+Будьте открытыми и честными — _Fate_ как игра поощряет подобное поведение.
+
+Иногда достаточно просто объяснить ситуацию и спросить игроков, как бы они поступили, чтобы дать им взглянуть на произошедшее с вашей стороны.
+
+Соберите все жетоны судьбы и отметьте, как с ними обстоят дела у игроков.
+
+Если они копили запас жетонов, чего это им стоило? Когда в конце сессии у игроков остаются лишние жетоны судьбы, это обычно значит, что их персонажам пришлось несладко (или, наоборот, им часто везло). Однако если у игроков из раза в раз остаются лишние жетоны без сюжетных последствий, чаще навязывайте им аспекты и увеличьте градуc оказываемого им сопротивления.
+
+Или же у них почти не осталось жетонов? Значит либо им удалось многого добиться в рамках сессии, либо же вы обходились с персонажами слишком жестоко. В будущем можете ослабить сопротивление или подбрасывать персонажам «слабые» навязывания, чтобы малой кровью давать им жетоны судьбы.
+
+### Шаг двенадцатый: следующая сессия
+
+Теперь пора задуматься о следующей сессии. Подумайте обо всех произошедших событиях и о том, что они повлекут. Вам, возможно, придётся пересмотреть некоторые планы — в конце концов, ничего из вашей подготовки не является «реальным», пока игроки это не увидят!
+
+Может, по ходу игры в мире появились новые персонажи/группы. Убедитесь, что вы найдёте им место в общей картине.
+
+Может, вскрылось что-то, что изменило ваш взгляд на участвующих в игре персонажей ведущего/групп — опять же, берите это в работу. Возможно, с  драматической точки зрения означенному вами злодею выгоднее лишь казаться злодеем, а на деле он старается побороть «настоящего» злодея! Может, кто-то из с виду невинных персонажей на самом деле руководит всеми из-за кулис! Может, кто-то из персонажей ведущего пересмотрит свои взгляды из-за случившихся событий. Помните, мир должен реагировать на игроков: они протагонисты, и они несут в мир игры ветер перемен. Это — их история!
+
+Арка закончилась? Если так, спланируйте следующую согласно пятому шагу. А если нет — просто продумайте следующую сессию согласно шестому.
+
+Если кампания подошла к логическому завершению, и продолжать её нет желания (или для этого нет сюжетной подводки), всё замечательно! Время готовить зацепку к новой игре!
+
+Есть ещё некоторые принципы, которых я стараюсь придерживаться. Это общие советы, поэтому они не подходят к каким-то определённым шагам.
+
+- Постарайтесь не предугадывать, куда пойдёт игра. Это правило так важно, что я сделал его первым. Чем больше вы будете предугадывать, тем больше будете пытаться всё к этому привести. Поначалу вас может напугать идея стартовать без представления направлении движения, но это дело привычки. Уверен, вам понравится. Кроме того, это правило гарантирует, что вы прислушаетесь к игрокам и позволите им самим задавать игре направление. Если вы планируете игру вокруг конкретной арки, например, вооружённого восстания, а не партизанской борьбы или политических интриг, обязательно обсудите это с игроками: в вопросах подобного характера, касающихся темы «это игра, в которую мы все играем» между участниками должно быть взаимное согласие и понимание. А ещё такие общие вещи можно свободно обсуждать без «спойлеров».
+
+- Вовлекайте людей в игру, но уважайте стиль каждого. Это можно в какой-то мере назвать поддержанием равновесия, и делать это — одна из ваших задач как ведущего. В ваших интересах помогать каждому вносить свой вклад в игру, но некоторые из участников по своей сути могут быть интровертами, а потому не будут слишком напористыми или проактивными в своих мнениях. Попытайтесь склонять их к взаимодействиям, но не будьте слишком навязчивым. Ваша задача — не позволять напористым игрокам-экстравертам затмевать вклад интровертов или доминировать в игровом процессе.
+
+- Сохраняйте драму! _Fate_ — игра о накале страстей. Она не задастся, если при подготовке вы рассчитаете каждую мелочь и исключите любую неожиданность. Не поймите меня неправильно — это может прекрасно сработать с другими системами, но в них обычно есть достаточно тактических «цифр», чтобы подкрепить надёжность таких приготовлений.
+
+- Держите игроков в центре событий! Показывайте, а не рассказывайте. Как я и говорил раньше, некоторые события «за кулисами» могут добавить изюминки в сюжет, но в целом лучше держать события «на экране». Ваша задача — будить интерес игроков тем, что происходит вокруг, а не свой — массой подковёрных событий, о которых знаете только вы.
+
+- Я люблю, когда сложность зависит от драматической значимости. В критический момент дайте игрокам решить, насколько сильно они хотят добиться своего! _Fate_ — игра о расстановке приоритетов через траты жетонов судьбы, а не о подсчёте множества бонусов или симуляции реальности.
+
+Поэтому сталкивайте игроков с такими сложными решениями лоб в лоб!
+
+- Провалы должны быть интересными! Успех дорогой ценой — это здорово, равно как и провалы с интересными последствиями. А вот «у тебя не выходит» — не здорово. Продолжайте двигать события вперёд, пусть даже и не в том направлении, в котором хотели идти игроки!
+
+- Принимайте вклад от игроков. Это отличный способ переложить часть работы со своих плеч. Подробности о местном празднике? Спросите
+
+игроков! Как выглядит трактирщик? Пусть опишут игроки! Кроме того, поощряйте сотрудничество. Если такой вопрос застанет игрока врасплох, поинтересуйтесь о его мнении на этот счёт, после чего позвольте другим вступить в дело и придумать что-то сообща.
+
+- Будьте честным. _Fate_ — игра, поощряющая открытость. Нет ничего зазорного в том, чтобы рассказать игрокам о последствиях проваленного броска до того, как вы его совершите, особенно если вы планируете что-то не очень очевидное. Обсудите с ними события, которые вы подстраиваете, и зажгите игроков своей идеей.
+
+- Последствия должны соответствовать событиям. Я люблю говорить:
+
+«Для того, чтобы кто-то выбыл из конфликта, надо, чтобы он _выбыл из кон-_ _фликта_ ». Так я подчёркиваю, что нельзя просто обойти правила стресса/ последствий, например, столкнув кого-то с обрыва: если у цели ещё остались сдвиги стресса/строки последствий, то, может, она всё ещё держится за  уступ, уклонилась от толчка и вывихнула при этом лодыжку. Однако этот принцип распространяется и на другие броски. Провал при попытке сотворить простецкое заклинание вряд ли повлечёт за собой коллапс вселенной! И даже если так, взгляните на это с более высокого ракурса: даже если бы провал при сотворении этого конкретного заклинания вызвал бы конец света, провал _при проверке_ может означать что-то другое: например, в процессе ритуала вы навлекли на себя беду, либо же обряд занял слишком долго, или же, быть может, вы осознаёте, что у вас нет важного ингредиента или недостаточно магической энергии.
+
+- Я стараюсь делать результаты успехов и провалов примерно равноценными. Если, преуспев в чём-то, вы получите значительное преимущество, то  логично предположить, что провал в этом случае также будет вам многого стоить. Пусть это не всегда имеет смысл с точки зрения того, «как всё устроено», зато это почти всегда уместно драматически, и обычно вам нужно лишь немного абстрагироваться от привычных взглядов, чтобы подобрать для этого подхода какое-нибудь логичное сюжетное обоснование.
+
+- Помогайте игрокам разбираться в правилах и стратегии! Чёрт, если бы я мог что-то изменить в первых нескольких сессиях, которые я проводил по правилам _Fate_ , то это была бы именно эта моя промашка. Новичкам не всегда очевидны эффективные стратегии в _Fate_ , а потому игровой процесс может огорчать их и казаться неприятным. Убедитесь, что ваши игроки понимают, как работает создание преимущества, особенно в конфликтах.
+
+Удостоверьтесь, что они знают, как создавать преимущества при проверках навыков против сопротивления среды или более низких навыков их противников. Будучи ведущим, постоянно спрашивайте себя: «Эй, что бы я сделал, будь я на месте игрока?» и предлагайте это игрокам! Потратьте немного времени, чтобы обсудить с ними связки навыков, наложение нескольких аспектов через создание преимущества и даже разницу между сильными ударами (займёт меньше раундов на то, чтобы вывести кого-то из конфликта, но требует больше сдвигов) и слабыми (больше раундов, но меньше сдвигов).
+
+- Это относится к последнему пункту. Помогите вашим игрокам привыкнуть к успехам и провалам в _Fate_! Конкретнее — убедитесь, что они знают, насколько тяжело выбыть из конфликта после одного-единственного удара!
+
+Если они только начали играть в _Fate_ , объясните им правила по принятию поражения и, когда они провалят несколько проверок, покажите, что после этого игра продолжается. Многие игроки привыкли к системам, где «провал» = «игра окончена», поэтому для новичков крайне важно понимание этого элемента _Fate_.
+
+И самое главное:
+
+ВЕСЕЛИТЕСЬ :)
+
+_Fate_ — отличная игра, но это всё ещё игра. Цель игры одна и та же что для игрока, что для ведущего — веселиться. Если вы не веселитесь, ИСПРАВЬТЕ ЭТО. Если кому-то за столом не весело, ИСПРАВЬТЕ ЭТО.
+
+## Плюсы создания преимуществ
+
+Многие из моих постов ориентированы на ведущего, однако этот куда больше ориентирован на игроков. Эй, пора бы и сменить обстановку, а?
+
+Я иногда замечаю, что новички в _Fate_ излишне полагаются в конфликтах на действие атаки. По опыту скажу, если смотреть на картину в целом, атака зачастую является наименее эффективным вариантом действия. Конечно, вы не можете засоздавать преимуществами кого-нибудь до смерти (ну или заставить его иначе выбыть из конфликта), но в целом создание преимуществ значительно превосходит атаку по функционалу, а особенно — в качестве подготовительного действия перед, собственно, мощной усиленной атакой.
+
+Большинству ветеранов это и так очевидно, за что я заранее извиняюсь. Однако поднятые в статье идеи, возможно, имеет смысл обсудить с игроками, особенно если у них есть проблемы с пониманием системы или они слишком полагаются на атаки. Вот несколько главных причин, почему большинство действий персонажей игроков в конфликте должно быть созданием преимущества: 
+
+### Это продуктивнее
+
+Как атака, так и создание преимущества дают возможность покупать сдвиги эффектов. При создании преимущества эти сдвиги (выраженные через бесплатные призывы) срабатывают с отсрочкой, но если посмотреть на определённый диапазон успехов, то в большинстве случаев при создании преимущества вы получите больше сдвигов эффекта, чем при атаке.
+
+Степень успеха Сдвиги при создании преимущества Сдвиги при атаке
+
+0 2 (усиление) 2 (усиление)
+
+1 2 1
+
+2 2 2
+
+3 4 (два бесплатных призыва) 3
+
+4 4 4
+
+Стоит признать, что при степени успеха выше 4 атака начинает обходить создание преимущества, но в обычных условиях вы вряд ли сможете достигнуть такой степени, если только для подкрепления вашего броска у вас не окажется нескольких бесплатных призывов или охапки жетонов судьбы.
+
+### Создание преимущества широко применимо
+
+Атака делает простую вещь — вынуждает цель принять стресс/последствия.
+
+Однако сдвиги эффектов (бесплатные призывы), полученные через создание преимущества, могут (в зависимости от конкретного преимущества) использоваться для действий атаки или защиты! А ещё ими могут воспользоваться другие члены группы. Или же их можно вложить в действие атаки, чтобы нанести больше урона. Создание преимуществ предоставляет вам _возможности_!
+
+### Создание преимущества позволяет выбрать связку навыков
+
+В конфликтах, а особенно — во время атаки, самостоятельные значения навыков не играют роли. Здесь важно соотношение между вашим уровнем навыка и уровнем навыка противника. И одним из главных «стратегических» элементов Fate является умение с повествовательной точки зрения повернуть это соотношение в вашу пользу.
+
+Использовать свой «сильнейший» навык не всегда на руку. Если, скажем, у  вас Драка 4, а у противника — Драка 6, вы будете уступать, как ни крути.
+
+И повествовательно будет сложно обосновать, почему для атаки вы использовуете какой-то навык, помимо Драки, либо почему враг не сможет использовать Драку для защиты (в пример можно подставить Стрельбу, Атлетику и т. д.) Однако создание преимущества позволяет вам это обойти. Пока ваши действия имеют смысл с точки зрения нарратива, можете выбрать, какой навык используете вы, а какой придётся использовать вашему врагу. У вас Драка 4, а у противника — 6? Не беда, может, у вас Устрашение 4, а воля врага — всего 1!
+
+Запугайте его! Или используйте Атлетику, чтобы занять выгодную позицию, тогда противнику, вероятно, придётся использовать Внимательность.
+
+Как только вы усвоите этот принцип, мощный здоровяк предстанет перед вами просто как шанс обвести его вокруг пальца, ведь его социальные навыки, вероятно, низки, и это можно обернуть себе на пользу. Забавно, но чаще всего против очень сильных бойцов хуже всего себя показывают ориентированные на боевые действия и уступающие противнику персонажи, ведь у них обычно мало других навыков, которыми можно воспользоваться вместо атаки.
+
+И, конечно, особенно хитрый трюк — использовать создание преимущества так, чтобы сопротивление вам оказывала местность, а не сам враг: здесь будет куда проще преуспеть, чем в случаях, если вам противостоят напрямую!
+
+### Создание преимущества даёт подготовить мощные атаки
+
+Это не всегда так, но весьма часто в Fate выгоднее нанести один мощный удар, чем два слабых. Если у вас суммарно три маркера стресса, то два удара на 2 сдвига стресса заставят вас вычеркнуть второй и третий маркеры, однако один удар на 4 сдвига вынудит принять последствие.
+
+Обычно более сильные удары быстрее выведут противников из конфликта, в то время как слабые удары будут продуктивнее (для них суммарно потребуется меньше успехов), но придётся совершить больше действий атаки.
+
+И как же проще всего подготовиться к совершению мощного удара? Придётся либо проесть дыру в казне жетонов судьбы, либо заранее обеспечить себе несколько бесплатных призывов аспектов через создание преимуществ.
+
+Знаете, что ждёт врагов после того, как ваша команда потратит раунд-два на создание преимуществ, а потом передаст все эти бесплатные призывы своему самому умелому бойцу? Боль.
+
+Совместите это со свойственными созданию преимущества большей продуктивностью и возможностью подбирать связки навыков, и у вас получится надёжный способ разбираться даже с самыми мерзкими врагами (или с самыми красивыми и обаятельными, если вы ввязались в социальный конфликт)!
+
+### Повествовательное значение аспектов
+
+До сих пор я обсуждал только механические и математические сильные стороны создания преимущества. Но это только часть сути.
+
+Вдобавок ко всем описанным выше плюсам создание преимущества вносит в повествование новые непреложные элементы. Если ваш противник съёжился от страха, то именно это он и делает. И это должно ограничить его в действиях.
+
+Аспектами можно добиться очень многого — от разрешения новых действий до запрета, от создания препятствий на ровном месте до получения разрешения на активное вмешательство в чужие действия. Аспекты сбивают врагов с ног, разоружают их, заставляют тех заплутать в тумане. И всё это — вдобавок к механическим преимуществам! Великолепно, правда?
+
+В общем, надеюсь, это вам как-то поможет. Всё это основано на моих наблюдениях за новичками в _Fate_ и по сути представляет собой перечень пунктов, которые я им разжёвываю, чтобы развеять склад мышления «атака, атака, атака!» и позволить им думать более «по-фэйтовски». Это, в свою очередь, развязывает им руки при описании интересных повествовательных элементов и всей остальной крутотени, которую я так привык ассоциировать с _Fate_.
+
+## Провал
+
+Прежде чем перейти к сути, я бы хотел ещё раз повторить, мои посты — об опыте, которого я набрался после, когда пришел сюда из традиционных игровых систем. Также они о том, как я научился играть в  Fate почти без конфликтов с  правилами этой системы. Важно, что при возникновении этих конфликтов я научился не менять правила для своего удобства, а отбрасывать устоявшиеся ранее привычные убеждения, шедшие вразрез с книгой правил Fate Core.
+
+Поэтому, опять же, не считайте мои заметки каким-то авторитетным источником. Воспринимайте их как мои осознания и крики «Вау! Теперь всё понятно!», а не как-то ещё. По этим же причинам я, пожалуй, отношусь к хакам Fate чуть более критически, чем другие — во многих случаях я обнаруживал, что «потребность» что-то хакнуть проистекает из предубеждений, с которыми кто-то пришёл в игру, и на деле куда проще либо отринуть эти предубеждения, либо поиграть в НРИ, которая больше им соответствует.
+
+Также помните, что если я как-то высказываюсь о традиционных игровых системах или о тех, кто в них играет, я делаю это без критики. Мне нравятся традиционные НРИ! И большая часть того, что я изображаю как «вещи, которые говорят игроки в традиционные системы», когда-то была сказана мной самим. Ещё раз, ничто из сказанного мной не претендует на объективную оценку.
+
+Так, ладно. Провал. В своих постах я многократно говорил, что Fate — игра, поощряющая провалы персонажей игроков. Также я заявлял, что почти любому из придуманных игроками планов стоит дать право на жизнь (звучит противоречиво, знаю). Не так давно я видел посты о том, что игроки в группах некоторых ведущих хотели подвергать своих персонажей большему риску смерти. Когда-то я и сам утверждал, что игры без шанса умереть — для слабаков, а давать игрокам шанс преуспеть в любом начинании — для сумасшедших.
+
+Всё перечисленное выше кажется месивом не связанных тем, но это не так.
+
+Все они сводятся к одному понятию: провалу, и тому, что провал значит для игры (если копать глубже, это про структуру игры, и мы до этого ещё дойдём).
+
+Итак, в обычной сессии НРИ у вас есть какая-то цель. Ведущий, вероятно, распланировал какое-нибудь приключение с этапами. Принцесса Плюшка была проклята! Вам нужно отправиться в Промозглые Пещёры за Розой Расколдунства! И, как только вы с этим справитесь, неожиданно для вас Принцесса Плюшка назовёт вам имя Коварного Колдуна, который её проклял!
+
+Замечательно. Чёрт, если бы вы хотели, вы бы могли даже провести подобную игру по Fate. Конечно, этот пример умышленно перегружен штампами, однако в нём наличествуют все основные сюжетные элементы. Итак, допустим, персонажи добираются до Промозглых Пещёр и оказываются в комнате, полной врагов, ловушек и чего только не. Отлично. Завязывается драка.
+
+А вот тут мы переходим к сути. В традиционных НРИ вы выиграете в этом бою. Вот так. Потому что единственный реальный вариант помимо этого — смерть всей группы, и это ничуть не весело.
+
+Подвох в том, что игроки ждут впечатления, что они могут проиграть. Поэтому в значительной мере задача ведущего подобных игр состоит в том, чтобы сделать противников достаточно сильными, чтобы схватка с ними казалась рискованной, но достаточно слабыми, чтобы игроки не могли проиграть.
+
+Даже игроки, говорящие что-то вроде: «Я хочу, чтобы была возможность умереть», ошибаются в формулировке. Они хотят ощущения опасности. Вряд ли они реально хотят, чтобы их персонажи умерли (хотя, возможно, хотят, чтобы смерть доставила персонажу неудобства). Вряд ли они хотят игру с таким высоким уровнем смертности, чтобы каждую сессию умирало по персонажу.
+
+Вот вам эксперимент: в следующий раз, когда игрок скажет: «Я хочу поиграть в игру, где есть возможность умереть», спросите его, в каком проценте сессий этой игры, по его мнению, должна обязательно присутствовать смерть их персонажа, и должна быть в свободном доступе магия воскрешения.
+
+Я не виню в этом игроков. Когда игры состоят из последовательных испытаний (головоломок, поиска информации, небоевых состязаний, битв  и  т.  д.), и игроки оказываются перед преградой, за которой лежит продолжение сюжета, им становится очевидно, что они так или иначе в этом преуспеют, а «риск» по большей части иллюзорен. Им просто хочется верить, что это не так.
+
+На то есть две основные причины:
+
+1. Многие игры (я смотрю на вас, _Дороги приключений!_ ) напрочь исключают влияние персонажей игроков на глобальную сюжетную канву.
+
+2. Многие игры не наделяют провалы смыслом или результатом помимо смерти. Если вы проигрываете в битве, орки вас убивают. Если вы не допрыгиваете до края обрыва, вы падаете в пропасть неумолимой погибели.
+
+Или же вы теряете пункты здоровья, что либо приведёт вас к смерти, либо по сути не повлечёт за собой никаких последствий.
+
+Давайте вернёмся к _Fate_ и в целом к НРИ более нарративного характера.
+
+В _Fate_ смерть — редкое событие. Так написано в правилах. Чтобы кого-то убить, нужно вывести их из конфликта до того, как они смогут принять поражение, и даже тогда вам нужно прямо сказать, что они умирают. В этой игре нет «авто-смерти», и заставить кого-то выбыть из конфликта до того, как у них будет шанс отреагировать или принять поражение — практически немыслимо.
+
+Если я вернусь в режим любителя традиционных систем, мне может показаться, что в _Fate_ нельзя потерпеть провал. Тогда зачем вообще играть?
+
+Подобный вопрос встаёт, если задуматься о таких вещах, как: «Если игрок хочет, чтобы тут была потайная дверь, дай этому шанс случиться». Мой традиционно-геймерский мозг слышит это и говорит: «Что? Эта крепость задумана, чтобы проверить способности игроков и их персонажей. Если вы просто будете давать отмашку на любую выдумку, в чём вообще смысл?»
+
+И тут-то мы добрались до сути. Мне кажется, выше я уже коснулся темы «сюжетных преград». И знаете что? В подходящей игре это может быть действительно весело. Нет ничего плохого в загадках, созданных, чтобы над ними ломали голову и искали решение — вы можете покупать сколько угодно фигурных пазлов, они существуют, чтобы над ними ломали голову и пытались собрать, а заложенное в них испытание — понять, как это сделать. Это весело!
+
+Но есть и такие штуки, созданные, чтобы рисовать картины. Восковые мелки, например. И этими мелками можно нарисовать любую картину, какую хочешь. Безумие, правда? Где испытание?! Как понять, правильно ли я это сделал?
+
+Вот в этом и суть. Я обожаю Fate. От всего сердца. Это поистине элегантная система. Но она очень плохо воспроизводит испытания, с  которыми игроки сталкиваются в традиционных играх. Как минимум, это никудышная игра про тактические схватки. Правила также не очень-то поддерживают «решение головоломок». Само существование жетонов судьбы означает, что игроки могут «купить» решение почти к любой проблеме. А так как система испытаний в Fate никудышная, идея «сюжетных преград» здесь не имеет смысла.
+
+Когда любители традиционных НРИ говорят что-то вроде: «Какой смысл, вы всегда побеждаете!», в их словах есть смысл. Fate — паршивая система для  традиционных приключений (основанных на «сюжетных преградах»).
+
+Поэтому давайте не будем «натягивать сову». Лучше переосмыслим всю суть стычек. А опираться в этом мы будем на сами правила.
+
+Рассмотрим крайне простую ситуацию — запертую дверь. В традиционной игре у вас будет шанс её открыть. Если вы потерпите провал, то, ну, вы потерпите провал. И если вам очень-очень надо её открыть, что поделать, не повезло. Вряд ли произойдёт что-то ещё — дверь просто не откроется.
+
+Однако если вам реально нужно открыть эту дверь, где-то будут доступны другие способы это сделать — это часто называют «правилом трёх». И даже если это со стороны не кажется похожим на структуру «сюжетной преграды», это она и есть — просто для этого испытания есть несколько решений.
+
+А что до Fate? Fate Core , стр. 187 — «Если вы не видите интересного развития ситуации ни для успеха, ни для провала — не просите делать бросок».
+
+Ого. Странно. Неужели, если вы не можете придумать, как сделать открытие двери интересным, то она просто открывается? Где испытание?
+
+Однако в этой цитате кроется значение, ключевое для понимания «провалов» в Fate. Если у вас есть интересный исход для обоих результатов, то открытие двери — не «сюжетная преграда». Это развилка. Отсюда история может уйти в одном из двух направлений, и никто не знает, что случится. Поэтому бросок ставит перед нами не вопрос «Проходим ли мы испытание?», а вопрос «В каком направлении движется история?»
+
+Итак, у нас есть дверь, и допустим, мы хотим её выломать. Отлично. Надо придумать интересный исход провала, который направит сюжет в новое русло.
+
+«Она не открывается» — это не сюжет, а застой сюжета. Это убивает всю динамику и никуда ничего не двигает. Но попытки выломать дверь наверняка будут шумными, а потому, если вы увлечётесь, то кто-то может вас услышать! Вот это уже интересная ветвь развития событий. Вы либо сможете открыть дверь, либо вас найдёт стража! Любой из двух вариантов будет продвигать сюжет вперёд, и любой из них может превратиться в интересную историю.
+
+Ранее я уже выдвигал свою идею «дробления вызовов» (её суть в том, что один бросок можно развить в конфликт, состязание или вызов, и наоборот).
+
+Поэтому давайте таким же образом посмотрим на Принцессу Плюшку. Если следовать изначальной задумке, то, не пробившись через Промозглые Пещёры, вам не удастся спасти Принцессу Плюшку, и она не расскажет вам про Коварного Колдуна. И ввиду того, как обычно работают традиционные системы НРИ, перед вами, вероятно, будет лишь два варианта развития событий — «вы получаете Розу Расколдунства» или «смерть всей группы».
+
+В _Fate_ правило «интересного развития событий» применимо не только к одиночным броскам, но и к конфликтам в целом. Если при провале после завязки конфликта не случится ничего интересного, просто не устраивайте конфликт. Тогда что же может означать провал? Например, что вас взяли в плен.
+
+Или что вы не получили Розу, а, следовательно, с Принцессы Плюшки не удалось снять порчу. Что тогда? Может, Принцесса Плюшка станет вместилищем для демонических сил? Или порча со временем начнёт расползаться по всему царству, заражая скверной персонажей ведущего, с которыми герои тесно связаны или ведут полезные деловые отношения. Может, проклятье падёт на  Барона Банального, который объявит персонажей игроков вне закона и отправит своих ищеек по их следам! Рассматривая конфликты как точку сюжетной развилки, а не как испытание, мы создаём возможность для «провала», тогда как в традиционных НРИ провал в такой ситуации обычно обрывает игру.
+
+Разберём третий из изначальных примеров — обнаружение потайной
+
+двери. Здесь бросок также отражает не «мы прошли испытание», а «в каком направлении повернётся сюжет?» Если героям удалось найти тайный лаз, это ещё не значит, что испытание завершено. Это лишь значит, что история направилась в другое русло — теперь она повествует о путешествии сквозь темноту по тесным, забытым тоннелям в недрах замка, а также ужасах, которые там таятся. Может, вы думали, что игра будет о скрытном проникновении. Или о героической схватке у подступах к замку. Или о хитроумном обмане, благодаря которому враги сами откроют вам ворота. Но история про страшный тайный проход может быть столь же увлекательной и столь же напряжённой. Вы ещё сможете приправить сюжет остротой — ведь если попытка обнаружить тайный проход обернётся неудачей, из-за шума, который навели ошивавшиеся вокруг замка персонажи, может случиться что-то плохое!
+
+И вот в чём фишка — поскольку «провал» обычно означает, что события выйдут героям боком, угроза последствий может нависать над персонажами буквально в каждой схватке. Вы можете проводить игру так, чтобы нельзя было предугадать исход ни единой стычки. Шанс провала может быть 50%. Персонажи могут вступать в каждую схватку, зная, что что-то стоит на кону, пусть даже это не их жизни. Вместо 99% побед поражение станет настоящей угрозой.
+
+Углубляясь, я даже скажу, что каждый бросок костей в Fate должен быть напряжённым. Именно здесь система показывает себя лучше всего. Это не игра, где цель — насобирать как можно больше разных бонусов, чтобы итоговый бросок никогда не обернулся провалом. Это игра, где всегда должна быть вероятность провала, и где дела в любой момент могут пойти под откос.
+
+Потому что есть ещё один момент: сочетание жетонов судьбы и правил по  принятию поражения гарантирует, что игроки смогут добиться своего практически в любой ситуации, если они решат пожертвовать достаточным количеством ресурсов, а именно — жетонов судьбы и последствий. Я точно говорил, что изначальный бросок определяет не успех или провал, а цену успеха.
+
+И это, как мне кажется, сказано прямо в точку.
+
+Поэтому когда я вижу вопросы вроде «Как мне убедиться, что битва будет увлекательной, но персонажи игроков точно не проиграют?», я отвечу: «А не наплевать ли?» Пусть это будет сложно. Пусть они выкупают свои права на  успех и принимают последствия этого выкупа. Или пусть они проиграют, и тогда история будет исходить уже из этого.
+
+Из-за всего этого Fate не становится более щадящей. Игра в Fate , проводимая в духе Fate , может быть куда безжалостней, чем любая игра в D&D , в которой мне когда-либо приходилось участвовать. Примите это. Примите провалы в ходе своих игр. Примите незнание о том, что же случится дальше. Примите броски, состязания, вызовы и конфликты как точки развилок. Примите правила по принятию поражения, не воспринимайте их как лазейку или трусость.
+
+Провал — неотъемлемая часть игры в Fate «в духе Fate ». Примите это.
+
+## Разбор фрактала Fate и природа аспектов
+
+_В чём, спрашивается, между ними вообще связь?!_
+
+Моя первая встреча с _Fate_ прошла через _Spirit of the Century_. Я прошёл долгий путь игры в традиционные НРИ и, увидев аспекты, подумал: «О, круто!
+
+Это прямо как преимущества/черты/умения, только тебе дают придумать им крутые названия и ты можешь сделать что угодно!» Тогда это казалось мне весьма очевидным. Разобравшись в этом, я пошёл читать остальные правила.
+
+Вот только я ошибся. Я не мог ошибиться сильнее, даже если бы меня звали доктор О. Ошибус Ошибкенштейн. Это было лишь одним из моих первых заблуждений при попытках понять _Fate_ , но вместе с тем довольно значительным.
+
+Я воспринимал аспекты как что-то, дающее бонус, и как что-то, привязанное к другому понятию, вроде прилагательного. И вы, конечно, можете поспорить, что некоторые аспекты подходят под эти определения, но это не очень удачный подход к их пониманию. Аспекты одновременно и проще, и сложнее, чем это.
+
+На самом деле аспекты — элементы истории. Это что угодно, каким-то образом важное для истории. Можно сказать, это «аспект» самой истории.
+
+Упрощая до предела, можно сказать, что аспекты — то, про что история.
+
+Здесь я вернусь к принципу «в первую очередь — повествование». Наша цель — понять, какие именно вещи важны для истории (как минимум для этого момента, для этой сцены), а затем — запечатлеть их, наклеить на них ярлычки и назвать их «аспектами».
+
+«А как же персонажи?» — спросите вы. Они же тоже важны для истории!
+
+И они — персонажи, а не аспекты. Ага! Вот вы и попались в мою западню, мистер Несуществующий-Собеседник-Которому-Я-Сам-Придумываю-Реплики.
+
+Вы считаете, что персонажи — это не аспекты, но это не так!
+
+Тогда почему же у персонажей есть навыки, а у аспектов — нет? Ну правда же, очевидно, что Кромешная тьма не может водить машину!
+
+И тут, возможно, в игру вступили предубеждения о том, что такое «навыки». Навык не отражает чью-то тренированность, это — способность «аспекта» истории повлиять на сцену без того, чтобы его кто-либо призвал.
+
+Ладно, это уже звучит как месиво из безумного мета-жаргона, поэтому попробуем говорить по-человечески.
+
+Персонаж — элемент истории. Он может повлиять на сцену. Он делает это с помощью навыков. Выходит, что навык отражает способность элемента истории повлиять на сцену без влияния со стороны других элементов.
+
+Окей, тогда как же Кромешная тьма? Она определённо не может водить машину! Это правда, поэтому у неё нет навыка вождения. Однако в зависимости от характера игры и сцены она может влиять на события! Тьма может вселять в людей паранойю и вызывать ментальный стресс. Вместо того, чтобы вводить новые правила для всех этих мелочей, _Fate_ просто говорит: «Конечно, Кромешная тьма может активно влиять на сцену, если это уместно. Просто дайте ей навыки».
+
+И это — один из основополагающих принципов фрактала: сюжетные элементы могут влиять на сцены, и они делают это посредством навыков.
+
+По сути персонаж не очень отличается от Кромешной тьмы. Но нам проще собрать несколько общих элементов истории под контролем игрока и объединить их одним словом «персонаж».
+
+И у элементов истории могут быть другие элементы истории. Элемент истории-персонаж Хан Соло связан с Соколом тысячелетия. Можно назвать Сокол деталью Хана Соло, поскольку если бы Хана не было в истории, то и Сокол бы не было тоже. Поэтому мы называем Сокол тысячелетия аспектом Хана Соло (который, в свою очередь, по сути аспект — элемент истории). И, разумеется, у Сокола могут быть свои навыки и свои аспекты (например, Потайные отсеки для груза).
+
+Это неплохое описание фрактала. Однако кое-чего не хватает. В математике основополагающее свойство фракталов — то, что у них бесконечная детализация. Можно отдаляться от них и рассматривать в более мелком масштабе, приближать и рассматривать в более крупном, и их детализация не изменится.
+
+Это довольно круто. И это свойство также важно для понимания фрактала Fate.
+
+Допустим, у нас игра в жанре фэнтези, и в ней задействован аспект сеттинга Город-государство Военград. Он важен для истории, поэтому это аспект, его можно призывать или навязывать.
+
+В течение сюжета наши персонажи приближаются к Военграду, а потому он становится более значимым для истории. Мы можем присудить ему собственные аспекты, например: Правит железной рукой, Неусыпная
+
+стража и Кровожадные солдаты. Мы также можем дать ему навыки, например, Захват других городов государств: 4.
+
+Допустим, что наши персонажи приблизились к городу вплотную. В городе Неусыпная стража, но нам нужно детализовать это, поэтому мы создаём аспект Караул привратников. Если персонажи держатся поодаль, то этого аспекта нам хватит для того, чтобы отразить влияние привратников на сцену.
+
+Однако если рассматривать ситуацию ещё ближе, мы, возможно, захотим добавить деталей. Например, мы можем решить, что там есть Толстый страж и Тонкий страж. Посмотрим ещё ближе — возможно, у каждого из них появятся свои личные аспекты. А если герои решат штурмовать врата, то караульным потребуются навыки, возможно — снаряжение! И даже их снаряжению могут быть приписаны аспекты — например, если игрок использует создание преимущества и заявит, что меч тонкого стража Изношенный и хрупкий!
+
+В этом, в принципе, заложена вся суть фрактала Fate. Это универсальный способ описывать элементы истории и их способность влиять на мир. Это способность описывать элементы с точным количеством деталей, необходимым для нынешней сцены. Мне не нужно знать особенности двух конкретных стражей, если я в ста милях от Военграда. Мне нужно знать, что Военград существует, и что его влияние гнетёт всё вокруг.
+
+Однако если я приближу картину, важность обретёт его способность управлять вещами. Мне нужно больше знать о том, как он влияет на сцены, в которых участвуют персонажи. Поэтому фрактал _Fate_ предоставляет мне инструменты, с помощью которых я в этом разберусь. Таким образом даже стража превращается из общего аспекта (Караул привратников) в индивидуальных личностей, личности — в элементы с навыками и, возможно, даже под-элементы.
+
+И в процессе этого в них не вносится изменений. Стражи не «получают навыки» из воздуха, когда я приближу фокус к ним. У них всегда были навыки.
+
+Они просто не имели значения, пока у нас не появилась потребность с ними взаимодействовать. Они не превратились из «аспектов» в «персонажей» — это ложное восприятие. Они всегда были аспектами, потому что любой элемент истории — это аспект! И они всегда были «персонажами», потому что кем ещё может быть страж? Однако, когда нам потребовалось узнать о них больше информации, мы ещё больше их детализировали, а когда нам не требуется столько деталей, мы просто о них не задумываемся. Город-государство Военград не стал фрактальным аспектом, когда нам понадобилось больше деталей — сам по себе он всё ещё аспект, просто с меньшим уровнем детализации. В его природе ничего не изменилось.
+
+Поэтому если у вас есть аспект, который должен быть активно задействован в сцене, просто дайте ему навык! Здесь не нужно вносить никаких изменений в типологию. Навыки это способ элементов истории влиять на сцены, пока на них не оказывает влияние другой элемент истории. Это всё — просто аспекты. От и до. До самых черепах, на которых зиждется мир.
+
+## Несколько советов новым игрокам в Fate
+
+### Создание персонажей
+
+- С умом выбирайте аспекты: помните, аспекты в первую очередь относятся к истории вашего персонажа. Аналоги преимуществ/черт — это трюки.
+
+- Осторожнее выбирайте три своих самых сильных навыка. Многие игры создают впечатление, что путь к победе лежит через гиперспециализацию.
+
+В _Fate_ это не совсем так, поскольку навыки обычно более «целостны» сами по себе. Подумайте о разнообразных ситуациях, в которых может оказаться персонаж, и подоберите навык, который поможет ему в каждой из них.
+
+Помните, ведущим рекомендуется (по крайней мере для врагов, вступающих в битву с группой в одиночку) делать самый сильный навык противника равным наивысшему навыку персонажей + 2. В схватке с таким врагом персонажам стоит иметь возможность нанести удар по его слабым местам.
+
+- Помните, что на листе вашего персонажа ничего не высечено в камне. Навыки, трюки, аспекты — всё это должно меняться с течением времени.
+
+- По возможности не выбирайте все свои трюки сразу. Посмотрите, в какие ситуации персонаж будет частенько попадать, и подберите свои трюки под эти условия (и то, как ведёт себя герой).
+
+- Присмотритесь к трюкам, выходящим за пределу обычных «+2 к навыку когда...». Они могут быть удивительно эффективными.
+
+- Убедитесь, что вы и ведущий одинаково понимаете смысл ваших трюков и  аспектов — когда они вступают в игру, как их можно использовать, как их нельзя использовать.
+
+### Общая стратегия
+
+- Самая главная «стратегия» в _Fate_ — удачно подобрать противостоящие навыки. В каждой ситуации попытайтесь придумать, как вы сможете задействовать свои наиболее эффективные навыки.
+
+- В схватке с любым противником более важным является относительная высота уровня навыка, а не абсолютная. 2 против 0 лучше, чем 4 против 6.
+
+- Не слишком пугайтесь даже устрашающих противников. В этой игре практически невозможно выбыть из конфликта после одного удара.
+
+- Создание преимущества — ваш друг.
+
+- Работа в команде — тоже ваш друг. Может, вам и не удастся подобрать удачный навык для атаки, но вы определённо можете поделиться своими бесплатными призывами (если это вписывается в повествование) с кем-то из союзников, а они уже разберутся с проблемами.
+
+### Игровой процесс
+
+- Играйте по принципу «В первую очередь — фантазия». Подумайте, что вы хотели бы сделать в фантастическом произведении, и сотрудничайте с ведущим, чтобы переложить это на игровые механики. В _Fate_ слишком мало цифр, чтобы играть по принципу «в первую очередь — механики».
+
+- Будьте готовы к провалам. _Fate_ — игра, где периодические провалы со стороны игроков только поощряются. Если вы играете в _Fate_ «согласно книге правил», то провал любого рода не оборвёт игру или историю, а позволит ей развиваться в другом направлении. Откажитесь от мысли, что вам нужно «выиграть» в каждой схватке/сцене — откладывайте жетоны судьбы на моменты, когда вы очень, очень, очень сильно захотите повернуть сюжет в определённом направлении.
+
+- Принятие поражения — ваш друг. Если вам надирают задницы, сдавайтесь.
+
+Это лучше, чем выбывание из конфликта, и вы получите жетоны судьбы!
+
+- По возможности часто навязывайте аспекты самому себе. Ведущий в любом случае будет осложнять вам жизнь. Это его работа. Навязывая себе аспекты, вы хотя бы будете получать за это жетоны судьбы.
+
+- Будьте проактивными. Предлагайте сцены. Решайте, как вам бы хотелось продвигать сюжет вперёд. Хороший ведущий _Fate_ будет с этим работать: в конце концов, ваши персонажи — протагонисты, которые должны вести историю вперёд, а не реагировать на то, что происходит вокруг них.
+
+- Думайте о целях, которых хотите достичь. Ваши действия должны быть нацелены на продвижение истории. Представьте, как будет выглядеть ваш «сногсшибательный успех» и опишите его ведущему, чтобы он знал, к чему вы стремитесь. _Fate_ — игра не настолько о заранее написанном сценарии, сколько о продвижении сюжета. Даже если ваш «сногсшибательный успех» по какой-то причине неуместен в рамках истории, ведущий хотя бы сможет придумать, как удовлетворить ваши пожелания чем-то похожим.
+
+- Договаривайтесь с ведущим, но примите, что он не во всём пойдёт вам навстречу. В _Fate_ ведущий обладает значительной властью. И иногда вы будете с ним несогласны. _Fate_ также рекомендует обсуждать всё за столом, и в случае разногласий хороший ведущий так и сделает. Иногда, впрочем, вы всё же останетесь недовольны итоговым решением. Переживите это. Если это не случается постоянно и не полностью нарушает игру для всех, пусть так и будет. Подумайте об этом после игры, и если вы всё ещё не можете это отпустить, обсудите это с ведущим — но уже не за столом.
+
+## Большой вопрос Fate
+
+Эта мысль какое-то время вертелась у меня в голове, и мне кажется, что я наконец-то понял, как её выразить.
+
+Я считаю, что у каждой НРИ есть свой «большой вопрос» — то есть основополагающий процесс принятия решений, который характеризует суть игры.
+
+Способность компетентно отвечать на этот вопрос во многом отделяет «хорошего» игрока в эту конкретную игру от «плохого», а потому определить, в чём заключается «большой вопрос» игры, может быть хорошим подспорьем.
+
+Большим вопросом раннего D&D было: «Как я могу использовать предоставленные мне ресурсы, а также ресурсы, которые я получаю по пути, чтобы заполучить в подземелье как можно больше сокровищ и при этом не умереть?» Глядя на этот большой вопрос, мы можем примерно определить решения, которые продвигают игру вперёд — управление ресурсами, риск смерти и жажда наживы. Вот оно всё, перед нами как на ладони.
+
+Большой вопрос подавляющего большинства современных НРИ можно
+
+сформулировать примерно следующим образом: «Достаточно ли моих способностей создать персонажа и манипулировать механиками игры, чтобы преодолеть эти препятствия?» Примерно так и играются многие игры — первые два фактора в различных соотношениях противопоставляются череде препятствий, чтобы испытать навык игрока и его способность их преодолеть.
+
+(К слову, я понимаю, что большинство игр не вертятся только вокруг этого.
+
+Я не пытаюсь охватить все их стороны, только основное направление).
+
+И поскольку очень многие элементы Fate выглядят схоже с теми, другими системами, многие предполагают, что у Fate такой же большой вопрос.
+
+Но это не так. Fate Core не позволяет игрокам оптимизировать персонажей настолько, чтобы это было увлекательным занятием. Создавать персонажей?
+
+Да, конечно. Оптимизировать? Уже нет. Если вы хотя бы на базовом уровне разбираетесь в системе, очень сложно будет создать крайне некомпетентного или же, наоборот, исключительно компетентного персонажа (забавно, что хуже всего оптимизация Fate показывает себя с узко специализированными персонажами, что считается лучшим подходом к оптимизации во многих НРИ).
+
+Кроме того, механики Fate Core не то чтобы допускают углублённого копания в способах их применения. Тут, опять же, есть базовые принципы, но после того, как вы освоились в создании преимуществ, механиках стресса/последствий и том, как удачно противопоставлять свои навыки вражеским, вам в принципе больше ничего не требуется.
+
+Поэтому это не может быть большим вопросом Fate. Но что тогда?
+
+В последнее время я часто говорю, что в Fate персонаж может добиться чего угодно, но не может сделать всего.
+
+Конечно, это преувеличение. Есть вещи, которые персонаж просто не сможет осуществить в реалиях конкретного сеттинга. Однако я не это имею в виду.
+
+Здесь я подразумеваю тот факт, что при наличии достаточного количества жетонов судьбы и желании принять достаточно последствий персонаж сможет добиться почти любой осмысленной цели. Если персонаж пытается пробраться в замок, он это сделает. Это практически неизбежно. Герой может добиться чего угодно. Однако тем самым он исчерпает вышеназванные ресурсы. У него кончатся жетоны судьбы и место под последствия. А затем его судьба будет предоставлена на откуп кубикам — именно поэтому и нельзя сделать всего.
+
+И это приводит меня к большому вопросу _Fate_. Этот вопрос крайне прост: «Насколько сильно вы этого хотите?» Или, учитывая, что стоимость формируется и играет роль только в зависимости от конкретных условий, «Что из этого вы хотите больше?»
+
+Для меня это — большой вопрос _Fate_. Подобно тому, как каждая схватка в «типичной» НРИ должна подводить игроков и их персонажей к испытанию характеристик их персонажа/тактических навыков, так и каждая сцена в _Fate_ должна подталкивать их к принятию этих сложных решений. Решений о том, какие из нужных им вещёй им удастся получить, а какие — нет.
+
+Вот почему в _Fate_ важны провалы — если их избегать, игра сведётся к тому, что вы будете получать всё, что захотите, без всяких сложных решений. Вот  почему мы выстраиваем сюжеты вокруг аспектов персонажей — иначе для игроков/персонажей, вероятно, не будут настолько важны вещи, ради которых им придётся принимать решения. Вот почему мы позволяем персонажам быть проактивными — чтобы убедиться, что им доведётся принимать эти решения, что игроки сами будут делать принятие решений сложным, сообщая ведущему, что им нужно, что для них важно и во что они вовлечены.
+
+Поэтому ведущему _Fate_ не стоит задумываться, «как делать эту схватку механически интересной» (по крайней мере, не в первую очередь — хотя это интересный вторичный вопрос). Вопрос должен звучать: «Какую цену мне запросить за то, чтобы здесь они добились своего?» По сути это упражнение в оценке, и цена должна быть высокой. Всякий раз, когда они будут что-то приобретать, этому должны сопутствовать болезненные осознания того, что им придётся расстаться с чем-то важным или понести неизбежные жертвы.
+
+### Тут спойлер.
+
+Хотите хороший пример? Гарри Дрезден. Он много лет отказывался заключать сделки со злодеями, пока его ведущий (Джим Бутчер) не заставил его сделать выбор между жизнью его дочери и сделкой с одним из злодеев.
+
+Ему пришлось принять это тяжёлое решение. Это отличная драма. Это отличный игровой процесс. Вот в чём суть _Fate_.
+
+Поэтому суйте эту цену игрокам прямо в лицо. Поймите, что нужно вашим игрокам, и пусть они за это заплатят. Пусть они смотрят на вас взглядами «ну ты и урод» при каждом навязывании или принятии поражения. Пусть их приоритеты загоняют их всё глубже и глубже в болото.
+
+Они будут вам за это благодарны.
+
+## Вопросы и решения
+
+Статья касается НРИ в целом, но её идеи очень применимы к Fate Core. Не так давно я прочитал Save The Cat! Эта книга раскрыла мне глаза на многие элементы структуры сценариев и подтолкнула идти в некоторых направлениях, которых я придерживался до её прочтения.
+
+Есть две вещи, критически важные для каждой НРИ: вопросы и решения.
+
+Каждая сессия НРИ должна отвечать на какой-то вопрос. Это двигает игру вперёд и приковывает интерес игроков. Это работает ровно как с книгами, фильмами, и т. д. Мы смотрим Звёздные войны , потому что хотим узнать: «Сможет ли Люк уничтожить Звезду Смерти?»
+
+Это был вопрос масштаба кампании. Но есть и другие вопросы — «Найдёт ли Люк R2?», «Смогут ли они найти пилота?», «Удастся ли им отключить притягивающий луч?» Всё это — интересные вопросы.
+
+Поэтому, начиная кампанию, спросите себя, в чём состоит её вопрос (или вопросы). Огромный, всеобъемлющий вопрос — неплохо, но ещё нужно чтото сиюминутное, достижимое и относящееся к нынешней ситуации. «Сможет ли Люк победить Галактическую Империю?» — интересный, но  крайне масштабный вопрос. «Сможет ли он покинуть Татуин до того, как до него доберутся штурмовики?» — достижимый и локально значимый вопрос.
+
+Также вам надо убедиться, что игроков интересуют эти вопросы. Поэтому подумайте, что им дорого — обычно это то, во что они вложили эмоции или  усилия. В Fate это в первую очередь их персонажи, но это также могут быть элементы сеттинга, в которые игроки внесли вклад. Быть может, вы лелеете грандиозные замыслы развязать войну между двумя фракциями, но игроки (по  крайней мере, поначалу) на самом деле плевать хотели на ваши фракции.
+
+Вы — нет, потому что вы их создали, а значит, в них вложились.
+
+Возьмём ещё меньший масштаб — на вопросы также должно отвечать большинство сцен. Разумеется, есть сцены чисто для экспозиции или развития персонажей, но в хорошей драматической сцене обязательно должен быть вопрос, на который она ответит. Если вы не можете его сформулировать, возможно, сцену лучше пропустить и же дать игрокам информацию, нужную для перехода к сцене, которая всё-таки содержит ответ на важный вопрос.
+
+Другая часть этого уравнения — решения. Вопросы задают сцену и создают драму. Однако ответами на них служат решения игроков.
+
+Всякий раз, когда вы смотрите на сценарий, подумайте, какие решения принимают игроки. Если они просто проходят из точки А в точку Б, преодолевая препятствия одно за другим, они вряд ли принимают весомые решения или участвуют в поиске ответа на важные вопросы. В некоторых играх уместно, но этот подход противоречит виду сюжетов, где Fate показывает себя лучше всего.
+
+Мы часто думаем о том, как добавить новые механики, схватки, что-то подправить, организовать сценарии. Это круто. Но мой опыт говорит, что лучше делать это с мыслью: «Какие решения это позволит принимать игрокам?» У вас есть город, объятый внутренними политическими распрями? Класс!
+
+Одни из них — определённо хорошие ребята, другие — несомненно, злодеи.
+
+Поздравляю, вы только что лишили игроков возможности принять решения, положившись на то, что они (хотелось бы верить!) примкнут к добрячкам. Вместо этого попробуйте охарактеризовать две фракции так, что каждая из  них будет сулить городу будущее, которое нельзя назвать просто «хорошим» или «плохим» — или, ещё лучше, привяжите фракции к аспектам персонажей, особенно если вам удастся найти противоречащие друг другу!
+
+То же касается и игровых механик. У вас есть какие-то новые интересные правила по броскам кубов, которые хочется опробовать? Здорово! Но какие решения из ранее недоступных это позволит принимать игрокам? Если игроки всё ещё принимают те же решения, что и раньше (или, что ещё хуже, стали принимать меньше различных, поскольку новые правила предложили им какой-то оптимальный подход), вам стоит ещё раз подумать над этой механикой.
+
+Обратите внимание: если решения игроков являются основополагающим источником ответов к вопросам игры, вы не можете знать ответ раньше времени. Я умышленно избегаю планирования грядущих событий — вплоть до того, что представляю, насколько круто что-то может пойти и сразу же заставляю себя перестать об этом думать.
+
+**Вопросы и решения**. Убедитесь, что они есть, и вы в шоколаде.
+
+## В защиту «злодея недели»
+
+Эта мысль давно не даёт мне покоя. Она не столько о системе, сколько о практическом подходе к ведению сессий. Неожиданно, да? Ну ладно. («Злодей недели» не обязательно подразумевает наличие злодея, речь о любых эпизодах на одну сессию, не связанных с основной историей.)
+
+Сериалы формата «злодей недели» имеют дурную славу, то же самое можно сказать и об игровых сессиях. Кажется, что это «филлерный» контент, не требующий особых творческих усилий и оторванный от истории. Конечно, эти сессии могут быть такими, но их можно сделать и намного большим.
+
+Сессии типа «злодей недели» — отличные лакмусовые бумажки. С их помощью можно подбрасывать игрокам сюжетные элементы и определять, что им нравится, а что нет. Если что-то пришлось по душе, то это (или нечто похожее) можно будет вернуть в игру позже. А если не зашло, благодаря формату об этом будет проще забыть — в отличие, например, от момента, когда никому не понравился персонаж ведущего, тесно связанный с глобальным сюжетом.
+
+Это особенно хорошо в начале кампании — «злодей недели» помогает найти атмосферу игры и определить, на что и как реагирует вся группа. Так легче понять, с какими элементами игроки хотят иметь дело, после чего начать вводить их в глобальную картину вещёй. Всё это — аргументы «за».
+
+Однако о таких «эпизодах» ходит обидное заблуждение: что они лишены значимости, потому что не имеют веса для общего сюжета. Но нет, они очень, очень значимы. Сессии «злодей недели» — не о злодее. Они о персонажах.
+
+Взглянем на первый сезон Баффи. Ведьма-мама болельщиц? Никакой связи с глобальным сюжетом. Злодей недели. Никакого смысла, да? Нет. Потому что серия не про ведьму. А о том, как Баффи мечтала о нормальной жизни, и почему ей это не светит. Учитель-богомол? Никакого смысла, да? Нет. Это серия про Зандера, которому не везло в любви (и он был готов рискнуть на безрыбье).
+
+Банда гиен? Двух зайцев одним махом: эта серия о том, как Зандер хотел прижиться в коллективе, но в первую очередь — о том, насколько он важен для Уиллоу. Компьютерный демон? И снова две темы — невезучесть Уиллоу в любви и любовь Джайлза к книгам/неприязнь к технике.
+
+Смысл этих эпизодов не в продвижении сюжета, а в характеризации и развитии участвующих в них персонажей. И в этом ключ.
+
+Так что если вы решили провести «злодея недели», здорово! Но сделайте это правильно. Пусть сессия будет о персонажах. Не начинайте с выбора злодея. Начните с аспектов персонажей, после чего создайте злодея, который будет подчёркивать этот аспект, укажет на слабость персонажа или толкнёт его к разрешению какого-то конфликта.
+
+## Аспекты, экономия информации и ружьё Чехова
+
+Нет, я не про персонажа из _Звёздного пути._
+
+Ладно, я думаю, большинство в курсе, что такое ружьё Чехова: «Если в первом акте на стене висит ружьё, то в последнем оно должно выстрелить».
+
+По сути это значит «не загружайте аудиторию лишними деталями». Этот подход призывает фокусироваться только на важном и удалять всё остальное.
+
+Его особенно часто используют в пьесах, но также в телешоу, фильмах, книгах, пусть и в меньшей степени. Они часто пытаются убедить в реалистичность происходящего. Поэтому там вполне может быть ружьё, из которого никто не выстрелит, или тень, из которой ничего не выскочит.
+
+Однако камера не будет фокусироваться на таких вещах. Поэтому ружьё Чехова остаётся уместным в _Fate_ : аспект — что-то, на чём фокусируется камера при описании сцены. Иначе говоря, есть разница между сценой в тени и  сценой в тени. Сцена в тени может быть плохо освещённым баром — однако освещёние здесь играет лишь фоновую роль. Оно никак не влияет на сюжет и на действия персонажей. Полумрак лишь задаёт атмосферу.
+
+А сцена в тени — совсем другое дело. Когда место в тени, то из этих теней может кто-нибудь выпрыгнуть, или же кто-то может в них раствориться.
+
+И примерно так себя ведут аспекты. Это элементы, которые мы обозначаем для игроков как важные. Мы не пытаемся охватить все детали или учитывать каждую мелочь. Например, разница в росте/массе не играет такой большой роли, если только мы не говорим о поединках уровня Брюс Ли против Карима Абдула-Джаббара. Да, у кого-то может быть больше досягаемость, кто-то может быть быстрее, туда-сюда, но это всё — несущественные факторы.
+
+В _Fate_ же нас волнуют факторы существенные. Нас интересуют элементы, которые могут определить исход и развитие сцен. Мелкие эффекты неинтересны правилам _Fate_ , пусть они и могут совокупно подкрепить значимость существенного — однако _Fate_ предполагает, что большую часть времени, как в телешоу или фильме, это будут не играющие роли пустяки.
+
+Далее, поскольку у нас нет полного контроля над сюжетом, мы не можем полностью следовать принципам ружья Чехова. Но важно помнить, что каждый аспект должен представлять собой что-то, способное сыграть роль и переломить ход сцены. Вот почему вредно излишне «плодить» аспекты. Смысл аспектов — ограничить размышления игроков от ненужных вещёй, очертить круг, включающий важные элементы сцены. Если у вас в сцене участвует целый список из двадцати аспектов, то вы нарушили эту экономию информации и обесценили значимость вещёй, которые называете аспектами.
+
+## Недостающие правила в Fate
+
+В Fate «недостаёт» множества правил. Часто это правила-производные от  включённых в основную книгу; правила, которые могут отличаться в зависимости от конкретного сеттинга; правила, трактовка которых сильно варьируется от контекста; и правила, о которых можно без проблем условиться за столом с вменяемыми людьми.
+
+Рассмотрим извечный пример: «горящий персонаж». Правила во многих играх гласят: «Горящий персонаж получает сколько-то урона в ход».
+
+Это одна из допустимых трактовок. Fate позволяет такое посредством фрактала. (Правда, это обычно реализуется через действие атаки, а не автоматический урон. Сойдёт.)
+
+Однако то, что персонаж «горит», может значить многое — герой может быть полностью объят пламенем, либо же у него занялся огнём рукав. Уместен ли здесь единственный ответ? Одна механика? Если нет, сколько механик нам нужно, чтобы охватить все варианты? Мы адресуем только механические, физические эффекты? А как же инстинктивный ужас, охватывающий горящего?
+
+Ну правда, думаете, если меня поджечь, я буду вести себя рационально?!
+
+И это только оглядываясь на один жанр. Одна и та же ситуация (например, когда у персонажа горит одежда) может быть совершенно по-разному обыграна в разных жанрах — например, звезда боевика просто задует огонь, в то время как жертва в фильме ужасов напрочь потеряет голову.
+
+Основная модель Fate Core (определитесь с тем, чего хотите добиться, затем примените нужные правила) отлично регулирует эти жанровые различия.
+
+У такого подхода, впрочем, есть недостатки. Отсутствие конкретных механик означает, что за столом появляются поводы для обсуждения и разногласий.
+
+Если вы не можете прийти к согласию без апелляции к авторитету, то Fate вряд ли вам подойдёт. Если каждое субъективное суждение будет приводить к часовым разборкам с метанием костей друг в друга, Fate вам точно не подойдёт.
+
+Лично я предпочитаю играть с людьми, которые умеют находить компромиссы, уважают личные суждения друг друга и не ссорятся по любой мелочи.
+
+Поэтому такая слабость системы — в какой-то мере её преимущество, поскольку с её помощью можно легко выявлять людей, с которыми мне так или иначе не понравилось бы играть в НРИ в долгосрочной перспективе.
+
+## Размышления о создании персонажей
+
+Я много раз создавать персонажей, в том числе поскольку я не пренебрегал этим даже для приключений длиной в одну сессию. После такого опыта игроки обычно интересуются системой и вливаются в неё в дальнейшем.
+
+Многократно пройдя через процесс создания персонажей, я заметил, что некоторые его этапы происходят быстро, тогда как другие требуют времени.
+
+А  ещё я понял, что некоторые важны, а другие — не настолько. И, что хуже всего, наименее важные этапы чаще всего занимают больше всего времени.
+
+Исходя из всего этого опыта я привык исключать фазу «Первое приключение», заменяя её на более общее «Ваш первый эпизод в фокусе». Практика показала, что это помогает игрокам придумывать истории (антагонистов и  т.  д.), а не выжимки их первых приключений. Вдобавок, это позволяет мне составить впечатление, что в глазах конкретного игрока является эпизодом/ короткой аркой. Обычно у меня нет проблем с этим этапом, кроме случаев, когда не выходит раскрыть, что могло случиться «до начала шоу».
+
+К счастью, это окупается тем, что я возвращаю в процесс фазы «Ранняя жизнь» и «Поворотный момент». Мне кажется, первым это предложил Райан Маклин, и по мне это — отличная идея. Разумеется, это работает только в том случае, если вы отвяжете создание аспектов от фаз, поэтому вам придётся на это пойти. К счастью, одним из тех самых малопродуктивных и затратных по времени элементов я вижу как раз выбор аспектов в процессе создания персонажей. На этом моменте игрок обычно только «прощупывает почву» персонажа, а потому я всегда даю отмашку на масштабные пересмотры всех своих аспектов после первой сессии. И, раз уж я в любом случае так поступаю, почему бы в принципе просто не создавать аспекты на ходу, как в FAE?
+
+Так же дела обстоят и с трюками. Трюки с самого начала показали себя самым малопродуктивным шагом создания персонажей, поэтому я перешёл к созданию трюков на ходу в стиле FAE. Конечно, если у игроков есть чёткое понимание того, какие трюки они хотят на старте, то пусть действуют.
+
+Также я обычно прошу игроков заполнить только три верхних навыка, хотя чаще всего я вижу, что они заполняют всю пирамиду сразу.
+
+С точки зрения последовательности это обычно выглядит так:
+
+- По очереди определить концепции
+
+- По очереди определить проблемы
+
+- По очереди пройти фазу ранней жизни/поворотного момента, если актуально - По очереди пройти первый эпизод в фокусе
+
+- По очереди пройти фазу “Пути пересекаются”
+
+- По очереди пройти фазу “Пути пересекаются снова”
+
+- Дать всем время записать аспекты, если хотят, и получить вклад от других - Каждый записывает свои три сильнейших навыка и трюки, если актуально
+
+## Атрибуция
+
+КИРИЛЛ RIDDLE ПОЛИВКО: Перевод книги Ганца
+
+ТАМАРА ПЕРСИКОВА: Редактура • Вёрстка
+
+ЛЮБОВЬ «NORA» БЕРДЮГИНА: Корректура
+
+РОБЕРТ ХАНЦ: Автор
+
+ТОМАЗИЙ ПАДЕЛИЕНСИС: Сборка
+
+РЕКС ФРАНСИС: Форматирование
+
+© 2013 Evil Hat Productions, LLC. © ИП Персикова Тамара Эдуардовна Все права защищены.
+
+Перевод Книги Ханца доступен по лицензии Creative Commons AttributionShareAlike 3.0 Unported license (https://creativecommons.org/licenses/by-sa/3.0/).
+
+This work is based on Fate Core System and Fate Accelerated Edition (found at [http://](http://) [http://www.faterpg.com/),](http://www.faterpg.com/),) products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license (http:// creativecommons.org/licenses/by/3.0/).
+

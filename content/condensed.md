@@ -3,497 +3,524 @@ title: 'Condensed'
 breadcrumbs: false
 ---
 
-## Introduction
-
-This is *Fate Condensed*, a version of *Fate Core System* in as compact
-a form as we can manage. It is a complete roleplaying game; while other
-books might enhance your use of it, you don't need any other book to
-play.
-
-On that note, let's get into what you \_do\_ need!
-
-### What Do I Need to Play?
-
-To play *Fate Condensed* you'll need two to six friends with one acting
-as Game Master (GM), some dice, some tokens, writing implements, paper,
-and something to write short notes on (*e.g.,* small "sticky notes").
-
-*Fate Condensed* uses **Fate Dice™** when characters take action. Fate
-dice are six-sided dice with two \[0\] sides, two \[+\] sides, and two
-\[-\] sides. One set of four dice will work fine, but one set per player
-is ideal. Other alternatives exist, such as using standard six-sided
-dice (1-2 = \[-\], 3-4 = \[0\], 5-6 = \[+\]), or the **Deck of Fate**,
-which uses cards instead of dice. We use the word "roll" throughout the
-text for simplicity.
-
-#### For Veterans: Changes From Fate Core
-
-Condensing the gist of a system from nearly 300 pages down to about 50
-pages of text does lead to a few changes. As of this writing it has also
-been eight years since *Fate Core System* was created, so a little
-iteration of the design is to be expected. In particular, we highlight
-the following:
-
-- We've shifted over to one-point stress boxes to help reduce confusion
-  (**page XX**).
-- "Balsera Style" initiative (also known as "elective action order" or
-  "popcorn initiative") is the default rather than using skills to
-  determine turn order (**page XX**).
-- Advancement functions a little differently; we've eliminated
-  significant milestones and finessed major milestones to compensate
-  (**page XX**).
-- We've removed the notion of active opposition as separate from the
-  defend action (**page XX**). This has a few minor ripple effects,
-  particularly overcome's tie result (**page XX**).
-- Create an Advantage has been tweaked to offer better clarity and
-  agency around the discovery of existing unknown aspects (**page XX**).
-- Full defense is presented as optional and has been altered a bit to
-  accommodate the expanded scope of the defend action (**page XX**).
-  Other standard rules options are presented as well, starting on **page
-  XX**.
-
-## Getting Started
-
-### Define Your Setting
-
-Any game of Fate starts with defining your setting. This might be a
-concept your GM is bringing to the table, a popular media property the
-players are familiar with, or a collaborative world-building exercise
-involving everyone at the table. The setting discussion may be quick and
-light on detail, or may involve a detailed full session with the whole
-group, or anything in between.
-
-Your choice of setting forms the basis of the table's consensus about
-what is true, and what is acceptable in play and in character concepts.
-If your setting doesn't have flying people in it, then a player deciding
-to make a flying-person character doesn't pass muster. If your world
-involves shadowy organizations and deep conspiracies, players may expect
-story-lines free of clear-cut good-and-evil conflicts and devoid of
-farcical murder-clowns. It's up to you!
-
-### Create Your Characters
-
-#### Who Are You? {#who-are-you-}
-
-Once you've decided on a setting, it's time for the players to
-[]{#_idTextAnchor000}make characters---also called PCs. Each player
-takes on the role of one of the heroes of your story, controlling all
-their actions. You get to build the character you want to see in the
-world. Keep in mind that Fate characters are competent, dramatic, and
-willing to engage with the adventures ahead.
-
-Your PC is made up of several elements:
-
-- **Aspects:** phrases describing who your hero is
-- **Skills:** your hero's areas of relative expertise
-- **Stunts:** remarkable things your hero does
-- **Stress:** your hero's ability to keep calm and carry on
-- **Consequences:** the wounds, physical and mental, your hero can
-  endure
-- **Refresh:** a measure of your hero's narrative agency
-- **Finishing Touches:** your hero's personal details
-
-#### Aspects
-
-**Aspects** are short phrases that describe who your character is or
-what is important to them. They can relate to your character's physical
-or mental qualities, history, beliefs, training, relationships, or even
-particularly important equipment.
-
-The first thing to know about them is: **Aspects are true** (see **page
-XX** for a discussion of this). In other words, how you define your
-character is real and true in the story you're telling. If you write
-down that your character is a **Precog Sniper**, then they *are* a
-precog sniper. You've told everyone that your character sees the future
-and is a crack shot with a rifle.
-
-You'll also use aspects in play to change the story. They give you
-permission to improve your dice rolls and establish facts about the
-world. Lastly, aspects can earn you **fate points** if they create
-complications for your character---so to make the most versatile
-aspects, you should aim for ones that are double-edged, working both for
-you and against you.
-
-To learn more about aspects and what makes a good one, consider reading
-some of *Aspects and Fate Points* (**page XX**).
-
-**To begin, you'll give your character five aspects**: a high concept, a
-trouble, a relationship, and two free aspects. Start with the high
-concept and go from there.
-
-##### High Concept
-
-Your **high concept** is a broad description of the character, covering
-the vital bits. It's how you would open your pitch for the character
-when telling a friend about them.
-
-##### Trouble
-
-Next is your character's **trouble**---something that makes your
-character's life more complicated. It could be a personal weakness,
-family entanglements, or other obligations. Pick something you'll enjoy
-roleplaying!
-
-##### Relationship
-
-Your **relationship** describes a connection with another PC. They may
-already know one another, or have just met.
-
-Good relationship aspects should introduce or hint at conflict, or at
-least an imbalance that gives the relationship a little momentum. This
-doesn't mean they are openly antagonistic, but they shouldn't be all
-roses either.
-
-If you wish, you can wait to write down relationship aspects until
-everyone has more or less completed their characters.
-
-##### Free Aspects
-
-You can make your character's last two aspects anything you want---there
-are no restrictions beyond the obligation to fit the setting. Choose
-anything which you think will make your character more interesting, more
-fun to play, or better connected to the world they occupy.
-
-#### Skills
-
-While aspects define who your character is, **skills** show what they
-can do. Each skill describes a broad activity your character might have
-learned through study and practice or simply have an innate talent for.
-A character with Burglary is capable, to some degree, at all manner of
-crime relating to the fine art of burgling---casing a joint, bypassing
-security, pick-pocketing, and lock-picking.
-
-Each skill has a **rating**. The higher the rating, the better the
-character is at the skill. As a whole, your character's skills will show
-you what actions they are built for, which ones they'll get by on, and
-which aren't their forte.
-
-You'll choose your character's skill ratings, arranged in a pyramid with
-the highest-rated skill at Great (+4), as follows:
-
-- One Great (+4) skill
-- Two Good (+3) skills
-- Three Fair (+2) skills
-- Four Average (+1) skills
-- All other skills at Mediocre (+0)
-
-##### The Adjective Ladder
-
-In *Fate Condensed*, and Fate in general, all ratings are organized into
-a ladder of adjectives, shown here.
-
-  -------- --------------
-  Rating   Adjective
-  +8       Legendary
-  +7       Epic
-  +6       Fantastic
-  +5       Superb
-  +4       Great
-  +3       Good
-  +2       Fair
-  +1       Average
-  +0       Mediocre
-  -1       Poor
-  -2       Terrible
-  -3       Catastrophic
-  -4       Horrifying
-  -------- --------------
-
-##### Skill List
-
-Descriptions for these skills are found below.
-
-- **Academics**
-- **Athletics**
-- **Burglary**
-- **Contacts**
-- **Crafts**
-- **Deceive**
-- **Drive**
-- **Empathy**
-- **Fight**
-- **Investigate**
-- **Lore**
-- **Notice**
-- **Physique**
-- **Provoke**
-- **Rapport**
-- **Resources**
-- **Shoot**
-- **Stealth**
-- **Will**
-
-**Academics:** Mundane, everyday human knowledge and education,
-including history, sciences, and medicine. Academics stunts often refer
-to specialized areas of knowledge and medical skills.
-
-**Athletics:** A measurement of physical potential. Athletics stunts
-focus on movement---running, jumping, parkour---and dodging attacks.
-
-**Burglary:** Knowledge of and ability to bypass security systems, pick
-pockets, and generally commit crimes. Burglary stunts give bonuses to
-the various stages of committing a crime, from the planning to the
-execution and escape.
-
-**Contacts:** Knowledge of the right people and connections that can
-help you. Contacts stunts give you ready allies and an information
-network wherever you go in the world.
-
-**Crafts:** Ability to make or break machinery, build contraptions, and
-pull off MacGyver-esque feats of ingenuity. Crafts stunts let you have
-the gizmo on hand, give bonuses to building and breaking things, and
-provide justification for using Crafts in place of skills like Burglary
-or Academics under certain circumstances.
-
-**Deceive:** Ability to lie and cheat convincingly and with aplomb.
-Deceive stunts might improve your ability to tell a particular breed of
-lie or help invent false identities.
-
-**Drive:** Controlling vehicles under the most grueling circumstances,
-pulling wicked maneuvers, and simply getting the most out of your ride.
-Drive stunts can be signature maneuvers, a special vehicle of your own,
-or the ability to use Drive in place of a skill like Burglary or
-Academics under certain circumstances.
-
-**Empathy:** Ability to accurately judge someone's mood and intentions.
-Empathy stunts can be about judging a crowd, picking up on lies, or
-helping others recover from mental consequences.
-
-**Fight:** Ability to excel at hand-to-hand combat, whether with weapons
-or fists. Fight stunts include signature weapons and special techniques.
-
-**Investigate:** Deliberate, careful study and puzzling out mysteries.
-Use this to piece together clues or reconstruct a crime scene.
-Investigate stunts help you form brilliant deductions or piece together
-information more quickly.
-
-**Lore:** Specialized, arcane knowledge that falls outside of the scope
-of Academics, including supernatural topics of one sort or another. This
-is where the weird stuff happens. Lore stunts often support practical
-applications of your arcane knowledge, such as casting spells. Some
-settings may remove Lore, replace it with a different skill, or combine
-it with Academics.
-
-**Notice:** Ability to pick up details in the moment, spot trouble
-before it happens, and generally be perceptive. It contrasts
-Investigate, which is for slow, deliberate observation. Notice stunts
-sharpen your senses, improve your reaction time, or make you harder to
-sneak up on.
-
-**Physique:** Raw power and durability. Physique stunts let you perform
-superhuman feats of strength, throw your weight around while wrestling,
-and shrug off physical consequences. In addition, a high Physique rating
-gives you more physical stress or consequence slots (**page XX**).
-
-**Provoke:** Ability to push people to act the way you want them to.
-It's coarse and manipulative, not a positive interaction. Provoke stunts
-let you push opponents into foolhardy action, draw aggression toward
-you, or scare enemies (assuming they can feel fear).
-
-**Rapport:** Building connections with others and working together.
-Where Provoke is manipulation, Rapport is sincerity, trust, and
-goodwill. Rapport stunts let you sway the crowd, improve relationships,
-or build contacts.
-
-**Resources:** Access to material things, not just money or direct
-ownership. It might reflect your ability to borrow from friends or dip
-into an organization's armory. Resources stunts let you use Resources in
-place of Rapport or Contacts or give you extra free invokes when you pay
-for the best.
-
-**Shoot:** All forms of ranged combat, whether guns, throwing knives, or
-bow and arrow. Shoot stunts let you make called shots, quick-draw, or
-always have a gun handy.
-
-**Stealth:** Staying unseen or unheard and escaping when you need to
-hide. Stealth stunts let you vanish in plain sight, blend into crowds,
-or advance through shadows unseen.
-
-**Will:** Mental fortitude, the ability to overcome temptation and to
-withstand trauma. Will stunts let you ignore mental consequences,
-withstand the mental agony of strange powers, and hold steady against
-enemies who provoke you. In addition, a high Will rating gives you more
-mental stress or consequence slots (**page XX**).
-
-##### Alternative Skill Lists
-
-When building your own implementation of Fate, the first thing to think
-about is whether or not you'll keep the same skill list. Often you can
-work with the one given, combining, changing, or splitting apart a few
-of the skills given. But it's possible that the granularity of the
-default example skill list we've given above isn't to your liking. Here
-are some things to think about.
-
-- The default skill list has 19 skills in it, and players rate their
-  characters above the Mediocre (+0) default in 10 of them. If you
-  change the number of skills, you may want to change how the ratings
-  are allocated.
-- Our default skills are focused on answering the question "what can you
-  do?"---but your list doesn't need to follow in line with that. You
-  might want a list focused on "What do you believe?", the question "How
-  do you do things?" (as with approaches in *Fate Accelerated*),
-  job-roles in a crew of grifters and thieves, and so on.
-- Skill ratings in Fate are structured to support character niches.
-  That's why, in the default, players start with a "pyramid" shape. Make
-  sure niche protection is possible in whatever new list you create.
-- The best starting skill should come in around Great (+4). You can
-  alter this up or down as you see fit, but make sure to keep an eye on
-  what that means for the difficulty and opposing skill ratings your PCs
-  will face.
-
-Fred decides he wants to do a space-faring Fate game with a shorter
-skill list that's focused on action-words. He settles on this 9-item
-skill list: Fight, Know, Move, Notice, Pilot, Sneak, Speak, Tinker, and
-Will. He also likes the idea of a "diamond" shape for skill ratings
-rather than a pyramid, so he has players rate their starting skills as
-follows: 1 at Great (+4), 2 at Good (+3), 3 at Fair (+2), 2 at Average
-(+1), and 1 at Mediocre (+0). His PCs will have a lot of overlap and
-core competencies due to the fat middle of his diamond, while still
-enjoying some niche protections at the top of the diamond's "point."
-
-If you're considering making your own skill list for your game and are
-looking for some ideas to kick-start your imagination, see **page XX.**
-
-#### Refresh
-
-Your **refresh** is the minimum number of **fate points** (**page XX**)
-your character begins with at the start of each session. Your character
-begins with a refresh of 3.
-
-Each session, you start with fate points at least equal to your refresh.
-Be sure to keep track of the fate points you have left at the end of
-each session of play---if you have more fate points than your refresh,
-you'll start the next session with the fate points you ended this
-session with.
-
-Charles earned a lot of fate points during today's session, ending it
-with 5 fate points. His refresh is 2, so Charles will start the next
-session with 5 fate points. But Ethan ends the same session with just
-one fate point. His refresh is 3, so he'll begin the next session with 3
-fate points, not just the one he had left over.
-
-#### Stunts
-
-While every character has access to all the skills---even if they are
-Mediocre (+0) at most of them---your character has some unique
-**stunts**. Stunts are the cool techniques, tricks, or bits of equipment
-that make your character unique and interesting. Where skills are about
-a character's broad competencies, stunts are about specific areas of
-excellence; most of them give you a bonus in particular circumstances or
-let you do something that other characters simply can't.
-
-Your character begins with three free stunt slots. You don't have to
-define them all right away, and may fill them in as you play. You may
-purchase more stunts by spending 1 refresh each, to a minimum of 1
-refresh.
-
-##### Writing Stunts
-
-You write your own stunts when building a character. Broadly, there are
-two types of stunts.
-
-**Bonus-granting stunts:** The first type of stunt **gives you a +2
-bonus** when you use a named skill within certain parameters, usually
-limited to a specific type of action (**page XX**) and type of narrative
-circumstance.
-
-Write this type of stunt as follows:
-
-Because I **\[describe how you are amazing or have a cool bit of
-gear\]**, I get a +2 when I use **\[pick a skill\]** to **\[pick one:
-overcome, create an advantage, attack, defend\]** when **\[describe a
-circumstance\]**.
-
-**Example Bonus-Granting Stunt:** Because I am **a military-trained
-sniper**, I get a +2 when I use **Shoot** to **attack** when **I have a
-target** **In My Sights**.
-
-**Rule-changing stunts:** The second type of stunt **changes the rules
-of the game**. This is a broad category that includes, but is not
-limited to, the following:
-
-- **Swapping which skills are used in a given situation.** For instance,
-  a researcher might use Academics to perform a ritual, while anyone
-  else would use Lore.
-- **Using an action with a skill that isn't normally used with it.** For
-  instance, allowing a character to use Stealth to backstab an opponent
-  from the shadows (which would typically be a use of Fight).
-- **Giving a character a different kind of bonus to skills that's
-  roughly equivalent to a +2.** For instance, when a skilled orator
-  creates an advantage with Rapport, it gets an extra free invoke.
-- **Allowing a character to declare a minor fact is always true.** For
-  instance, a survivalist always has survival items like matches on
-  their person, even under unlikely circumstances.
-- **Allowing a character to make a specific rules exception.** For
-  instance, a character might have two more stress boxes or another mild
-  consequence slot.
-
-Write this type of stunt as follows:
-
-Because I **\[describe how you are amazing or have a cool bit of
-gear\]**, I can **\[describe your amazing feat\]**, but only
-**\[describe a circumstance or limitation\]**.
-
-**Example Rule-Changing Stunt:** Because I **don't believe in magic**, I
-can **ignore the effects of a supernatural ability**, but only **once
-per game session**.
-
-#### Stress and Consequences
-
-**[]{#_idTextAnchor002}Stress** and **consequences** are how your
-character withstands the mental and physical toll of their adventures.
-Characters have at least three one-point boxes for physical stress and
-at least three one-point boxes for mental stress. They also get one slot
-each for mild, moderate, and severe consequences.
-
-Your rating in Physique affects how many total physical stress boxes you
-have. Will does the same for your mental stress. Refer to the following
-table:
-
-  --------------------------- -----------------------------------------------------------------------------------------------------------------
-  Physique/Will               Physical/Mental Stress
-  Mediocre (+0)               **\[1\]\[1\]\[1\]**
-  Average (+1) or Fair (+2)   **\[1\]\[1\]\[1\] \[1\]**
-  Good (+3) or Great (+4)     **\[1\]\[1\]\[1\] \[1\]\[1\]\[1\]**
-  Superb (+5) and higher      **\[1\]\[1\]\[1\] \[1\]\[1\]\[1\]** and a second mild consequence slot specifically for physical or mental hits
-  --------------------------- -----------------------------------------------------------------------------------------------------------------
-
-You'll learn how stress and consequences work during play in *"Taking
-Harm"* (**page XX**).
-
-##### Hang on, that's not what I remember! {#hang-on-that-s-not-what-i-remember-}
-
-In *Fate Condensed*, we're using only one-point stress boxes. *Fate Core
-System* and *Fate Accelerated* both use a series of escalating-value
-boxes (one 1-point box, one 2-point box, etc). You can use that style of
-stress box if you like; for this version we decided to stick with
-one-point boxes because it's simple---with the other method, folks can
-get confused just a little more easily.
-
-There are a few other angles on this style that you'll want to keep in
-mind.
-
-- As you'll see on **page XX**, with 1-point boxes you may mark as many
-  of them as you want when you get hit (the escalating-value style of
-  Fate Core, meanwhile, has a "you can only mark one box per hit"
-  proviso).
-- This style goes with the Fate Core notion of separate Physical and
-  Mental stress tracks, instead of a single unified track as with Fate
-  Accelerated. If you're inclined towards a unified track, add three
-  more boxes to make up for it, and use the *higher* of Physique or Will
-  to lengthen it as indicated.
-- Three points of stress absorption on one track is not a lot! If
-  characters end up feeling a little fragile in play, you may want to
-  add one or two boxes to the default quantity. It's all about how fast
-  the consequences hit. (With the older style, a **\[1\]\[2\]** track
-  absorbs 2 to 3 stress, **\[1\]\[2\]\[3\]** = 3 to 6,
-  **\[1\]\[2\]\[3\]\[4\]** = 4 to 10.)
-
-#### Finishing Touches
-
-Give your character a name and description, and discuss their history
-with the other players. If you haven't written down a relationship
-aspect yet, do so now.
+## Вступление
+
+Это *Fate Condensed*, версия *Fate Core System* в настолько компактной форме, насколько нам удалось. Это полноценная ролевая игра; хотя другие книги могут улучшить ее использование, для игры вам не нужны никакие другие книги.
+
+На этой ноте перейдем к тому, что вам действительно нужно!
+
+### Что мне понадобится для игры?
+
+Для игры в **Fate Condensed** вам понадобится от двух до шести друзей,
+один из которых выступает в качестве Мастера (GM), несколько кубиков,
+несколько жетонов, письменные принадлежности, бумага и что-то для
+написания коротких заметок (например, маленькие "липкие записки" -
+стикеры).
+
+В **Fate Condensed** используются кубики **Fate** ™, когда персонажи
+совершают действия. Кубики судьбы — это шестигранные кубики с двумя
+**\[0**\] гранями, двумя **\[+\]** гранями и двумя **\[-\]**
+гранями. Один набор из четырех кубиков будет работать хорошо, но
+один набор на игрока - идеальный вариант. Существуют и другие
+альтернативы, например, использование стандартных шестигранных кубиков
+(1-2= **\[-\]**, 3-4= **\[0**\], 5-6= **\[+\]**) или **Колода Fate**, в
+которой вместо кубиков используются карты. Мы используем слово "бросок"
+на протяжении всего текста для простоты.
+
+#### Для ветеранов: отличия от Fate Core
+
+
+Сокращение сути системы с почти 300 страниц до менее чем 60 страниц
+текста приводит к некоторым изменениям. На момент написания этой статьи
+прошло уже восемь лет с момента создания **Fate Core System**, поэтому
+следует ожидать некоторой итерации дизайна. В частности, мы выделяем
+следующее:
+
+- Мы перешли на одноточечные стресс-ячейки, чтобы уменьшить путаницу
+  (стр. 12).
+- Балсеровская инициатива (также известная как "порядок
+  избирательных действий" или "инициатива попкорна") используется по
+  умолчанию вместо использования навыков для определения порядка хода
+  (стр. 31).
+- Вехи функционируют немного по-другому; мы исключили значительные
+  "Вехи" и усовершенствовали основные (как сдвиги), чтобы компенсировать
+  это (стр. 39).
+- Мы убрали понятие активного противодействия как отдельное от действия
+  защиты (стр. 21). Это имеет несколько незначительных последствий, в
+  частности, результат ничьей в преодолении (стр. 18).
+- Создание преимущества было изменено, чтобы обеспечить большую ясность
+  и самостоятельность в обнаружении существующих неизвестных аспектов
+  (стр. 19).
+- Полноценная оборона представлена как опциональное правило и была
+  немного изменена, чтобы соответствовать расширенной области действия
+  защиты (стр. 48). Другие варианты стандартных правил также
+  предоставлены, начиная со страницы 45.
+
+## Приступая к игре
+
+### Определите сеттинг
+
+Любая игра в Fate начинается с определения сеттинга. Это может быть
+концепция вашего Ведущего, популярное медиа, с которым знакомы игроки, или совместное
+построение мира, в котором участвуют все сидящие за столом. Обсуждение
+сеттинга может быть быстрым и не нагруженным деталями, или может
+включать в себя подробную полную сессию со всей группой, или что-то
+среднее.
+
+Ваш выбор сеттинга формирует основу консенсуса стола о том, что является
+правдой, а что приемлемо в игре и в концепциях персонажей. Если в вашем
+сеттинге нет летающих людей, то игрок, решивший создать персонажа с
+летающим человеком, не пройдет проверку. Если ваш мир включает в себя
+теневые организации и глубокие заговоры, игроки могут ожидать сюжетных
+линий, свободных от однозначных конфликтов добра и зла и лишены фарсовых
+клоунов-убийц. Все зависит от вас!
+
+### Создайте своих персонажей
+
+#### Кто вы?
+
+После того как вы определились с сеттингом, игрокам пора создавать
+персонажей - их также называют ПИ. Каждый игрок берет на себя роль
+одного из героев вашей истории, контролируя все их действия. Вы создаете
+персонажа, которого хотите видеть в этом мире. Помните, что персонажи
+Fate компетентны, драматичны и готовы участвовать в предстоящих
+приключениях.
+
+Ваш ПИ состоит из нескольких элементов:
+
+- **Аспекты**: фразы, описывающие, кем является ваш герой.
+
+- **Навыки**: области относительной компетентности вашего героя.
+
+- **Трюки**: удивительные вещи, которые делает ваш герой.
+
+- **Стресс**: способность вашего героя сохранять спокойствие и идти
+  дальше.
+
+- **Последствия**: раны, физические и душевные, которые может перенести
+  ваш герой.
+
+- **Обновление**: мера повествовательной способности вашего героя,
+  количество жетонов Судьбы в начале сессии
+
+- **Завершающие штрихи**: персональная детализация вашего героя.
+
+#### Аспекты
+
+**Аспекты** — это короткие фразы, которые описывают, кем является ваш
+персонаж или что для него важно. Они могут относиться к физическим или
+умственным качествам персонажа, его истории, убеждениям, обучению,
+отношениям или даже к особо важному снаряжению.
+
+Первое, что нужно знать о них, - **аспекты всегда правдивы** (обсуждение
+этого вопроса см. на стр. 22). Другими словами, то, как вы определяете
+своего персонажа, является реальным и истинным в истории, которую вы
+рассказываете. Если вы написали, что ваш персонаж -
+**Снайпер-Провидец**, значит, он и есть снайпер-провидец. Вы
+сказали всем, что ваш персонаж видит будущее и отлично стреляет из
+винтовки.
+
+Вы также будете использовать аспекты в игре, чтобы изменить сюжет. Они
+дают вам право улучшать броски кубиков и устанавливать факты о мире.
+Наконец, аспекты могут принести вам **Жетоны Судьбы**, если они создают
+сложности для вашего персонажа - поэтому, чтобы сделать аспекты наиболее
+универсальными, вы должны стремиться к тому, чтобы они были
+обоюдоострыми и работали как на вас, так и против вас.
+
+Чтобы узнать больше об аспектах и о том, что делает их хорошими,
+прочитайте раздел "*Аспекты и жетоны судьбы"* (стр. 22).
+
+**Для начала вы дадите своему персонажу пять аспектов:** концепцию,
+проблему, отношения и два свободных аспекта. Начните с концепции и
+двигайтесь от нее.
+
+##### Концепция
+
+Ваша **концепция** — это широкое описание персонажа, охватывающее самые
+важные моменты. Именно так вы бы открыли свою подачу персонажа,
+рассказывая о нем другу.
+
+##### Проблема
+
+Далее - **проблема** вашего персонажа - то, что усложняет его жизнь. Это
+может быть личная слабость, семейные неурядицы или другие
+обстоятельства. Выберите то, что вам понравится в ролевой игре!
+
+##### Отношения
+
+Ваши **отношения** описывают связь с другим персонажами. Они могут уже
+знать друг друга или только что встретиться.
+
+Хорошие аспекты отношений должны заводить или намекать на конфликт, или,
+по крайней мере, на дисбаланс, который придает отношениям небольшой
+импульс. Это не значит, что они открыто антагонистичны, но и не должны
+быть сплошной ванилью.
+
+Если вы хотите, вы можете подождать с записью аспектов отношений, пока
+все более или менее не завершат работу над своими персонажами.
+
+##### Свободные аспекты
+
+Вы можете сделать последние два аспекта своего персонажа любыми, какими
+захотите - нет никаких ограничений, кроме обязательства соответствовать
+сеттингу. Выбирайте все, что, по вашему мнению, сделает вашего персонажа
+интереснее, веселее в игре или лучше свяжет его с миром, в котором он
+живет.
+
+#### Навыки
+
+В то время как аспекты определяют, кем является ваш персонаж, **навыки**
+показывают, что он может делать. Каждый навык описывает широкий вид деятельности, которому персонаж мог научиться в процессе обучения и практики или просто иметь врожденный талант. Персонаж с навыком "Взлом" в той или иной степени способен на все виды преступлений, связанных с тонким искусством взлома - ограбление заведений, обход охраны, карманные
+кражи и взлом замков.
+
+Каждый навык имеет **рейтинг**. Чем выше рейтинг, тем лучше персонаж
+владеет этим навыком. В целом, навыки вашего персонажа покажут вам, для
+каких действий он создан, с какими справится, а какие не являются его сильной стороной.
+
+Вы выберете рейтинги навыков вашего персонажа, расположив их в пирамиде
+с наивысшим рейтингом навыка Отличный (+4), следующим образом:
+
+- Один Отличный (+4) навык
+- Два Хороших (+3) навыка
+- Три Неплохих (+2) навыка
+- Четыре Средних (+1) навыка
+- Все остальные навыки - Посредственные (+0)
+
+##### Лестница прилагательных
+
+В **Fate Condensed**, да и в Fate в целом, все рейтинги организованы в лестницу прилагательных, показанную здесь.
+
+| РЕЙТИНГ | ПРИЛАГАТЕЛЬНОЕ |
+| --- | --- |
+| **+8** | **Легендарный** |
+| **+7** | **Эпический** |
+| **+6** | **Фантастический** |
+| **+5** | **Великолепный** |
+| **+4** | **Отличный** |
+| **+3** | **Хороший** |
+| **+2** | **Неплохой** |
+| **+1** | **Средний** |
+| **+0** | **Посредственный** |
+| **\-1** | **Плохой** |
+| **\-2** | **Ужасный** |
+| **\-3** | **Катастрофичный** |
+| **\-4** | **Кошмарный** |
+
+##### Список навыков
+
+Описания этих навыков приведены ниже.
+
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- | 
+| **Академика** | **Ремесла** | **Драка** | **Телосложение** | **Стрельба** |
+| **Атлетика** | **Обман** | **Расследование** | **Провокация** | **Скрытность** |
+| **Взлом** | **Вождение** | **Знания** | **Взаимопонимание** | **Воля** |
+| **Контакты** | **Эмпатия** | **Внимательность** | **Ресурсы** |     |
+
+**Академика**: Мирские, повседневные человеческие знания и образование,
+включая историю, науки и медицину. Академические трюки часто относятся к
+специализированным областям знаний и медицинских навыков.
+
+**Атлетика**: Измерение физического потенциала. Атлетические трюки
+сосредоточены на движении - беге, прыжках, паркуре - и уклонении от
+атак.
+
+**Взлом**: Знание и умение обходить охранные системы, обчищать карманы и
+вообще совершать преступления. Трюки взлома дают бонусы к различным
+этапам совершения преступления, от планирования до исполнения и побега.
+
+**Контакты**: Знакомство с нужными людьми и связи, которые могут вам
+помочь. Контакты дают вам готовых союзников и информационную сеть в
+любой точке мира.
+
+**Ремесла**: Способность создавать или ломать механизмы, собирать
+устройства и совершать изобретательские подвиги в стиле Макгайвера.
+Трюки ремесла позволяют иметь под рукой нужную штуковину, дают бонусы к
+созданию и поломке вещей, а также оправдывают использование ремесла
+вместо таких навыков, как Взлом или Академика, при определенных
+обстоятельствах.
+
+**Обман**: Способность убедительно и с блеском лгать и обманывать. Трюки
+Обмана могут улучшить вашу способность лгать в определенных ситуациях
+или помочь придумать фальшивые личности.
+
+**Вождение**: Управление транспортным средством в самых сложных
+условиях, выполнение хитроумных маневров и просто получение
+максимального удовольствия от езды. Трюки Вождения могут быть фирменными
+маневрами, собственным специфическим транспортным средством или
+возможностью использовать Вождение вместо навыка, такого как Взлом или
+Академика, при определенных обстоятельствах.
+
+**Эмпатия**: Способность точно оценивать настроение и намерения
+человека. Трюки Эмпатии могут быть связаны с оценкой заведённости толпы,
+распознаванием лжи или помощью другим людям в восстановлении после
+ментальных последствий.
+
+**Драка**: Способность лучше сражаться в рукопашном бою, будь то с
+оружием или кулаками. Трюки Драки включают фирменное оружие и
+специальные приемы.
+
+**Расследование**: Преднамеренное, тщательное изучение и разгадывание
+тайн. Используйте этот навык, чтобы собрать воедино улики или
+реконструировать место преступления. Трюки расследования помогут вам
+сделать блестящие выводы или быстрее собрать информацию воедино.
+
+**Знания**: специализированные, тайные знания, выходящие за рамки
+академических, включая сверхъестественные тематики того или иного рода.
+Именно здесь происходят странные вещи. Трюки Знания часто поддерживают
+практическое применение ваших оккультных знаний, например, наложение
+заклинаний. В некоторых условиях навык Знания может быть удален, заменен
+другим навыком или объединен с Академикой.
+
+**Внимательность**: Способность улавливать детали в нужный момент,
+замечать неприятности до того, как они произойдут, и вообще быть
+проницательным. Внимательность противопоставляется Расследованию,
+которое предназначено для медленного, обдуманного наблюдения. Трюки
+Внимательности обостряют ваши чувства, улучшают реакцию или делают так,
+чтобы к вам было сложнее подкрасться.
+
+**Телосложение**: Грубая сила и выносливость. Трюки Телосложения
+позволяют вам совершать сверхчеловеческие подвиги силы, перебрасывать
+свой вес во время борьбы и избавляться от физических последствий. Кроме
+того, высокий рейтинг Телосложения дает вам больше слотов для
+физического стресса или последствий (стр. 12).
+
+**Провокация**: Способность подталкивать людей действовать так, как вы
+хотите. Это грубое и манипулятивное, а не позитивное взаимодействие.
+Провокационные трюки позволяют подтолкнуть противников к безрассудным
+действиям, вызвать агрессию по отношению к вам или напугать врагов (при
+условии, что они могут чувствовать страх).
+
+**Взаимопонимание**: Установление связей с другими людьми и совместная
+работа. Если Провокация — это манипуляция, то Взаимопонимание — это
+искренность, доверие и доброжелательность. Трюки Взаимопонимания
+позволят вам повлиять на толпу, улучшить отношения или наладить
+контакты.
+
+**Ресурсы**: Доступ к материальным вещам, а не только к деньгам или
+прямому владению ими. Это может отражать вашу способность занимать у
+друзей или использовать арсенал организации. Трюки Ресурсов позволяют
+использовать Ресурсы вместо Взаимопонимания или Контактов, или дают вам
+дополнительные бесплатные призывы, когда вы платите за лучшее.
+
+**Стрельба**: Все виды дальнего боя, будь то огнестрельное оружие,
+метательные ножи или лук и стрелы. Трюки стрельбы позволят вам делать
+выстрелы «на звук», быстро перезаряжать оружие или всегда иметь его под
+рукой.
+
+**Скрытность**: оставаться незамеченным или неслышимым и убегать, когда
+нужно спрятаться. Трюки Скрытности позволяют исчезнуть с глаз долой,
+раствориться в толпе или незаметно продвигаться сквозь тени.
+
+**Воля**: Ментальная стойкость, способность преодолевать искушения и
+противостоять последствиям. Трюки воли позволяют вам игнорировать
+ментальные последствия, выдерживать ментальные муки, вызванные
+сверхъестественными силами и стойко противостоять врагам, которые вас
+провоцируют. Кроме того, высокий рейтинг Воли дает вам больше слотов для
+ментального стресса или последствий (стр. 12).
+
+##### Альтернативные списки навыков
+
+Приведенный выше список навыков является примером того, как навыки могут
+работать в Fate, и не предназначен для того, чтобы быть "официальным"
+списком навыков, который должен использоваться каждый раз, когда вы
+играете. Совершенно нормально, если вы захотите его использовать, и
+совершенно нормально, если нет. Любой навык может охватывать разные
+сферы деятельности в разных условиях. В этом и есть смысл: подгоните
+свой список под ту историю, которую вы хотите увидеть.
+
+Поэтому, учитывая это, когда вы создаете свою собственную реализацию
+Fate, **первое, о чем стоит подумать, это о том, будете ли вы сохранять
+один и тот же список навыков**. Часто вы можете работать с тем, что
+есть, комбинируя, изменяя или разделяя некоторые из данных навыков. Но,
+возможно, что детализация в приведенном нами выше примере списка навыков
+по умолчанию вам не нравится.
+
+Вот некоторые моменты, над которыми стоит подумать.
+
+- В списке по умолчанию 19 навыков, и игроки оценивают навыки своих
+  персонажей выше <u>Посредственного</u> (+0) в 10 из них. Если вы
+  измените количество навыков, вы, возможно, захотите изменить способ
+  распределения рейтингов.
+
+- Наши навыки по умолчанию направлены на ответ на вопрос "Что вы можете
+  сделать?", но ваш список не обязательно должен соответствовать этому.
+  Возможно, вам нужен список, сфокусированный на вопросе "Во что вы
+  верите?", на вопросе "Как вы поступаете?". (как в случае с подходами в
+  **Fate** **Accelerated**), должностных обязанностях в команде
+  мошенников и воров и так далее.
+
+- Рейтинги навыков в Fate структурированы таким образом, чтобы
+  образовывать «фундамент» персонажей. Вот почему по умолчанию игроки
+  начинают с "пирамиды". Убедитесь, что отсутствие «провалов» в
+  «фундаменте» возможно в любом новом списке, который вы создаете.
+
+- Лучший начальный навык должен быть примерно на уровне <u>Отличного</u>
+  (+4). Вы можете изменять это значение в большую или меньшую сторону по
+  своему усмотрению, но обязательно следите за тем, что это означает для
+  сложности и рейтинга навыков противников, с которыми столкнутся ваши
+  персонажи.
+
+> Фред решает, что хочет сделать космическую игру Fate с более коротким списком навыков, сфокусированным на словах-действиях. Он останавливается на этом списке навыков из 9 пунктов: **Драка**, **Знания**, **Подвижность**, **Расследование**, **Пилотирование**, **Проникновение**, **Выступление**, **Ремонт** и **Воля**. 
+
+> Ему также нравится идея "бриллиантовой" формы для рейтинга навыков, а не пирамиды, поэтому он предлагает игрокам оценивать свои начальные навыки следующим образом: 1 - Отличный (+4), 2 - Хороших (+3), 3 - Неплохих (+2), 2 - Средних (+1) и 1 - Посредственный (+0). 
+
+> Персонажи его игроков будут иметь много пересечений и ключевых компетенций из-за толстого «фундамента» в середине его алмаза, но при этом будут отличаться отсутствием «провалов» в верхней части "острия" алмаза.
+
+Если вы собираетесь составить собственный список навыков для своей игры
+и ищете несколько идей, чтобы дать толчок своему воображению, см. стр.
+46.
+
+#### Обновление
+
+Ваше **обновление** — это минимальное количество **жетонов** **судьбы**
+(стр. 24), с которым ваш персонаж начинает в каждой сессии. Ваш персонаж
+начинает с обновлением = 3.
+
+Каждую сессию вы начинаете с количеством жетонов судьбы, по крайней
+мере, равным вашему обновлению. Обязательно следите за тем, сколько
+жетонов судьбы у вас осталось в конце каждой сессии игры - если у вас
+больше жетонов судьбы, чем ваше обновление, следующую сессию вы начнете
+с теми жетонами судьбы, с которыми закончили эту сессию.
+
+> Чарльз заработал много жетонов судьбы во время сегодняшней сессии,
+закончив ее с 5 жетонами судьбы. Его обновление равно 2, поэтому Чарльз
+начнет следующую сессию с 5 жетонами судьбы. Но Итан заканчивает ту же
+сессию с одним жетоном судьбы. Его обновление равно 3, поэтому он начнет
+следующую сессию с 3 жетонами судьбы, а не с теми, которые у него
+остались.
+
+#### Трюки
+
+Хотя каждый персонаж имеет доступ ко всем навыкам - даже если у него
+Посредственные (+0) навыки, в большинстве из них -, ваш персонаж
+обладает некоторыми уникальными трюками.
+
+Трюки — это крутые приемы, фишки или снаряжение, которые делают вашего
+персонажа уникальным и интересным. Если навыки — это широкая компетенция
+персонажа, то трюки — это конкретные области мастерства; большинство из
+них дают вам бонус в определенных обстоятельствах или позволяют вам
+делать то, что другие персонажи просто не могут.
+
+Ваш персонаж начинает с трех свободных слотов для
+трюков. Вы не обязаны написать их все сразу, и можете заполнять их по
+мере игры. Вы можете приобрести больше трюков, потратив на каждый по 1
+обновлению, оставив минимум 1 обновление неприкосновенным.
+
+##### Как записывать трюки?
+
+При создании персонажа вы пишете свои собственные трюки. В целом,
+существует два типа трюков.
+
+**Трюки, дающие бонус**: Первый тип трюка **дает вам бонус +2** при
+использовании названного навыка в определенных ситуациях, обычно
+ограниченных конкретным видом действия (стр. 18) и типом обстоятельств
+повествования.
+
+Запишите этот вид трюка следующим образом:
+
+Поскольку я **\[опишите, как вы удивительны или обладаете крутым снаряжением\]**, я получаю +2, когда использую **\[выберите навык\]**, чтобы **\[выберите одно действие: преодолеваю, создаю преимущество, атакую, защищаюсь\]** при **\[опишите обстоятельства\].**
+
+**Пример трюка, дающего бонус**: поскольку я - **снайпер, прошедший
+военную подготовку**, я получаю +2, когда использую **"Стрельбу»** чтобы
+**атаковать**, при **условии, что я вижу цель через свой ПРИЦЕЛ.**
+
+**Трюки, меняющие правила**: Второй тип трюков **изменяет правила
+игры**. Это широкая категория, которая включает в себя, но не
+ограничивается, следующим:
+
+- **Поменять местами навыки, которые используются в той или иной
+  ситуации**. Например, исследователь может использовать **Академику**
+  для проведения ритуала, в то время как все остальные будут
+  использовать **Знания**.
+
+- **Использование действия с навыком, который обычно не используется с
+  ним**. Например, персонаж может использовать **Скрытность**, чтобы
+  ударить противника сзади из тени (что обычно является использованием
+  **Драки**).
+
+- **Предоставление персонажу другого вида бонуса к навыкам, который
+  примерно эквивалентен +2**. Например, когда искусный оратор создает
+  преимущество с помощью **Взаимопонимания**, он получает дополнительный
+  бесплатный призыв.
+
+- **Разрешение персонажу заявить о незначительном правдивом факте**.
+  Например, у **<u>Выживальщика</u>** всегда есть при себе предметы для
+  выживания, такие как спички, даже при маловероятных обстоятельствах.
+  Этот тип трюка устанавливает, что вам не нужно призывать детали сюжета
+  (стр. 24) для данного факта.
+
+- **Разрешение персонажу сделать исключение из определенных правил**.
+  Например, у персонажа может быть еще две ячейки стресса или еще один
+  слот легких последствий.
+
+Запишите этот вид трюка следующим образом:
+
+Поскольку я **\[опишите, как вы удивительны или имеете крутое снаряжение\]**, я могу **\[опишите ваш удивительный поступок\],** но только **\[описать обстоятельство или ограничение\].**
+
+> **Пример трюка, меняющего правила:** Поскольку я **не верю в магию**, я
+могу **игнорировать эффекты сверхъестественной способности**, но только
+**один раз за игровую сессию**.
+
+#### Стресс и последствия
+
+**Стресс и последствия** — это то, как ваш персонаж выдерживает
+ментальные и физические нагрузки в своих приключениях. Персонажи имеют
+как минимум три ячейки, по одному пункту в каждой, для физического
+стресса и как минимум три ячейки, по одному пункту в каждой, для
+ментального стресса. Они также получают по одному слоту для легких,
+средних и тяжелых последствий.
+
+Ваш рейтинг **Телосложения** влияет на то, сколько у вас всего ячеек
+физического стресса. То же самое касается **Воли** и ментального
+стресса. Обратитесь к следующей таблице:
+
+| **Телосложение/Воля** | **Физический/Ментальный Стресс** |
+| --- | --- | 
+| **Посредственный (+0)** | **\[1\]\[1\]\[1\]** |
+| **Средний (+1) или Неплохой (+2)** | **\[1\]\[1\]\[1\] \[1\]** |
+| **Хороший (+3) или Отличный (+4)** | **\[1\]\[1\]\[1\] \[1\]\[1\]\[1\]** |
+| **Великолепный (+5) и выше** | **\[1\]\[1\]\[1\] \[1\]\[1\]\[1\]** и второй слот для легкого физического или ментального последствия |
+
+Вы узнаете, как стресс и последствия работают во время игры в "Принятии
+урона". (стр. 34).
+
+##### Секундочку! Это не то, что я помню!
+
+В **Fate** **Condensed** мы используем только однопунктовые
+стресс-ячейки. В **Fate** **Core** **System** и **Fate** **Accelerated**
+используется серия ячеек с возрастающим значением (одна ячейка с 1
+пунктом, одна с 2 пунктами и т.д.). **Вы можете использовать этот стиль
+стресс-ячеек, если хотите**; для этой версии мы решили придерживаться
+однопунктовых ячеек, потому что это просто - при другом методе люди
+могут запутаться намного легче.
+
+Есть еще несколько аспектов этого стиля, которые следует иметь в виду.
+
+- Как вы увидите на странице 35, при использовании однопунктовых ячеек
+  вы можете отметить столько ячеек, сколько хотите, когда получаете удар
+  (в то же время, в стиле Fate Core с возрастающей стоимостью есть
+  оговорка "вы можете отметить только одну ячейку за удар").
+
+- Этот стиль соответствует концепции Fate Core об отдельных шкалах
+  физического и ментального стресса, а не об одной единой шкале, как в
+  Fate Accelerated. Если вы склоняетесь к единой шкале, добавьте еще три
+  поля, чтобы компенсировать разницу, и используйте более высокие
+  показатели Телосложения или Воли, чтобы удлинить шкалу, в соответствии
+  с указаниями.
+
+- Три ячейки поглощения стресса на одной шкале — это не так уж и много!
+  Если в игре персонажи чувствуют себя хрупкими, подумайте о том, чтобы
+  добавить одну или две ячейки к количеству по умолчанию. Все дело в
+  том, насколько быстро наступают последствия. (В старом стиле шкала
+  **\[1\]\[2**\]поглощает от 2 до 3 пунктов стресса, **\[1\]\[2\]\[3\]**
+  = от 3 до 6, **\[1\]\[2\]\[3\]\[4\]** = от 4 до 10).
+
+#### Завершающие штрихи
+
+Дайте своему персонажу имя и описание, а также обсудите его историю с
+другими игроками. Если вы еще не написали аспект отношений, сделайте это сейчас.
 
 ## Taking Action, Rolling the Dice
 
@@ -1581,7 +1608,7 @@ interrogations, and eldritch assaults upon the mind.
 
 #### Taking Harm
 
-[]{#_idTextAnchor020}When an attack is successful, the defender must
+When an attack is successful, the defender must
 absorb the hit, which has shifts equal to the difference between the
 attack's effort and defense's effort.
 
@@ -1783,146 +1810,130 @@ consequence.
 - **Severe** consequences only clear when you reach a major milestone
   (**page XX**) after treatment.
 
-## Advancement
+## Развитие
 
-As your characters muck about in the storyline, they'll grow and change.
-At the end of each session you'll earn a **minor milestone**, which lets
-you move things around on your character sheet. As you conclude each arc
-of the story, you'll earn a **major milestone**, which lets you add
-things to your character sheet. (Learn more about sessions and arcs on
-**page XX**.)
+По мере прохождения сюжетной линии ваши персонажи будут расти и
+меняться. В конце каждой сессии вы будете получать **вехи**, которые
+позволят вам менять что-либо на листе персонажа. По завершении каждого
+этапа сюжета вы получите **прорыв**, который позволит вам добавить
+что-то на лист персонажа. (Подробнее о сессиях и арках на стр. 40).
 
-### Minor Milestones
+### Вехи
 
-Minor []{#_idTextAnchor025}milestones happen at the end of a session,
-part of the way through dealing with a story arc. They are focused on
-adjusting your character laterally rather than advancing the character.
-You may not wish to use a minor milestone, which is fine. It doesn't
-always make sense to change your character. The opportunity is there if
-you need it.
+Вехи происходят в конце сессии, либо на определенном этапе прохождения
+сюжетной арки. Они направлены скорее на корректировку персонажа в
+зависимости от ситуации, чем на его развитие. Возможно, вы не захотите
+использовать вехи, и это нормально. Не всегда есть смысл менять
+персонажа. Если вам нужно, то такая возможность есть.
 
-During a minor milestone, you can do one of the following:
+Во время прохождения вехи можно сделать одно из следующих действий:
 
-- Switch the ranks of any two skills, or replace one Average (+1) skill
-  with one that isn't on your sheet.
-- Rewrite one stunt.
-- Purchase a new stunt by spending 1 refresh. (Remember, you can't go
-  below 1 refresh.)
-- Rewrite any one of your aspects, except your high concept.
+- Поменять местами ранги любых двух навыков или заменить один
+  <u>Средний</u> (+1) навык на тот, которого нет в вашем листе.
 
-### Major Milestones
+- Переписать один трюк.
 
-Major milestones are more significant, letting your character actually
-grow in power. A major milestone lets you do one thing from the minor
-milestone list. On top of that, you do *all* of the following:
+- Приобретите новый трюк, потратив 1 обновление. (Помните, что ниже 1
+  обновления опускаться нельзя).
 
-- Rewrite your character's high concept, if you care to.
-- If you have any moderate or severe consequences not yet in recovery,
-  you can begin the recovery process and rename them. Any that were
-  already in recovery may now be cleared.
-- Increase the skill rating of one skill by one step---even from
-  Mediocre (+0) to Average (+1).
+- Перепишите любой из своих аспектов, кроме концепции.
 
-If the GM feels a major plot development has concluded and it's time for
-the characters to "power up," they may also offer one or both of the
-following:
+### Прорывы
 
-- Gain a point of refresh, which you can immediately spend to buy a new
-  stunt if you like.
-- Increase a second skill rating by one step.
+Прорывы более значимы, они позволяют персонажу действительно расти в
+силе. Прорыв позволяет выполнить одно действие из списка вех. Кроме
+того, вы выполняете <u>все</u> следующие действия:
 
-#### Improving Skill Ratings
+- Переписать концепцию персонажа, если вам это требуется.
 
-When improving a skill rating, you must maintain a "column" structure.
-Each step may not have more skills than the step below it. That may mean
-you need to promote a few Mediocre (+0) skills first---or, you may save
-up your skill points rather than spend them immediately, allowing big
-increases all at once.
+- Если у вас есть средние или тяжелые последствия, которые еще не
+  восстановлены, вы можете начать процесс восстановления и переименовать
+  их. Те последствия, которые уже находятся в процессе восстановления,
+  могут быть сняты.
 
-Ruth wants to increase her Lore from Average (+1) to Fair (+2), but this
-means she'd have four Fair (+2) skills and only three Average
-(+1)...that won't do. Luckily, she has saved a second skill point from
-an earlier milestone, so she also increases her Mediocre (+0) Empathy to
-Average (+1). Now she has one Great (+4), two Good (+3), four Fair (+2),
-and four Average (+1) skills.
+- Повысить рейтинг одного навыка на одну ступень - даже с
+  <u>Посредственного</u> (+0) до <u>Среднего</u> (+1).
 
-+--------+----------------------+
-| The pyramid                   |
-+--------+----------------------+
-| +4     | \[0\]                |
-+--------+----------------------+
-| +3     | \[0\]\[0\]           |
-+--------+----------------------+
-| +2     | \[0\]\[0\]\[0\]      |
-+--------+----------------------+
-| +1     | \[0\]\[0\]\[0\]\[0\] |
-+--------+----------------------+
+Если Ведущий считает, что развитие сюжета завершилось и персонажам пора
+"поднять силы", он также может предложить одно или оба следующих
+действия:
 
-+-------+----------------------+
-| Not Valid                    |
-+-------+----------------------+
-| +4    | \[0\]                |
-+-------+----------------------+
-| +3    | \[0\]\[0\]           |
-+-------+----------------------+
-| +2    | \[0\]\[0\]\[0\]\[0\] |
-+-------+----------------------+
-| +1    | \[0\]\[0\]\[0\]      |
-+-------+----------------------+
+- Получить очко обновления, которое можно сразу же потратить на покупку
+  нового трюка.
 
-+-----+----------------------+
-| Valid                      |
-+-----+----------------------+
-| +4  | \[0\]                |
-+-----+----------------------+
-| +3  | \[0\]\[0\]           |
-+-----+----------------------+
-| +2  | \[0\]\[0\]\[0\]\[0\] |
-+-----+----------------------+
-| +1  | \[0\]\[0\]\[0\]\[0\] |
-+-----+----------------------+
+- Повысить рейтинг еще одного навыка на одну ступень.
 
-+-------+-----------------+
-| also Valid              |
-+-------+-----------------+
-| +4    | \[0\]           |
-+-------+-----------------+
-| +3    | \[0\]\[0\]\[0\] |
-+-------+-----------------+
-| +2    | \[0\]\[0\]\[0\] |
-+-------+-----------------+
-| +1    | \[0\]\[0\]\[0\] |
-+-------+-----------------+
+#### Повышение рейтинга навыков
 
-### Sessions and Arcs
+При повышении рейтинга навыков необходимо придерживаться "колонной"
+структуры. На каждой ступени не может быть больше навыков, чем на
+ступени ниже. Это может означать, что сначала нужно повысить несколько
+<u>Посредственных</u> (+0) навыков, или же можно копить очки навыков, а
+не тратить их сразу, что позволит повысить их сразу.
 
-There are a few assumptions at play here where we talk about sessions
-and arcs. We'd like to shine some light on those assumptions so you can
-make adjustments based on how your game differs from them.
+> Рут хочет увеличить свой навык **Знание** со Среднего (+1) до Неплохого (+2), но это означает, что у нее будет четыре Неплохих (+2) навыка и только три Средних (+1) ... это не годится. К счастью, она сохранила второе очко навыка, полученное ранее, поэтому она также увеличивает свою Посредственную (+0) **Эмпатию** до Средней (+1). Теперь у нее есть одно Отличное (+4), два Хороших (+3), четыре Неплохих (+2) и четыре Средних (+1) умения.
 
-A **session** is a single session of play comprised of several scenes
-and a few hours of gameplay. Think of this as similar to a single
-episode of a television show. It likely falls into the three-to-four
-hour range.
+| **Пирамида** |     |
+| --- | --- |
+| **+4** | ◘   |
+| **+3** | ◘◘  |
+| **+2** | ◘◘◘ |
+| **+1** | ◘◘◘◘ |
 
-An **arc** is a series of sessions that often contain plot elements that
-carry over from session to session. Those plot elements don't have to
-conclude within an arc, but there are usually significant developments
-and changes that come about over the course of it. Think of this as
-similar to a third- or half-season of a television show. It's likely
-comprised of about four sessions of play.
+ 
+| **Неверно** |     |
+| --- | --- |
+| **+4** | ◘   |
+| **+3** | ◘◘  |
+| **+2** | ◘◘◘◘ |
+| **+1** | ◘◘◘ |
 
-If your gameplay falls outside of those "likely" ranges, you may want to
-change how some parts of the milestones work. If your arcs run more than
-four to six sessions of play, you may want to allow Severe consequences
-to clear after four sessions pass rather than waiting until the end of
-the arc. If you want advancement to happen more slowly, you might allow
-improvements like skill points and refresh gains less often. If your
-group tends to schedule fairly short sessions, you might not hit a minor
-milestone at the end of every session. Season to taste; the game is
-yours to shape!
+ 
+| **Верно** |     |
+| --- | --- |
+| **+4** | ◘   |
+| **+3** | ◘◘  |
+| **+2** | ◘◘◘◘ |
+| **+1** | ◘◘◘◘ |
 
-## Being the Game Master
+ 
+| **Тоже верно** |     |
+| --- | --- |
+| **+4** | ◘   |
+| **+3** | ◘◘◘ |
+| **+2** | ◘◘◘ |
+| **+1** | ◘◘◘ |
+
+### Сессии и Арки
+
+Когда мы говорим о сессиях и арках, мы делаем несколько допущений. Мы
+хотели бы пролить свет на эти допущения, чтобы вы могли внести
+коррективы в зависимости от того, насколько ваша игра отличается от них.
+
+**Сессия** — это один сеанс игры, состоящий из нескольких сцен и
+нескольких часов игрового процесса. Считайте, что это похоже на один
+эпизод телевизионного шоу. Скорее всего, она будет длиться от трех до
+четырех часов.
+
+**Арка** — это серия сессий, в которых часто присутствуют сюжетные
+элементы, переходящие из сессии в сессию. Эти сюжетные элементы не
+обязательно должны завершаться в рамках арки, но, как правило, за время
+ее действия происходят значительные события и изменения. Это можно
+сравнить с третью или половиной сезона телевизионного шоу. Скорее всего,
+он состоит примерно из четырех игровых сессий.
+
+Если ваш игровой процесс не укладывается в эти "вероятные" рамки,
+возможно, вам следует изменить принципы работы некоторых компонентов
+сюжета. Если ваша игровая арка длится более четырех-шести сессий,
+возможно, вам стоит разрешить устранять тяжелые последствия после
+четырех сессий, а не дожидаться конца арки. Если вы хотите, чтобы
+продвижение происходило медленнее, можно реже разрешать такие улучшения,
+как очки умений и обновление. Если ваша группа имеет тенденцию
+планировать довольно короткие сессии, вы можете не достигать важной вехи
+в конце каждой сессии. Выбирайте по своему вкусу, игра должна быть
+вашей!
+
+## Бытие Ведущего
 
 As the GM, you are the director of game sessions. Note that you are not
 the *boss.* *Fate Condensed* is collaborative, and the players have say
@@ -2242,7 +2253,7 @@ reveal their knowledge of it in the moment. Similarly, aspects and
 stunts can be filled in when the circumstances that call for them, right
 in the moment a fate point is spent or a bonus claimed.
 
-### []{#_idTextAnchor027}Countdowns {#-a-id-_idtextanchor027-a-countdowns}
+### Countdowns
 
 A countdown adds urgency to an adversary or situation: deal with it now
 or things will get worse. Whether you're talking about a ticking bomb, a
@@ -2806,44 +2817,33 @@ them or without, the system is still Fate Core at the end of the day. We
 feel Condensed is an improvement for sure, but there are no edition wars
 to be had here (and please don't try to start one). It's all Fate Core.
 
-### What Came Before
+### Что вышло раньше?
 
-Fate started as a hack of the Fudge system circa 2000, a culmination of
-a few fevered conversations Fred Hicks and Rob Donoghue had about what
-they might do to run another Amber game. The versions that arose between
-then and 2005 were free, digital, and released to the Fudge community
-online to a surprisingly enthusiastic reception. These spanned from
-"Fate Zero" up to Fate 2.0.
+Fate началась как хак на систему Fudge в 2000 году, что стало
+кульминацией нескольких горячих разговоров Фреда Хикса и Роба Донохью о
+том, что они могли бы сделать, чтобы запустить еще одну игру по Амберу.
+Версии, появившиеся между тем и 2005 годом, были бесплатными, цифровыми
+и выложены в сеть сообществом Fudge, получив неожиданно восторженный
+прием. Они охватывали период от "Fate Zero" до "Fate 2.0".
 
-Then, Jim Butcher offered them a chance to create an RPG based on the
-Dresden Files, triggering the establishment of Evil Hat as a company and
-a new take on the Fate system, first seen in *Spirit of the Century*
-(2006) and eventually The *Dresden Files RPG* (2010). The version of
-Fate found in both those (and thanks to open licensing, a number of
-others) was Fate 3.0.
+Затем Джим Батчер предложил Фреду и Робу создать ролевую игру по мотивам
+""Дрезденских файлов"", что послужило толчком к созданию компании Evil
+Hat и новой версии системы Fate, впервые появившейся в игре **Spirit of
+the Century** (2006) и, наконец, в **The Dresden Files RPG** (2010).
+Версией Fate, использованной в обеих этих играх (а благодаря открытому
+лицензированию - и в ряде других), была Fate 3.0.
 
-The effort to extract the system (by Leonard Balsera and Ryan Macklin)
-to present it on its own led to many improvements, and that gave us Fate
-Core.
+Усилия по извлечению системы (Леонардом Балсерой и Райаном Маклином) для
+представления ее в самостоятельном виде привели к многочисленным
+улучшениям, и в результате мы получили Fate Core.
 
-### Licensing
+## Лицензии и титры
 
-In one form or another, Fate has always been open-licensable. You can
-find details about licensing Fate for your projects at
-<http://www.faterpg.com/licensing>
-
-## Credits
-
-Fate Condensed ©2020 Evil Hat Productions, LLC.
+Fate Condensed © 2020 Evil Hat Productions, LLC.
 
 Refer to the licensing pages at
 [http://www.faterpg.com/licensing](http://www.faterpg.com/licensing/)
 for details.
-
-This is the System Reference Document for use with the Creative Commons
-Attribution Unported license. **The following attribution must be
-provided in your text, wherever you put your own copyright, in the same
-size as your copyright text:**
 
 This work is based on Fate Condensed (found at
 <http://www.faterpg.com/)>, a product of Evil Hat Productions, LLC,
@@ -2870,3 +2870,7 @@ originally devised by Leonard Balsera.
 Portions of this work are based on Fateful Concepts: Hacking Contests by
 Ryan Macklin, licensed for our use under the Creative Commons
 Attribution 3.0 Unported license.
+
+Перевод: **DanielFrei**
+
+Коррекция и правки: **М. Л.**
