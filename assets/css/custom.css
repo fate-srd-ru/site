@@ -1,11 +1,23 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
 .content {
-    font-family: "Nunito Sans", sans-serif;
-    font-size: 18px;
-    font-weight: 500;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-optical-sizing: auto;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: var(--hx-color-blue-900)!important;
+h1, h2, h3 {
+    font-family: "Inter", sans-serif;
+    font-weight: 800!important;
+    font-optical-sizing: auto;
+}
+
+h4, h5, h6 {
+    font-family: "Inter", sans-serif;
+    font-weight: 600!important;
+    font-optical-sizing: auto;
+}
+
+.content :where(p):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+   margin-top: calc(var(--hx-spacing)*4)!important;
 }
