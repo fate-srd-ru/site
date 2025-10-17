@@ -2,6 +2,8 @@
 title: 'Condensed'
 breadcrumbs: false
 ---
+> [!IMPORTANT]
+> Возможны неточности в форматировании, требует доработок.
 
 ## Вступление
 
@@ -3018,7 +3020,7 @@ and splits it into two conditions of half the value.
 последствия (или хуже) ничьей. Мы рекомендуем использовать диапазон от 0
 до 4, не более.
 
-## Лицензии и титры
+## Лицензии и атрибуция
 
 Fate Condensed © 2020 Evil Hat Productions, LLC.
 
