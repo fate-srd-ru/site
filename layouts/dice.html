@@ -1,0 +1,717 @@
+{{ define "main" }}
+  <div class='hx:mx-auto hx:flex hextra-max-page-width'>
+    {{ partial "sidebar.html" (dict "context" . "disableSidebar" false "displayPlaceholder" true) }}
+    {{ partial "toc.html" . }}
+    <article class="hx:w-full hx:break-words hx:flex hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:justify-center hx:pb-8 hx:pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+      <main class="hx:w-full hx:min-w-0 hx:max-w-6xl hx:px-6 hx:pt-4 hx:md:px-12">
+        <div class="container">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Spicy+Rice&family=Quintessential&family=Gloria+Hallelujah&family=Rubik+Glitch&family=Oi&display=swap" rel="stylesheet">
+        <style>
+        /* --- RESET & BASE --- */
+        * {
+            box-sizing: border-box;
+            border-radius: 0 !important; /* GLOBAL NO-ROUNDING RULE */
+        }
+
+        /* --- LAYOUT UTILS --- */
+        .container {
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        .flex-center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .flex-col {
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* --- HEADER & CONTROLS --- */
+        .controls-header {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        /* Chips (Mode Switcher) */
+        .mode-switcher {
+            display: flex;
+            gap: 15px;
+            width: 100%;
+            max-width: 400px; /* Limit maximum width */
+        }
+
+        /* Ensure labels expand equally */
+        .mode-switcher label {
+            flex: 1;
+            display: flex;
+        }
+
+        .chip-input {
+            display: none;
+        }
+
+        .chip-label {
+            width: 100%;
+            padding: 10px 0; /* Vertical padding only */
+            border: 2px solid #000;
+            /* border-radius removed by global reset */
+            font-weight: bold;
+            cursor: pointer;
+            background: #fff;
+            transition: all 0.2s;
+            font-size: 14px;
+            text-transform: uppercase;
+            user-select: none;
+
+            /* Centering */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        .chip-input:checked + .chip-label {
+            background: #000;
+            color: #fff;
+            transform: translateY(1px);
+        }
+
+        /* Font/Theme Switcher */
+        .font-switcher {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .font-btn {
+            padding: 10px 0; /* Vertical padding only */
+            border: 2px solid #000;
+            background: #fff;
+            padding: 5px 10px;
+            font-size: 14px;
+            font-weight: bold;
+            text-transform: uppercase;
+            cursor: pointer;
+            /* border-radius removed by global reset */
+            transition: 0.2s;
+        }
+
+        .font-btn:hover {
+            border-color: #000;
+        }
+
+        .font-btn.active {
+            background: #000;
+            color: #fff;
+            border-color: #000;
+        }
+
+        /* --- DICE COMPONENT --- */
+        .dice-grid {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        /* Specific grid for competition (2x2) */
+        .dice-grid.grid-2x2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            width: fit-content;
+            margin: 0 auto 20px auto;
+        }
+
+        .die-wrapper {
+            width: 60px;
+            height: 60px;
+            position: relative;
+        }
+
+        .die-shadow {
+            position: absolute;
+            top: 4px;
+            left: 4px;
+            width: 100%;
+            height: 100%;
+            background-color: #000;
+            /* border-radius removed by global reset */
+            z-index: 0;
+        }
+
+        .die-face {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #fff;
+            border: 2px solid #000;
+            /* border-radius removed by global reset */
+            z-index: 1;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 36px;
+            line-height: 1;
+            user-select: none;
+            transition: transform 0.1s;
+        }
+
+        /* Dice Colors */
+        .die-face.red-tint { background-color: #FF304F; color: #fff;}
+        .die-face.blue-tint { background-color: #118DF0; color: #fff;}
+
+        /* Font Themes Classes */
+        .theme-classic { font-family: 'Quintessential'; font-size: 48px; padding-bottom: 8px }
+        .theme-fantasy { font-family: 'Spicy Rice'; font-size: 48px; }
+        .theme-scifi   { font-family: 'Rubik Glitch', sans-serif; font-size: 36px; padding-bottom: 8px }
+        .theme-retro   { font-family: 'Oi'; font-size: 36px;  padding-top: 4px }
+        .theme-hand    { font-family: 'Gloria Hallelujah'; font-weight: bold; padding-bottom: 8px }
+
+        /* Animation */
+        @keyframes shake {
+            0% { transform: translate(1px, 1px) rotate(0deg); }
+            10% { transform: translate(-1px, -2px) rotate(-1deg); }
+            20% { transform: translate(-3px, 0px) rotate(1deg); }
+            30% { transform: translate(3px, 2px) rotate(0deg); }
+            40% { transform: translate(1px, -1px) rotate(1deg); }
+            50% { transform: translate(-1px, 2px) rotate(-1deg); }
+            60% { transform: translate(-3px, 1px) rotate(0deg); }
+            70% { transform: translate(3px, 1px) rotate(-1deg); }
+            80% { transform: translate(-1px, -1px) rotate(1deg); }
+            90% { transform: translate(1px, 2px) rotate(0deg); }
+            100% { transform: translate(1px, -2px) rotate(-1deg); }
+        }
+
+        .rolling .die-face {
+            animation: shake 0.5s infinite;
+        }
+
+        /* --- CARDS & PANELS --- */
+        .panel {
+            border: 2px solid #000;
+            /* border-radius removed by global reset */
+            padding: 20px;
+            margin-bottom: 30px;
+            background: #fff;
+            position: relative;
+            box-shadow: 6px 6px 0px 0px rgba(0,0,0,1);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+
+        .panel-red {
+            box-shadow: 6px 6px 0px 0px rgba(255, 200, 200, 1);
+        }
+
+        .panel-blue {
+            box-shadow: 6px 6px 0px 0px rgba(200, 200, 255, 1);
+        }
+
+        .panel-title {
+            font-size: 18px;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-bottom: 2px solid #000;
+            width: 100%;
+            text-align: center;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            letter-spacing: 2px;
+        }
+
+        .title-red { color: #d32f2f; }
+        .title-blue { color: #1976d2; }
+
+        /* --- RESULTS --- */
+        .result-display {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .result-value {
+            font-size: 48px;
+            font-weight: bold;
+        }
+
+        .result-label {
+            font-size: 14px;
+            text-transform: uppercase;
+            margin-top: 5px;
+            font-weight: bold;
+        }
+
+        /* --- BUTTONS --- */
+        .btn-group {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .btn-3d {
+            position: relative;
+            background: none;
+            border: none;
+            padding: 0;
+            cursor: pointer;
+            width: 120px;
+            height: 45px;
+        }
+
+        .btn-shadow {
+            position: absolute;
+            top: 4px;
+            left: 4px;
+            width: 100%;
+            height: 100%;
+            background-color: #000;
+            /* border-radius removed by global reset */
+        }
+
+        .btn-face {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            background-color: #fff;
+            border: 2px solid #000;
+            /* border-radius removed by global reset */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+            text-transform: uppercase;
+            font-family: inherit;
+            font-size: 14px;
+            transition: transform 0.1s;
+        }
+
+        .btn-3d:active .btn-face {
+            transform: translate(4px, 4px);
+        }
+
+        /* --- COMPETITION LAYOUT --- */
+        .competition-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            width: 100%;
+        }
+
+        @media (max-width: 600px) {
+            .competition-container {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .vs-banner {
+            border: 2px solid #000;
+            padding: 15px;
+            text-align: center;
+            margin-bottom: 20px;
+            background: #f9f9f9;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 4px 4px 0px 0px rgba(0,0,0,1);
+        }
+
+        .vs-win-red { background-color: #fff0f0; }
+        .vs-win-blue { background-color: #f0f0ff; }
+
+        /* --- HISTORY --- */
+        .history-container {
+            margin-top: auto;
+            border-top: 2px solid #000;
+            padding-top: 20px;
+            width: 100%;
+        }
+
+        .history-title {
+            font-size: 12px;
+            text-transform: uppercase;
+            color: #666;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+            font-weight: bold;
+        }
+
+        .history-log {
+            max-height: 150px;
+            overflow-y: auto;
+            font-size: 13px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .log-item {
+            border-bottom: 1px dashed #ddd;
+            padding-bottom: 4px;
+            display: flex;
+            gap: 8px;
+        }
+
+        .log-time { color: #999; font-weight: bold; }
+        .log-tag {
+            background: #000;
+            color: #fff;
+            padding: 0 4px;
+            /* border-radius removed by global reset */
+            font-size: 10px;
+            height: fit-content;
+            align-self: center;
+        }
+        .log-tag.vs { background: #666; }
+
+        /* Scrollbar styling */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #000; }
+
+    </style>
+        <!-- Header Controls -->
+        <div class="controls-header">
+            <!-- Mode Switcher -->
+            <div class="mode-switcher">
+                <label>
+                    <input type="radio" name="mode" value="normal" class="chip-input" checked onchange="app.switchMode('normal')">
+                    <span class="chip-label">Обычный</span>
+                </label>
+                <label>
+                    <input type="radio" name="mode" value="competition" class="chip-input" onchange="app.switchMode('competition')">
+                    <span class="chip-label">Соревнование</span>
+                </label>
+            </div>
+
+            <!-- Font Switcher -->
+            <div class="font-switcher">
+                <button class="font-btn active" onclick="app.setTheme('theme-classic', this)">Классика</button>
+                <button class="font-btn" onclick="app.setTheme('theme-fantasy', this)">Фэнтези</button>
+                <button class="font-btn" onclick="app.setTheme('theme-scifi', this)">Sci-Fi</button>
+                <button class="font-btn" onclick="app.setTheme('theme-retro', this)">Ретро</button>
+                <button class="font-btn" onclick="app.setTheme('theme-hand', this)">Ручные</button>
+            </div>
+        </div>
+
+        <!-- NORMAL MODE -->
+        <div id="view-normal" class="flex-center flex-col" style="width: 100%;">
+            <div class="panel" style="max-width: 500px;">
+                <!-- Dice -->
+                <div class="dice-grid grid-2x2" id="dice-normal"></div>
+
+                <!-- Result -->
+                <div class="result-display">
+                    <div class="result-label">Результат</div>
+                    <div id="res-normal" class="result-value">0</div>
+                    <div id="ladder-normal" class="result-label" style="color: #666;">Mediocre</div>
+                </div>
+
+                <!-- Buttons -->
+                <div class="btn-group">
+                    <button class="btn-3d" onclick="app.roll('normal')">
+                        <div class="btn-shadow"></div>
+                        <div class="btn-face">Бросок</div>
+                    </button>
+                    <button class="btn-3d" onclick="app.addModifier('normal')">
+                        <div class="btn-shadow"></div>
+                        <div class="btn-face">+2 Бонус</div>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- COMPETITION MODE -->
+        <div id="view-competition" class="hidden flex-col" style="width: 100%;">
+
+            <!-- Result Banner -->
+            <div id="vs-banner" class="vs-banner hidden">
+                ...
+            </div>
+
+            <div class="competition-container">
+                <!-- Red Team -->
+                <div class="panel panel-red">
+                    <div class="panel-title title-red">Красные</div>
+                    <div class="dice-grid grid-2x2" id="dice-red"></div>
+
+                    <div class="result-display">
+                        <div id="res-red" class="result-value">0</div>
+                    </div>
+
+                    <div class="btn-group">
+                        <button class="btn-3d" onclick="app.roll('red')">
+                            <div class="btn-shadow"></div>
+                            <div class="btn-face">Бросок</div>
+                        </button>
+                        <button class="btn-3d" onclick="app.addModifier('red')">
+                            <div class="btn-shadow"></div>
+                            <div class="btn-face">+2</div>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Blue Team -->
+                <div class="panel panel-blue">
+                    <div class="panel-title title-blue">Синие</div>
+                    <div class="dice-grid grid-2x2" id="dice-blue"></div>
+
+                    <div class="result-display">
+                        <div id="res-blue" class="result-value">0</div>
+                    </div>
+
+                    <div class="btn-group">
+                        <button class="btn-3d" onclick="app.roll('blue')">
+                            <div class="btn-shadow"></div>
+                            <div class="btn-face">Бросок</div>
+                        </button>
+                        <button class="btn-3d" onclick="app.addModifier('blue')">
+                            <div class="btn-shadow"></div>
+                            <div class="btn-face">+2</div>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- History -->
+        <div class="history-container">
+            <div class="history-title">История бросков</div>
+            <div id="history-log" class="history-log">
+                <div class="log-item" style="color: #ccc; justify-content: center;">История пуста</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const app = (function() {
+
+            // Constants
+            const LADDER = {
+                8: 'Легендарный', 7: 'Эпический', 6: 'Фантастический', 5: 'Великолепный',
+                4: 'Отличный', 3: 'Хороший', 2: 'Неплохой', 1: 'Средний',
+                0: 'Посредственный', '-1': 'Плохой', '-2': 'Ужасный'
+            };
+
+            // State
+            const state = {
+                theme: 'theme-classic',
+                normal: { values: [0,0,0,0], mod: 0, rolled: false },
+                red: { values: [0,0,0,0], mod: 0, rolled: false },
+                blue: { values: [0,0,0,0], mod: 0, rolled: false }
+            };
+
+            // Init
+            function init() {
+                renderDice('normal');
+                renderDice('red');
+                renderDice('blue');
+            }
+
+            // Helpers
+            function sum(arr) { return arr.reduce((a, b) => a + b, 0); }
+
+            function getSymbol(val) {
+                if (val === 1) return '+';
+                if (val === -1) return '−';
+                return '&nbsp;';
+            }
+
+            function getLadder(val) {
+                if (val >= 8) return 'Абсолютно легендарно';
+                if (val <= -2) return 'Хуже катастрофичного';
+                return LADDER[val];
+            }
+
+            // --- CORE FUNCTIONS ---
+
+            function setTheme(themeName, btnElement) {
+                state.theme = themeName;
+
+                // Update UI buttons
+                document.querySelectorAll('.font-btn').forEach(b => b.classList.remove('active'));
+                if(btnElement) btnElement.classList.add('active');
+
+                // Re-render all dice with new font
+                renderDice('normal');
+                renderDice('red');
+                renderDice('blue');
+            }
+
+            function switchMode(mode) {
+                const normalView = document.getElementById('view-normal');
+                const compView = document.getElementById('view-competition');
+                const banner = document.getElementById('vs-banner');
+
+                if (mode === 'normal') {
+                    normalView.classList.remove('hidden');
+                    compView.classList.add('hidden');
+                } else {
+                    normalView.classList.add('hidden');
+                    compView.classList.remove('hidden');
+                    banner.classList.add('hidden'); // Hide old results
+                }
+            }
+
+            function renderDice(type) {
+                const container = document.getElementById(`dice-${type}`);
+                const data = state[type];
+                let tintClass = '';
+                if (type === 'red') tintClass = 'red-tint';
+                if (type === 'blue') tintClass = 'blue-tint';
+
+                let html = '';
+                data.values.forEach(val => {
+                    html += `
+                        <div class="die-wrapper">
+                            <div class="die-shadow"></div>
+                            <div class="die-face ${state.theme} ${tintClass}">
+                                ${getSymbol(val)}
+                            </div>
+                        </div>
+                    `;
+                });
+                container.innerHTML = html;
+                updateResult(type);
+            }
+
+            function updateResult(type) {
+                const data = state[type];
+                const total = sum(data.values) + data.mod;
+                const el = document.getElementById(`res-${type}`);
+
+                let text = total > 0 ? `+${total}` : `${total}`;
+                if (data.mod !== 0) {
+                    text += ` <span style="font-size: 14px; color: #666; font-weight: normal;">(${sum(data.values)} + ${data.mod})</span>`;
+                }
+                el.innerHTML = text;
+
+                if (type === 'normal') {
+                    document.getElementById('ladder-normal').innerText = getLadder(total);
+                } else {
+                    checkVs();
+                }
+            }
+
+            function checkVs() {
+                if (!state.red.rolled || !state.blue.rolled) return;
+
+                const rScore = sum(state.red.values) + state.red.mod;
+                const bScore = sum(state.blue.values) + state.blue.mod;
+                const diff = Math.abs(rScore - bScore);
+                const banner = document.getElementById('vs-banner');
+
+                banner.classList.remove('hidden', 'vs-win-red', 'vs-win-blue');
+
+                if (rScore > bScore) {
+                    banner.innerHTML = `КРАСНЫЕ ПОБЕДИЛИ<br><span style="font-size:12px; font-weight:normal;">(разница: ${diff})</span>`;
+                    banner.classList.add('vs-win-red');
+                } else if (bScore > rScore) {
+                    banner.innerHTML = `СИНИЕ ПОБЕДИЛИ<br><span style="font-size:12px; font-weight:normal;">(разница: ${diff})</span>`;
+                    banner.classList.add('vs-win-blue');
+                } else {
+                    banner.innerHTML = `НИЧЬЯ`;
+                }
+            }
+
+            function log(mode, msg) {
+                const container = document.getElementById('history-log');
+                const div = document.createElement('div');
+                div.className = 'log-item';
+
+                const time = new Date().toLocaleTimeString('ru-RU', {hour:'2-digit', minute:'2-digit', second:'2-digit'});
+                const tag = mode === 'normal' ? 'Обычный' : 'VS';
+
+                div.innerHTML = `<span class="log-time">[${time}]</span> <span class="log-tag ${mode === 'competition' ? 'vs' : ''}">${tag}</span> <span>${msg}</span>`;
+
+                // Clear "empty" message
+                if(container.children.length > 0 && container.innerText.includes('История пуста')) {
+                    container.innerHTML = '';
+                }
+
+                container.prepend(div);
+            }
+
+            function roll(type) {
+                const container = document.getElementById(`dice-${type}`);
+                container.classList.add('rolling');
+
+                // Random rotation effect
+                const faces = container.querySelectorAll('.die-face');
+                faces.forEach(f => {
+                    const deg = Math.floor(Math.random() * 360);
+                    f.style.transform = `rotate(${deg}deg)`;
+                });
+
+                setTimeout(() => {
+                    container.classList.remove('rolling');
+                    faces.forEach(f => f.style.transform = 'none'); // reset rot
+
+                    // Logic
+                    state[type].values = Array.from({length: 4}, () => Math.floor(Math.random() * 3) - 1);
+                    state[type].mod = 0;
+                    state[type].rolled = true;
+
+                    renderDice(type);
+
+                    // Logging
+                    const s = sum(state[type].values);
+                    const label = type === 'normal' ? '' : (type === 'red' ? 'Красные: ' : 'Синие: ');
+                    log(type === 'normal' ? 'normal' : 'competition', `${label}Бросок ${s > 0 ? '+' : ''}${s}`);
+
+                }, 500);
+            }
+
+            function addModifier(type) {
+                if (!state[type].rolled) {
+                    alert('Сначала бросьте кубы');
+                    return;
+                }
+                state[type].mod += 2;
+                updateResult(type);
+
+                const label = type === 'normal' ? '' : (type === 'red' ? 'Красные: ' : 'Синие: ');
+                log(type === 'normal' ? 'normal' : 'competition', `${label}Бонус +2`);
+            }
+
+            // Export public methods
+            return {
+                init,
+                switchMode,
+                setTheme,
+                roll,
+                addModifier
+            };
+
+        })();
+
+        // Start
+        app.init();
+    </script>
+      </main>
+    </article>
+  </div>
+{{ end }}
