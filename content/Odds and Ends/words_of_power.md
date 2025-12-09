@@ -1,6 +1,7 @@
 ---
 title: "Words of Power (Expanded) — Слова Силы"
 breadcrumbs: false
+description: Магия слов. С книгами, палочками и всеми атрибутами.
 ---
 
 Это расширение официального дополнения «[Слова Силы](https://evilhat.com/wp-content/uploads/2022/04/Words-of-Power.pdf)», написанного Брайаном Энгардом и созданного для Джона Хойланда в рамках Kickstarter-кампании Fate Core.

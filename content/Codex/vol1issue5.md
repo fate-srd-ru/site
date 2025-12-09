@@ -1,6 +1,7 @@
 ---
 title: 'Volume 1 Issue 5'
 breadcrumbs: false
+description: 'Периодическое издание по Fate. Хаки, советы, интересности.'
 ---
 ## О выпуске
 

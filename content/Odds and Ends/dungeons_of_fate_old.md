@@ -1,6 +1,7 @@
 ---
 title: 'Dungeons of Fate — старая редакция (FAE)'
 breadcrumbs: false
+description: Дополнение на Fate Accelerated для лёгких фэнтезийных приключений.
 ---
 
 Хоумрул по исследованию фэнтезийных подземелий для Fate Accelerated от Майкла Э. Ши. Изначально опубликован 10 декабря 2013 года.
