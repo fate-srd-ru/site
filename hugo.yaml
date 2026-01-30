@@ -1,6 +1,6 @@
 baseURL: https://fate-srd-ru.github.io/site/
 languageCode: ru-ru
-title: SRD на русском
+title: FATE SRD на русском
 theme: hextra
 menu:
   main:
