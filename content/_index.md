@@ -56,6 +56,12 @@ Cправа сверху ссылка на организацию Fate SRD RU н
 
 {{< /details >}}
 
+## Дисклеймер
+
+> [!IMPORTANT]
+> Данный сайт — личный некоммерческий проект. Он не связан, не аффилирован и не одобрен какими-либо издательствами, правообладателями, фанатскими группами или сообществами настольных ролевых игр. 
+Цель проекта — предоставить всем желающим бесплатный доступ к правилам и материалам на русском языке в образовательных и информационных целях. Все представленные переводы размещены без цели извлечения прибыли. Если вы являетесь правообладателем и у вас есть вопросы или претензии, связанные с авторским правом, пожалуйста, направляйте их через GitHub. Как автор сайта, я не претендую на права на оригинальные произведения и готов удалить любой контент по **обоснованному** запросу правообладателя.
+
 ## Копирайты
 
 > This work is based on Fate Core System and Fate Accelerated Edition, products of Evil Hat Productions, LLC, developed, authored, and edited by Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under the Creative Commons Attribution 3.0 Unported license.
@@ -65,4 +71,3 @@ Cправа сверху ссылка на организацию Fate SRD RU н
 > The Fate Core font is © Evil Hat Productions, LLC and is used with permission. The Four Actions icons were designed by Jeremy Keller.
 
 > This work is based on Fate Condensed (found at https://www.faterpg.com/), a product of Evil Hat Productions, LLC, developed, authored, and edited by PK Sullivan, Lara Turner, Fred Hicks, Richard Bellingham, Robert Hanz, and Sophie Lagacé, and licensed for our use under the Creative Commons Attribution 3.0 Unported license.
-

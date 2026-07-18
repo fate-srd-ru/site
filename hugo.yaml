@@ -1,7 +1,6 @@
 baseURL: https://fate-srd-ru.github.io/site/
 languageCode: ru-ru
 title: FATE SRD на русском
-theme: hextra
 menu:
   main:
     - name: Search
@@ -24,3 +23,7 @@ params:
       link: /site/
       width: 80
       height: 40
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
